@@ -1,0 +1,322 @@
+# Portal Scanner Configuration — William León (QA/QC Engineer)
+# Used by /career-ops scan to discover new offers automatically.
+#
+# Strategy (3 levels):
+#   1. Playwright → careers_url of each company (real-time, reliable)
+#   2. Greenhouse API → structured JSON (fast, Greenhouse-only)
+#   3. WebSearch with site: filters (broad discovery, may be stale)
+
+# -- Title filter --
+# At least 1 positive must match AND 0 negatives must match (case-insensitive).
+
+title_filter:
+  positive:
+    # -- QA / QC core roles --
+    - "QA Engineer"
+    - "QC Engineer"
+    - "Quality Assurance"
+    - "Quality Control"
+    - "Quality Engineer"
+    - "QA Automation"
+    - "Test Automation"
+    - "Automation Engineer"
+    - "Automation Tester"
+    - "SDET"
+    - "Software Development Engineer in Test"
+    - "Software Developer in Test"
+    - "QA Lead"
+    - "QA Manager"
+    - "QA Analyst"
+    - "Test Engineer"
+    - "Test Lead"
+    - "Testing Engineer"
+    # -- Integration / Validation --
+    - "Integration Engineer"
+    - "Validation Engineer"
+    - "QC Integration"
+    - "QA Integration"
+    # -- Spanish-language equivalents --
+    - "Ingeniero QA"
+    - "Ingeniero de Calidad"
+    - "Automatización de Pruebas"
+    - "Tester"
+    - "Analista QA"
+  negative:
+    - "Junior"
+    - "Intern"
+    - "Entry Level"
+    - "Entry-Level"
+    - "Trainee"
+    - "iOS"
+    - "Android"
+    - "PHP"
+    - "Ruby"
+    - "Embedded"
+    - "Firmware"
+    - "FPGA"
+    - "ASIC"
+    - "Blockchain"
+    - "Web3"
+    - "Crypto"
+    - "SAP "
+    - "Mainframe"
+    - "COBOL"
+  seniority_boost:
+    - "Senior"
+    - "Staff"
+    - "Principal"
+    - "Lead"
+    - "Head"
+    - "Mid"
+    - "Middle"
+
+# -- Search queries --
+# Each query triggers a WebSearch. Use site: to filter by portal.
+
+search_queries:
+  # -- Ashby --
+  - name: Ashby — QA Automation Senior
+    query: 'site:jobs.ashbyhq.com "QA Engineer" OR "SDET" OR "Test Automation" OR "Automation Engineer" remote senior'
+    enabled: true
+
+  - name: Ashby — QC Integration
+    query: 'site:jobs.ashbyhq.com "QC Engineer" OR "Integration Engineer" OR "Validation Engineer" remote'
+    enabled: true
+
+  # -- Greenhouse --
+  - name: Greenhouse — QA Automation
+    query: 'site:boards.greenhouse.io OR site:job-boards.greenhouse.io "QA Engineer" OR "SDET" OR "Test Automation" remote senior'
+    enabled: true
+
+  - name: Greenhouse — QA Lead
+    query: 'site:boards.greenhouse.io OR site:job-boards.greenhouse.io "QA Lead" OR "QA Manager" OR "Quality Lead" remote'
+    enabled: true
+
+  - name: Greenhouse — QC Integration
+    query: 'site:boards.greenhouse.io OR site:job-boards.greenhouse.io "QC Engineer" OR "Integration Engineer" OR "Validation" biometric OR identity OR government'
+    enabled: true
+
+  # -- Lever --
+  - name: Lever — QA Senior Remote
+    query: 'site:jobs.lever.co "QA Engineer" OR "SDET" OR "Test Automation" OR "Automation Engineer" remote senior'
+    enabled: true
+
+  # -- Remote boards --
+  - name: RemoteOK — QA Senior
+    query: 'site:remoteok.com "QA Engineer" OR "SDET" OR "Test Automation" OR "Automation Engineer" senior'
+    enabled: true
+
+  - name: WeWorkRemotely — QA
+    query: 'site:weworkremotely.com "QA" OR "Quality Assurance" OR "Test Automation" OR "SDET" senior'
+    enabled: true
+
+  - name: Working Nomads — QA Remote
+    query: 'site:workingnomads.com "QA Engineer" OR "SDET" OR "Test Automation" senior remote'
+    enabled: true
+
+  - name: Himalayas — QA Remote
+    query: 'site:himalayas.app "QA Engineer" OR "SDET" OR "Test Automation" OR "Automation Engineer" senior remote'
+    enabled: true
+
+  - name: Remotive — QA Senior
+    query: 'site:remotive.com "QA" OR "Quality Assurance" OR "Test Automation" OR "SDET" senior remote'
+    enabled: true
+
+  # -- Latin America & Colombia --
+  - name: Computrabajo — QA Colombia
+    query: 'site:computrabajo.com.co "QA" OR "Quality Assurance" OR "Automatización" OR "SDET" remoto senior'
+    enabled: true
+
+  - name: LinkedIn — QA Remote Latam
+    query: '"QA Engineer" OR "SDET" OR "Test Automation" OR "Automation Engineer" remote Colombia OR Latam OR "Latin America" senior -junior'
+    enabled: true
+
+  - name: LinkedIn — QA Identity Biometric
+    query: '"QA Engineer" OR "QC Engineer" biometric OR "identity document" OR passport OR "national ID" remote -junior'
+    enabled: true
+
+  # -- YC / Startups --
+  - name: YC Jobs — QA/SDET
+    query: 'site:workatastartup.com "QA" OR "SDET" OR "Test Automation" OR "Automation Engineer" remote'
+    enabled: true
+
+  # -- General job boards --
+  - name: Indeed — QA Remote Senior
+    query: 'site:indeed.com "Senior QA Engineer" OR "SDET" OR "Senior Test Automation" remote -junior'
+    enabled: true
+
+# -- Tracked companies --
+# Companies whose career pages are checked directly.
+
+tracked_companies:
+
+  # == IDENTITY DOCUMENTS & BIOMETRIC SYSTEMS (William's specialty) ==
+
+  - name: IDEMIA
+    careers_url: https://www.idemia.com/careers
+    scan_method: websearch
+    scan_query: '"QA" OR "QC" OR "Test" OR "Quality" site:idemia.com/careers'
+    notes: "Global identity document and biometric systems. William worked here 2022-2024."
+    enabled: true
+
+  - name: Thales Group
+    careers_url: https://www.careers.thalesgroup.com
+    scan_method: websearch
+    scan_query: '"QA" OR "QC" OR "Test Automation" OR "Quality" site:careers.thalesgroup.com'
+    notes: "Defense/identity/biometric systems. William worked here 2018-2021."
+    enabled: true
+
+  - name: Indra
+    careers_url: https://jobs.indracompany.com/
+    scan_method: websearch
+    scan_query: '"QA" OR "QC" OR "Test" OR "Calidad" OR "Automatización" site:jobs.indracompany.com'
+    notes: "Spanish tech/government systems company with Colombia presence."
+    enabled: true
+
+  - name: INCM (Casa da Moeda de Portugal)
+    careers_url: https://www.incm.pt/portal/trabConnosco.action
+    scan_method: websearch
+    scan_query: '"QA" OR "QC" OR "Test" OR "Quality" "INCM" OR "Casa da Moeda" Colombia OR remote'
+    notes: "Portuguese mint managing a public document contract in Colombia (3GM). Identity documents sector."
+    enabled: true
+
+  - name: HID Global
+    careers_url: https://www.hidglobal.com/careers
+    scan_method: websearch
+    scan_query: '"QA" OR "QC" OR "Test Automation" OR "Quality Engineer" site:hidglobal.com/careers'
+    notes: "Physical and digital access control, identity documents."
+    enabled: true
+
+  - name: Veridos
+    careers_url: https://www.veridos.com/en/careers
+    scan_method: websearch
+    scan_query: '"QA" OR "QC" OR "Test" OR "Quality" site:veridos.com/en/careers'
+    notes: "German identity document solutions. Giesecke+Devrient / Bundesdruckerei JV."
+    enabled: true
+
+  - name: Entrust
+    careers_url: https://www.entrust.com/company/careers
+    scan_method: websearch
+    scan_query: '"QA" OR "QC" OR "Test Automation" OR "Quality Engineer" site:entrust.com/company/careers'
+    notes: "Identity, payments and data security."
+    enabled: true
+
+  # == NEARSHORE CONSULTING & TECH (Latam remote) ==
+
+  - name: Endava
+    careers_url: https://www.endava.com/en/careers
+    scan_method: websearch
+    scan_query: '"QA" OR "QC" OR "Test Automation" OR "SDET" OR "Quality Engineer" site:endava.com/en/careers'
+    notes: "UK nearshore IT services. Strong Latam presence. Remote-friendly."
+    enabled: true
+
+  - name: 4MTIC
+    careers_url: https://4mtic.com
+    scan_method: websearch
+    scan_query: '"QA" OR "QC" OR "Test" OR "Automatización" OR "Calidad" "4MTIC" Colombia'
+    notes: "Colombian IT/government tech company."
+    enabled: true
+
+  - name: Gorilla Logic
+    careers_url: https://gorillalogic.com/careers
+    scan_method: websearch
+    scan_query: '"QA" OR "SDET" OR "Test Automation" OR "Quality" site:gorillalogic.com/careers'
+    notes: "William's current employer (05/2025-present). Nearshore, LATAM remote."
+    enabled: false
+
+  # == BIG TECH (global remote QA roles) ==
+
+  - name: Google
+    careers_url: https://careers.google.com
+    scan_method: websearch
+    scan_query: '"QA Engineer" OR "SDET" OR "Test Engineer" OR "Software Engineer in Test" site:careers.google.com remote'
+    notes: "Includes YouTube engineering roles."
+    enabled: true
+
+  - name: Meta
+    careers_url: https://www.metacareers.com
+    scan_method: websearch
+    scan_query: '"QA" OR "SDET" OR "Test Engineer" OR "Quality Engineer" site:metacareers.com remote'
+    notes: "Facebook, Instagram, WhatsApp, Threads."
+    enabled: true
+
+  - name: Amazon
+    careers_url: https://www.amazon.jobs
+    scan_method: websearch
+    scan_query: '"QA Engineer" OR "SDET" OR "Test Engineer" OR "Quality Engineer" site:amazon.jobs remote'
+    notes: "Includes AWS, Alexa, Prime Video, and all Amazon subsidiaries."
+    enabled: true
+
+  - name: Netflix
+    careers_url: https://jobs.netflix.com
+    scan_method: websearch
+    scan_query: '"QA" OR "SDET" OR "Test Engineer" OR "Quality Engineer" site:jobs.netflix.com'
+    notes: "Highly competitive. Remote-friendly for senior roles."
+    enabled: true
+
+  - name: Tencent
+    careers_url: https://careers.tencent.com/en-us
+    scan_method: websearch
+    scan_query: '"QA" OR "QC" OR "Test Engineer" OR "Quality Engineer" site:careers.tencent.com remote'
+    notes: "Chinese tech giant. International roles in English available."
+    enabled: true
+
+  - name: Ping An Technology
+    careers_url: https://tech.pingan.com/en/about/join.html
+    scan_method: websearch
+    scan_query: '"QA" OR "QC" OR "Test Engineer" OR "Quality" "Ping An" remote international'
+    notes: "Ping An Technology division. International English-language roles."
+    enabled: true
+
+  # == API-SCANNABLE (Greenhouse / Ashby / Lever) ==
+  # These companies use supported ATS platforms — scan.mjs fetches them directly via API.
+
+  - name: Santex
+    careers_url: https://job-boards.greenhouse.io/santex
+    notes: "Nearshore software services, LATAM-friendly. Previously evaluated #003 (3.5/5)."
+    enabled: true
+
+  - name: Lifted
+    careers_url: https://job-boards.greenhouse.io/lifted
+    notes: "Contract roles, LATAM TZ. Previously evaluated #004 (3.8/5)."
+    enabled: true
+
+  - name: LumiMeds
+    careers_url: https://job-boards.greenhouse.io/lumimeds
+    notes: "AI-first QA roles. Previously evaluated #005 (3.0/5)."
+    enabled: true
+
+  - name: Launchpad Technologies
+    careers_url: https://job-boards.greenhouse.io/launchpadtechnologiesinc
+    notes: "Remote contractor roles. Previously evaluated #006 (2.0/5)."
+    enabled: true
+
+  - name: Deel
+    careers_url: https://jobs.ashbyhq.com/deel
+    notes: "HR/payroll platform. Strong LATAM presence. Previously evaluated #007 (4.2/5)."
+    enabled: true
+
+  - name: Truelogic
+    careers_url: https://jobs.ashbyhq.com/truelogic
+    notes: "Nearshore engineering, multiple verticals. Previously evaluated #008 (3.8/5) and #015 (3.5/5)."
+    enabled: true
+
+  - name: Machinify
+    careers_url: https://jobs.ashbyhq.com/machinify
+    notes: "AI/ML platform. Previously evaluated #009 (1.5/5)."
+    enabled: true
+
+  - name: RoomPriceGenie
+    careers_url: https://jobs.ashbyhq.com/roompricegenie
+    notes: "Hospitality SaaS. Previously evaluated #010 (4.0/5)."
+    enabled: true
+
+  - name: Jobgether
+    careers_url: https://jobs.lever.co/jobgether
+    notes: "Remote-first job platform. Previously evaluated #011 (N/A — liveness issue). Lever API times out consistently."
+    enabled: false
+
+  - name: TestGorilla
+    careers_url: https://jobs.ashbyhq.com/testgorilla
+    notes: "Pre-employment testing platform. Previously evaluated #012 (4.5/5). Ashby board returns 404 — may use a different ATS."
+    enabled: false
