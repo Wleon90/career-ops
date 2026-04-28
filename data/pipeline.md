@@ -5,6 +5,22 @@
 ---
 
 
+
+## Pendientes
+
+- [x] #022 | https://job-boards.greenhouse.io/hugeinc/jobs/7808557 | Huge | QA Lead | 3.6/5 | ✅
+- [x] #023 | https://jobs.lever.co/ciandt/2d45ebde-b03b-48ba-923d-b915c453d15e | CI&T | Senior QA Automation Analyst [Job 25847] | 4.1/5 | ✅
+- [x] #024 | https://jobs.lever.co/ciandt/7e5850c4-7315-4af0-be54-a5e76a661d40 | CI&T | Senior QA Automation [Job 25234] | 4.2/5 | ✅
+- [x] #025 | https://jobs.lever.co/ciandt/1875e2f6-6606-4c2b-828d-1aaa01e9be75 | CI&T | Senior QA Automation [Job 23863] | 4.0/5 | ✅
+- [x] #026 | https://jobs.lever.co/koombea/4551bbd0-125d-4a6d-9a9a-cbb5e62cb29c | Koombea | QA Engineer - Functional Testing | 3.0/5 | ✅
+- [x] #027 | https://jobs.lever.co/fullstacklabs/ec39a8f4-ec56-4ddc-8cdc-c1fbd6d25e1e | FullStack Labs | QA Engineer | 4.3/5 | ✅
+
+- [!] https://jobs.ashbyhq.com/truelogic/628e0c1a-f626-4def-9c8a-804af66eb98b | Truelogic | Senior QA Automation Engineer - IT Solutions — Error: removed from board before evaluation (filled fast)
+
+- [x] #019 | https://jobs.ashbyhq.com/truelogic/f16b8c6f-db20-4f7f-a0cf-a9b2115af6a0 | Truelogic | Senior QA Automation Engineer - IT Solutions | 3.5/5 | ✅
+- [x] #020 | https://job-boards.greenhouse.io/praxent/jobs/7498394003 | Praxent | LATAM Senior QA Automation Engineer | 4.0/5 | ✅
+- [x] #021 | https://job-boards.greenhouse.io/praxent/jobs/7689330003 | Praxent | LATAM Principal QA Automation Engineer | 2.2/5 | ❌
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
