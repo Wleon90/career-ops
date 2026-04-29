@@ -8,6 +8,9 @@
 
 ## Pendientes
 
+- [ ] https://job-boards.greenhouse.io/praxent/jobs/7646447003 | Praxent | LATAM Senior QA Automation Engineer | ⚠️ C#/.NET required — verify stack fit | Colombia listed
+- [ ] https://job-boards.greenhouse.io/santex/jobs/8480946002 | Santex | Senior Automation QA (Must: Playwright) | ⚠️ Argentina/Peru listed — verify Colombia eligibility
+
 - [x] #022 | https://job-boards.greenhouse.io/hugeinc/jobs/7808557 | Huge | QA Lead | 3.6/5 | ✅
 - [x] #023 | https://jobs.lever.co/ciandt/2d45ebde-b03b-48ba-923d-b915c453d15e | CI&T | Senior QA Automation Analyst [Job 25847] | 4.1/5 | ✅
 - [x] #024 | https://jobs.lever.co/ciandt/7e5850c4-7315-4af0-be54-a5e76a661d40 | CI&T | Senior QA Automation [Job 25234] | 4.2/5 | ✅
