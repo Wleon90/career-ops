@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 32 | 2026-04-29 | Backblaze | Sr. QA Automation Engineer | 3.8/5 | Evaluated | ✅ | [032](reports/032-backblaze-sr-qa-automation-2026-04-29.md) | Colombia + Argentina + Mexico listed. Playwright+Postman+TestRail match. Python gap (JS/TS alternative accepted). Apply with AI tooling framing. |
 | 31 | 2026-04-29 | Santex | Senior Automation QA (Must: Playwright) | 3.2/5 | Discarded | ❌ | [031](reports/031-santex-qa-playwright-2026-04-29.md) | Discarded 2026-04-29 — location pattern (Argentina/Peru, not Colombia). Verify form before reconsidering. |
 | 30 | 2026-04-29 | Praxent | LATAM Senior QA Automation Engineer (C#/.NET) | 2.2/5 | SKIP | ❌ | [030](reports/030-praxent-latam-senior-qa-csnet-2026-04-29.md) | C#/.NET required — same blocker as #021. Do not apply. |
 | 22 | 2026-04-28 | Huge | QA Lead | 3.6/5 | Discarded | ✅ | [022](reports/022-hugeinc-qa-lead-2026-04-28.md) | Discarded 2026-04-28 — mobile/Appium is a must-have, not in core stack. |

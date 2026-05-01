@@ -8,7 +8,7 @@
 
 ## Pendientes
 
-- [ ] https://job-boards.greenhouse.io/backblaze/jobs/5193435008 | Backblaze | Sr. QA Automation Engineer | Colombia + Argentina + Mexico listed ✅
+- [x] #032 | https://job-boards.greenhouse.io/backblaze/jobs/5193435008 | Backblaze | Sr. QA Automation Engineer | 3.8/5 | ✅
 
 - [x] #030 | https://job-boards.greenhouse.io/praxent/jobs/7646447003 | Praxent | LATAM Senior QA Automation Engineer (C#/.NET) | 2.2/5 | ❌
 - [x] #031 | https://job-boards.greenhouse.io/santex/jobs/8480946002 | Santex | Senior Automation QA (Must: Playwright) | 3.2/5 | ❌
