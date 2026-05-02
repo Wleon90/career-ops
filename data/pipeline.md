@@ -8,6 +8,15 @@
 
 ## Pendientes
 
+- [ ] https://himalayas.app/companies/blue-coding/jobs/senior-qa-automation-engineer-n | Blue Coding | Senior QA Automation Engineer
+- [ ] https://himalayas.app/companies/allshore-talent/jobs/qa-engineer-100-remote-latam-only | Allshore Talent | QA Engineer (100% Remote, LATAM Only)
+- [ ] https://jobs.lever.co/shyftlabs/db3c7a45-b114-48cc-8c3a-c1a8567eab9e | ShyftLabs | Senior QA Automation Engineer/SDET
+- [ ] https://jobs.ashbyhq.com/delos-data/8be17607-cd2b-4cff-9e96-9733ea9eceeb | Delos Data Inc | Software Development Engineer in Test - AI
+- [ ] https://job-boards.greenhouse.io/hugeinc/jobs/7662077 | Huge | Senior QA Analyst
+- [ ] https://remotive.com/remote/jobs/qa/senior-automation-qa-engineer-3835577 | Your Bourse | Senior Automation QA Engineer
+- [ ] https://remotive.com/remote/jobs/qa/senior-software-development-engineer-in-test-3873887 | Newfold Digital | Senior Software Development Engineer in Test
+- [ ] https://remotive.com/remote/jobs/qa/senior-qa-engineer-data-integrations-4408630 | Coursedog | Senior QA Engineer, Data Integrations
+
 - [x] #032 | https://job-boards.greenhouse.io/backblaze/jobs/5193435008 | Backblaze | Sr. QA Automation Engineer | 3.8/5 | ✅
 
 - [x] #030 | https://job-boards.greenhouse.io/praxent/jobs/7646447003 | Praxent | LATAM Senior QA Automation Engineer (C#/.NET) | 2.2/5 | ❌
