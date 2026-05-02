@@ -2,9 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
-| 33 | 2026-05-02 | Blue Coding | Senior QA Automation Engineer | 4.0/5 | Evaluated | ✅ | [033](reports/033-blue-coding-qa-automation-2026-05-02.md) | Apply -- full LATAM stack match (Playwright, Postman, TestRail, GitHub Actions, AI tools). Deadline Jun 21. |
+| 33 | 2026-05-02 | Blue Coding | Senior QA Automation Engineer | 4.0/5 | Applied | ✅ | [033](reports/033-blue-coding-qa-automation-2026-05-02.md) | Applied 2026-04-21. Awaiting response. |
 | 34 | 2026-05-02 | Huge | Senior QA Analyst | 3.0/5 | Evaluated | ❌ | [034](reports/034-huge-senior-qa-analyst-2026-05-02.md) | CMS gap (Sitecore/AEM not in stack). Salary expected in COP -- likely below target. Do not apply without clarification. |
-| 35 | 2026-05-02 | Coursedog | Senior QA Engineer Data Integrations | 3.8/5 | Evaluated | ✅ | [035](reports/035-coursedog-senior-qa-2026-05-02.md) | Worldwide remote, $80k-$90k base + variable. Strong data integrity match (IDEMIA/Leanware). Clarify contractor vs. employee before applying. |
+| 35 | 2026-05-02 | Coursedog | Senior QA Engineer Data Integrations | 3.8/5 | Discarded | ✅ | [035](reports/035-coursedog-senior-qa-2026-05-02.md) | Discarded 2026-05-02 — restricted to USA citizens. |
 | 32 | 2026-04-29 | Backblaze | Sr. QA Automation Engineer | 3.8/5 | Discarded | ✅ | [032](reports/032-backblaze-sr-qa-automation-2026-04-29.md) | Discarded 2026-04-29 — Python is primary required language, not in stack. |
 | 31 | 2026-04-29 | Santex | Senior Automation QA (Must: Playwright) | 3.2/5 | Discarded | ❌ | [031](reports/031-santex-qa-playwright-2026-04-29.md) | Discarded 2026-04-29 — location pattern (Argentina/Peru, not Colombia). Verify form before reconsidering. |
 | 30 | 2026-04-29 | Praxent | LATAM Senior QA Automation Engineer (C#/.NET) | 2.2/5 | SKIP | ❌ | [030](reports/030-praxent-latam-senior-qa-csnet-2026-04-29.md) | C#/.NET required — same blocker as #021. Do not apply. |
@@ -14,7 +14,7 @@
 | 27 | 2026-04-28 | FullStack Labs | QA Engineer | 4.3/5 | Discarded | ✅ | [027](reports/027-fullstacklabs-qa-engineer-2026-04-28.md) | Discarded 2026-04-29 — posting closed (404). |
 | 28 | 2026-04-28 | CI&T | Senior QA Automation [Job 25234] | 4.2/5 | Discarded | ✅ | [024](reports/024-ciandt-qa-automation-25234-2026-04-28.md) | Discarded 2026-04-29 — posting closed (404). |
 | 29 | 2026-04-28 | CI&T | Senior QA Automation [Job 23863] | 4.0/5 | Discarded | ✅ | [025](reports/025-ciandt-qa-automation-23863-2026-04-28.md) | Discarded 2026-04-29 — posting closed (not in Lever API). |
-| 20 | 2026-04-28 | Praxent | LATAM Senior QA Automation Engineer | 4.0/5 | Applied | ✅ | [020](reports/020-praxent-senior-qa-2026-04-28.md) | Applied 2026-04-28. Pipeline role -- ask about timeline in screen. Negotiate $3,500-$4,500/mo. |
+| 20 | 2026-04-28 | Praxent | LATAM Senior QA Automation Engineer | 4.0/5 | Interview | ✅ | [020](reports/020-praxent-senior-qa-2026-04-28.md) | Applied 2026-04-28. Round 2 (Technical) pending. Negotiate $3,500-$4,500/mo. |
 | 21 | 2026-04-28 | Praxent | LATAM Principal QA Automation Engineer | 2.2/5 | SKIP | ❌ | [021](reports/021-praxent-principal-qa-2026-04-28.md) | Hard blocker: C#/.NET required, not in stack. Do not apply. |
 | 19 | 2026-04-20 | Truelogic | Senior QA Automation Engineer - IT Solutions | 3.5/5 | Discarded | ✅ | [19](reports/019-truelogic-it-solutions-2026-04-20.md) | Not applied — application process requires too much automation work. |
 | 17 | 2026-04-15 | Truelogic | Quality Engineer (Open Application) | 2.5/5 | Evaluated | ❌ | [17](reports/017-truelogic-open-2026-04-15.md) | Open application — redundant with #008 and #015. Do not submit. |
