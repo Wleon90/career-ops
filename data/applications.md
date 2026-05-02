@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 33 | 2026-05-02 | Blue Coding | Senior QA Automation Engineer | 4.0/5 | Evaluated | ✅ | [033](reports/033-blue-coding-qa-automation-2026-05-02.md) | Apply -- full LATAM stack match (Playwright, Postman, TestRail, GitHub Actions, AI tools). Deadline Jun 21. |
+| 34 | 2026-05-02 | Huge | Senior QA Analyst | 3.0/5 | Evaluated | ❌ | [034](reports/034-huge-senior-qa-analyst-2026-05-02.md) | CMS gap (Sitecore/AEM not in stack). Salary expected in COP -- likely below target. Do not apply without clarification. |
+| 35 | 2026-05-02 | Coursedog | Senior QA Engineer Data Integrations | 3.8/5 | Evaluated | ✅ | [035](reports/035-coursedog-senior-qa-2026-05-02.md) | Worldwide remote, $80k-$90k base + variable. Strong data integrity match (IDEMIA/Leanware). Clarify contractor vs. employee before applying. |
 | 32 | 2026-04-29 | Backblaze | Sr. QA Automation Engineer | 3.8/5 | Discarded | ✅ | [032](reports/032-backblaze-sr-qa-automation-2026-04-29.md) | Discarded 2026-04-29 — Python is primary required language, not in stack. |
 | 31 | 2026-04-29 | Santex | Senior Automation QA (Must: Playwright) | 3.2/5 | Discarded | ❌ | [031](reports/031-santex-qa-playwright-2026-04-29.md) | Discarded 2026-04-29 — location pattern (Argentina/Peru, not Colombia). Verify form before reconsidering. |
 | 30 | 2026-04-29 | Praxent | LATAM Senior QA Automation Engineer (C#/.NET) | 2.2/5 | SKIP | ❌ | [030](reports/030-praxent-latam-senior-qa-csnet-2026-04-29.md) | C#/.NET required — same blocker as #021. Do not apply. |

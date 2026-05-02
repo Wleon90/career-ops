@@ -1,0 +1,32 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:api.lever.co)",
+      "WebFetch(domain:webcache.googleusercontent.com)",
+      "WebFetch(domain:www.linkedin.com)",
+      "WebFetch(domain:www.remoterocketship.com)",
+      "WebFetch(domain:startup.jobs)",
+      "WebFetch(domain:bebee.com)",
+      "Bash(node generate-pdf.mjs output/cv-william-leon-hugeinc-qa-lead-2026-04-28.html output/cv-william-leon-hugeinc-qa-lead-2026-04-28.pdf)",
+      "Bash(node generate-pdf.mjs output/cv-william-leon-ciandt-qa-automation-analyst-2026-04-28.html output/cv-william-leon-ciandt-qa-automation-analyst-2026-04-28.pdf)",
+      "Bash(node generate-pdf.mjs output/cv-william-leon-ciandt-qa-automation-25234-2026-04-28.html output/cv-william-leon-ciandt-qa-automation-25234-2026-04-28.pdf)",
+      "Bash(node generate-pdf.mjs output/cv-william-leon-ciandt-qa-automation-23863-2026-04-28.html output/cv-william-leon-ciandt-qa-automation-23863-2026-04-28.pdf)",
+      "Bash(node generate-pdf.mjs output/cv-william-leon-koombea-qa-engineer-2026-04-28.html output/cv-william-leon-koombea-qa-engineer-2026-04-28.pdf)",
+      "Bash(node generate-pdf.mjs output/cv-william-leon-fullstacklabs-qa-engineer-2026-04-28.html output/cv-william-leon-fullstacklabs-qa-engineer-2026-04-28.pdf)",
+      "Bash(node -e ' *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)",
+      "WebFetch(domain:boards-api.greenhouse.io)",
+      "Bash(node generate-pdf.mjs output/cv-william-leon-backblaze-sr-qa-2026-04-29.html output/cv-william-leon-backblaze-sr-qa-2026-04-29.pdf)",
+      "Skill(schedule)",
+      "Skill(schedule:*)",
+      "Bash(git commit *)",
+      "WebFetch(domain:allshoretalent.recruitee.com)",
+      "Bash(node generate-pdf.mjs output/cv-william-leon-blue-coding-qa-automation-2026-05-02.html)",
+      "Bash(node generate-pdf.mjs output/cv-william-leon-coursedog-senior-qa-2026-05-02.html)",
+      "Bash(node generate-pdf.mjs output/cv-william-leon-blue-coding-qa-automation-2026-05-02.html output/cv-william-leon-blue-coding-qa-automation-2026-05-02.pdf)",
+      "Bash(node generate-pdf.mjs output/cv-william-leon-coursedog-senior-qa-2026-05-02.html output/cv-william-leon-coursedog-senior-qa-2026-05-02.pdf)"
+    ]
+  }
+}
