@@ -14,7 +14,7 @@
 | 27 | 2026-04-28 | FullStack Labs | QA Engineer | 4.3/5 | Discarded | ✅ | [027](reports/027-fullstacklabs-qa-engineer-2026-04-28.md) | Discarded 2026-04-29 — posting closed (404). |
 | 28 | 2026-04-28 | CI&T | Senior QA Automation [Job 25234] | 4.2/5 | Discarded | ✅ | [024](reports/024-ciandt-qa-automation-25234-2026-04-28.md) | Discarded 2026-04-29 — posting closed (404). |
 | 29 | 2026-04-28 | CI&T | Senior QA Automation [Job 23863] | 4.0/5 | Discarded | ✅ | [025](reports/025-ciandt-qa-automation-23863-2026-04-28.md) | Discarded 2026-04-29 — posting closed (not in Lever API). |
-| 20 | 2026-04-28 | Praxent | LATAM Senior QA Automation Engineer | 4.0/5 | Interview | ✅ | [020](reports/020-praxent-senior-qa-2026-04-28.md) | Applied 2026-04-28. Round 2 (Technical) pending. Negotiate $3,500-$4,500/mo. |
+| 20 | 2026-04-28 | Praxent | LATAM Senior QA Automation Engineer | 4.0/5 | Discarded | ✅ | [020](reports/020-praxent-senior-qa-2026-04-28.md) | Discarded 2026-05-07. |
 | 21 | 2026-04-28 | Praxent | LATAM Principal QA Automation Engineer | 2.2/5 | SKIP | ❌ | [021](reports/021-praxent-principal-qa-2026-04-28.md) | Hard blocker: C#/.NET required, not in stack. Do not apply. |
 | 19 | 2026-04-20 | Truelogic | Senior QA Automation Engineer - IT Solutions | 3.5/5 | Discarded | ✅ | [19](reports/019-truelogic-it-solutions-2026-04-20.md) | Not applied — application process requires too much automation work. |
 | 17 | 2026-04-15 | Truelogic | Quality Engineer (Open Application) | 2.5/5 | Evaluated | ❌ | [17](reports/017-truelogic-open-2026-04-15.md) | Open application — redundant with #008 and #015. Do not submit. |
