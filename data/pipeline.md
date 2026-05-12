@@ -8,9 +8,9 @@
 
 ## Pendientes
 
-- [ ] https://job-boards.greenhouse.io/backblaze/jobs/5205676008 | Backblaze | Sr. QA Automation Engineer (new posting) | LATAM (Colombia) | JS+Python+Playwright
-- [ ] https://job-boards.greenhouse.io/encora10/jobs/5119692007 | Encora | Senior SDET | LATAM remote | TS+Playwright+APIs
-- [ ] https://jobs.lever.co/powdevs/8b02ba30-d621-4bf4-9926-1dc756d085f5 | Powdevs | QA Lead | LATAM (Colombia+)
+- [x] #036 | https://job-boards.greenhouse.io/backblaze/jobs/5205676008 | Backblaze | Sr. QA Automation Engineer | 3.8/5 | ✅
+- [x] #037 | https://job-boards.greenhouse.io/encora10/jobs/5119692007 | Encora | Senior SDET | 4.2/5 | ✅
+- [x] #038 | https://jobs.lever.co/powdevs/8b02ba30-d621-4bf4-9926-1dc756d085f5 | Powdevs | QA Lead | 3.0/5 | ❌
 
 - [x] #033 | https://himalayas.app/companies/blue-coding/jobs/senior-qa-automation-engineer-n | Blue Coding | Senior QA Automation Engineer | 4.0/5 | ✅
 - [x] #034 | https://job-boards.greenhouse.io/hugeinc/jobs/7662077 | Huge | Senior QA Analyst | 3.0/5 | ❌
