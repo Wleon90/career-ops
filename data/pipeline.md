@@ -35,6 +35,8 @@
 - [x] #020 | https://job-boards.greenhouse.io/praxent/jobs/7498394003 | Praxent | LATAM Senior QA Automation Engineer | 4.0/5 | ✅
 - [x] #021 | https://job-boards.greenhouse.io/praxent/jobs/7689330003 | Praxent | LATAM Principal QA Automation Engineer | 2.2/5 | ❌
 
+- [ ] https://jobs.ashbyhq.com/truelogic/f392ee81-56ea-48e8-bf2c-f21029050192 | Truelogic | Senior QA Automation  - Advertising 
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
