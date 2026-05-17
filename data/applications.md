@@ -3,9 +3,9 @@
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
 | 37 | 2026-05-07 | Encora | Senior SDET | 4.2/5 | Evaluated | ✅ | [037](reports/037-encora-senior-sdet-2026-05-07.md) | LATAM remote. Best stack match in pipeline -- TS+Playwright+GitHub Actions+Docker exact match. |
-| 36 | 2026-05-07 | Backblaze | Sr. QA Automation Engineer | 3.8/5 | Interview | ✅ | [036](reports/036-backblaze-sr-qa-automation-2026-05-07.md) | Technical interview 2026-05-07 with hiring manager -- went great. |
+| 36 | 2026-05-07 | Backblaze | Sr. QA Automation Engineer | 3.8/5 | Interview | ✅ | [036](reports/036-backblaze-sr-qa-automation-2026-05-07.md) | Technical 2026-05-07 -- great. Culture/final round pending. |
 | 38 | 2026-05-07 | Powdevs | QA Lead | 3.0/5 | Evaluated | ❌ | [038](reports/038-powdevs-qa-lead-2026-05-07.md) | Do not apply — lead capacity gap (5+ yrs required, ~3 available). Fintech sector, unknown company. |
-| 33 | 2026-05-02 | Blue Coding | Senior QA Automation Engineer | 4.0/5 | Interview | ✅ | [033](reports/033-blue-coding-qa-automation-2026-05-02.md) | Applied 2026-04-21. Technical interview 2026-05-07 with hiring manager -- went great. |
+| 33 | 2026-05-02 | Blue Coding | Senior QA Automation Engineer | 4.0/5 | Interview | ✅ | [033](reports/033-blue-coding-qa-automation-2026-05-02.md) | Applied 2026-04-21. Technical 2026-05-07 -- great. Culture/final round pending. |
 | 34 | 2026-05-02 | Huge | Senior QA Analyst | 3.0/5 | Evaluated | ❌ | [034](reports/034-huge-senior-qa-analyst-2026-05-02.md) | CMS gap (Sitecore/AEM not in stack). Salary expected in COP -- likely below target. Do not apply without clarification. |
 | 35 | 2026-05-02 | Coursedog | Senior QA Engineer Data Integrations | 3.8/5 | Discarded | ✅ | [035](reports/035-coursedog-senior-qa-2026-05-02.md) | Discarded 2026-05-02 — restricted to USA citizens. |
 | 32 | 2026-04-29 | Backblaze | Sr. QA Automation Engineer | 3.8/5 | Discarded | ✅ | [032](reports/032-backblaze-sr-qa-automation-2026-04-29.md) | Discarded 2026-04-29 — Python is primary required language, not in stack. |
