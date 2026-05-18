@@ -39,12 +39,11 @@
 - [x] #020 | https://job-boards.greenhouse.io/praxent/jobs/7498394003 | Praxent | LATAM Senior QA Automation Engineer | 4.0/5 | ✅
 - [x] #021 | https://job-boards.greenhouse.io/praxent/jobs/7689330003 | Praxent | LATAM Principal QA Automation Engineer | 2.2/5 | ❌
 
-- [ ] https://jobs.ashbyhq.com/truelogic/f392ee81-56ea-48e8-bf2c-f21029050192 | Truelogic | Senior QA Automation  - Advertising 
-
-- [ ] https://jobs.ashbyhq.com/truelogic/a705a4e1-0d15-4953-9955-1d4829fa2e13 | Truelogic | Senior QA Engineer - E-commerce
-- [ ] https://jobs.ashbyhq.com/truelogic/c5443643-309b-4c15-bc69-804a2e95c327 | Truelogic | Senior QA Engineer - E-commerce - Brazil
-- [ ] https://jobs.ashbyhq.com/truelogic/7d40c4cf-37b2-428e-80d5-ee139b35c7cd | Truelogic | Senior QA Engineer - E-commerce - Colombia
-- [ ] https://jobs.ashbyhq.com/truelogic/27f734c7-9deb-42f7-855a-c54eae233108 | Truelogic | Senior QA Engineer - E-commerce - Mexico
+- [!] https://jobs.ashbyhq.com/truelogic/f392ee81-56ea-48e8-bf2c-f21029050192 | Truelogic | Senior QA Automation - Advertising — Skipped: Colombia variant evaluated instead (#039)
+- [!] https://jobs.ashbyhq.com/truelogic/a705a4e1-0d15-4953-9955-1d4829fa2e13 | Truelogic | Senior QA Engineer - E-commerce — Skipped: Colombia variant evaluated instead (#039)
+- [!] https://jobs.ashbyhq.com/truelogic/c5443643-309b-4c15-bc69-804a2e95c327 | Truelogic | Senior QA Engineer - E-commerce - Brazil — Skipped: location mismatch
+- [x] #039 | https://jobs.ashbyhq.com/truelogic/7d40c4cf-37b2-428e-80d5-ee139b35c7cd | Truelogic | Senior QA Engineer - E-commerce - Colombia | 3.8/5 | ✅
+- [!] https://jobs.ashbyhq.com/truelogic/27f734c7-9deb-42f7-855a-c54eae233108 | Truelogic | Senior QA Engineer - E-commerce - Mexico — Skipped: location mismatch
 
 ## Procesadas
 

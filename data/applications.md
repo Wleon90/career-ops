@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 39 | 2026-05-17 | Truelogic | Senior QA Engineer - E-commerce - Colombia | 3.8/5 | Evaluated | ✅ | [039](reports/039-truelogic-senior-qa-ecommerce-colombia-2026-05-17.md) | Colombia-specific. Stack match (Playwright/Selenium/Postman/CI/CD). Apply fast -- Truelogic roles close quickly. |
 | 37 | 2026-05-07 | Encora | Senior SDET | 4.2/5 | Applied | ✅ | [037](reports/037-encora-senior-sdet-2026-05-07.md) | Applied 2026-05-17. LATAM remote. Best stack match in pipeline -- TS+Playwright+GitHub Actions+Docker exact match. |
 | 36 | 2026-05-07 | Backblaze | Sr. QA Automation Engineer | 3.8/5 | Interview | ✅ | [036](reports/036-backblaze-sr-qa-automation-2026-05-07.md) | Technical 2026-05-07 -- great. Culture/final round pending. |
 | 38 | 2026-05-07 | Powdevs | QA Lead | 3.0/5 | Evaluated | ❌ | [038](reports/038-powdevs-qa-lead-2026-05-07.md) | Do not apply — lead capacity gap (5+ yrs required, ~3 available). Fintech sector, unknown company. |
@@ -19,7 +20,7 @@
 | 29 | 2026-04-28 | CI&T | Senior QA Automation [Job 23863] | 4.0/5 | Discarded | ✅ | [025](reports/025-ciandt-qa-automation-23863-2026-04-28.md) | Discarded 2026-04-29 — posting closed (not in Lever API). |
 | 20 | 2026-04-28 | Praxent | LATAM Senior QA Automation Engineer | 4.0/5 | Discarded | ✅ | [020](reports/020-praxent-senior-qa-2026-04-28.md) | Discarded 2026-05-07. |
 | 21 | 2026-04-28 | Praxent | LATAM Principal QA Automation Engineer | 2.2/5 | SKIP | ❌ | [021](reports/021-praxent-principal-qa-2026-04-28.md) | Hard blocker: C#/.NET required, not in stack. Do not apply. |
-| 19 | 2026-04-20 | Truelogic | Senior QA Automation Engineer - IT Solutions | 3.5/5 | Discarded | ✅ | [19](reports/019-truelogic-it-solutions-2026-04-20.md) | Not applied — application process requires too much automation work. |
+| 19 | 2026-04-20 | Truelogic | Senior QA Automation Engineer - IT Solutions | 3.5/5 | Discarded | ✅ | [19](reports/019-truelogic-it-solutions-2026-04-20.md) | Not applied -- application process requires too much automation work. |
 | 17 | 2026-04-15 | Truelogic | Quality Engineer (Open Application) | 2.5/5 | Evaluated | ❌ | [17](reports/017-truelogic-open-2026-04-15.md) | Open application — redundant with #008 and #015. Do not submit. |
 | 18 | 2026-04-15 | Launchpad Technologies | ServiceNow Tester | 2.0/5 | SKIP | ❌ | [18](reports/018-launchpad-servicenow-2026-04-15.md) | No ServiceNow in stack. Manual testing role. Launchpad pattern (2nd miss). Do not apply. |
 | 2 | 2026-04-15 | RapidFort | Senior SDET / Sr QA Automation Engineer | 1.5/5 | SKIP | ❌ | [002](reports/002-rapidfort-2026-04-15.md) | USA only — location blocker. $120k-$150k/yr but inaccessible from Colombia. |
