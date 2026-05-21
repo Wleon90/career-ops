@@ -145,6 +145,70 @@ search_queries:
     query: 'site:indeed.com "Senior QA Engineer" OR "SDET" OR "Senior Test Automation" remote -junior'
     enabled: true
 
+  # -- LATAM platforms --
+  - name: GetOnBoard — QA Senior LATAM
+    query: 'site:getonbrd.com "QA Engineer" OR "SDET" OR "Test Automation" OR "Automation Engineer" senior remote'
+    enabled: true
+
+  - name: Torre — QA Remote Colombia
+    query: 'site:torre.ai "QA Engineer" OR "SDET" OR "Test Automation" OR "Automation Engineer" senior remote Colombia'
+    enabled: true
+
+  - name: Workana — QA Automation Senior
+    query: 'site:workana.com "QA" OR "Test Automation" OR "SDET" OR "Automatización de Pruebas" senior remote'
+    enabled: true
+
+  # -- Remote-first platforms --
+  - name: arc.dev — QA Senior Remote
+    query: 'site:arc.dev "QA Engineer" OR "SDET" OR "Test Automation" OR "Automation Engineer" senior remote'
+    enabled: true
+
+  - name: Turing — QA Automation Remote
+    query: 'site:turing.com "QA Engineer" OR "SDET" OR "Test Automation" OR "Automation Engineer" senior'
+    enabled: true
+
+  - name: Remote.co — QA Senior
+    query: 'site:remote.co "QA Engineer" OR "SDET" OR "Test Automation" OR "Automation Engineer" senior'
+    enabled: true
+
+  - name: Jobicy — QA Remote Senior
+    query: 'site:jobicy.com "QA Engineer" OR "SDET" OR "Test Automation" OR "Automation Engineer" senior remote'
+    enabled: true
+
+  - name: Wellfound — QA SDET Startup
+    query: 'site:wellfound.com "QA Engineer" OR "SDET" OR "Test Automation" OR "Automation Engineer" senior remote'
+    enabled: true
+
+  - name: Built In — QA Senior Remote
+    query: 'site:builtin.com "QA Engineer" OR "SDET" OR "Test Automation" OR "Automation Engineer" senior remote'
+    enabled: true
+
+  # -- ATS with LATAM/Colombia filter --
+  - name: Ashby — QA Colombia LATAM
+    query: 'site:jobs.ashbyhq.com "QA Engineer" OR "SDET" OR "Test Automation" Colombia OR LATAM OR "Latin America"'
+    enabled: true
+
+  - name: Lever — QA Colombia LATAM
+    query: 'site:jobs.lever.co "QA Engineer" OR "SDET" OR "Test Automation" Colombia OR LATAM OR "Latin America"'
+    enabled: true
+
+  - name: Greenhouse — Nearshore LATAM QA
+    query: 'site:job-boards.greenhouse.io "QA Engineer" OR "SDET" OR "Test Automation" nearshore OR LATAM OR Colombia OR "Latin America"'
+    enabled: true
+
+  # -- Stack-specific searches --
+  - name: LinkedIn — Playwright TypeScript QA 2026
+    query: '"Playwright" "TypeScript" "QA Engineer" OR "SDET" OR "Test Automation" remote Colombia OR LATAM OR "Latin America" -junior'
+    enabled: true
+
+  - name: LinkedIn — Nearshore QA Colombia 2026
+    query: '"QA Engineer" OR "SDET" OR "Test Automation" nearshore remote Colombia 2026 -junior'
+    enabled: true
+
+  - name: Greenhouse — E-commerce QA LATAM
+    query: 'site:job-boards.greenhouse.io "QA Engineer" OR "SDET" OR "Test Automation" "e-commerce" OR "ecommerce" OR "retail" remote'
+    enabled: true
+
 # -- Tracked companies --
 # Companies whose career pages are checked directly.
 
@@ -157,14 +221,14 @@ tracked_companies:
     scan_method: websearch
     scan_query: '"QA" OR "QC" OR "Test" OR "Quality" site:idemia.com/careers'
     notes: "Global identity document and biometric systems. William worked here 2022-2024."
-    enabled: true
+    enabled: false
 
   - name: Thales Group
     careers_url: https://www.careers.thalesgroup.com
     scan_method: websearch
     scan_query: '"QA" OR "QC" OR "Test Automation" OR "Quality" site:careers.thalesgroup.com'
     notes: "Defense/identity/biometric systems. William worked here 2018-2021."
-    enabled: true
+    enabled: false
 
   - name: Indra
     careers_url: https://jobs.indracompany.com/
