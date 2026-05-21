@@ -45,7 +45,7 @@
 - [x] #039 | https://jobs.ashbyhq.com/truelogic/7d40c4cf-37b2-428e-80d5-ee139b35c7cd | Truelogic | Senior QA Engineer - E-commerce - Colombia | 3.8/5 | ✅
 - [!] https://jobs.ashbyhq.com/truelogic/27f734c7-9deb-42f7-855a-c54eae233108 | Truelogic | Senior QA Engineer - E-commerce - Mexico — Skipped: location mismatch
 
-- [ ] https://jobs.ashbyhq.com/deel/ab92fa4b-26e3-4354-864c-f66ffe70d262 | Deel | Product UX Tester
+- [!] https://jobs.ashbyhq.com/deel/ab92fa4b-26e3-4354-864c-f66ffe70d262 | Deel | Product UX Tester — Error: 404 (expired)
 
 ## Procesadas
 
