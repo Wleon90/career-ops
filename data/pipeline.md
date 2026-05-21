@@ -8,6 +8,9 @@
 
 ## Pendientes
 
+- [ ] https://www.getonbrd.com/jobs/sysadmin-devops-qa/senior-quality-assurance-engineer-apply-digital-latam-remote-9d3b | Apply Digital Latam | Senior Quality Assurance Engineer
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5133977007 | Encora | Mid QA Automation
+
 - [x] #036 | https://job-boards.greenhouse.io/backblaze/jobs/5205676008 | Backblaze | Sr. QA Automation Engineer | 3.8/5 | ✅
 - [x] #037 | https://job-boards.greenhouse.io/encora10/jobs/5119692007 | Encora | Senior SDET | 4.2/5 | ✅
 - [x] #038 | https://jobs.lever.co/powdevs/8b02ba30-d621-4bf4-9926-1dc756d085f5 | Powdevs | QA Lead | 3.0/5 | ❌
