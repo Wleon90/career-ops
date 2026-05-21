@@ -2,7 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
-| 40 | 2026-05-21 | Apply Digital Latam | Senior Quality Assurance Engineer | 4.0/5 | Evaluated | ❌ | [040](reports/040-apply-digital-latam-senior-qa-2026-05-21.md) | LATAM remote, Playwright/TypeScript/Cypress/Appium, 4.0/5. Apply — stack match, nearshore consultancy. |
+| 40 | 2026-05-21 | Apply Digital Latam | Senior Quality Assurance Engineer | 4.0/5 | Discarded | ❌ | [040](reports/040-apply-digital-latam-senior-qa-2026-05-21.md) | Discarded 2026-05-21 — 6+ years automation requirement, candidate opted out. |
 | 41 | 2026-05-21 | Encora | Mid QA Automation | 1.5/5 | SKIP | ❌ | [041](reports/041-encora-mid-qa-automation-2026-05-21.md) | Peru Lima hybrid — location blocker. Mid-level vs Senior. Active #037 application at Encora. Do not apply. |
 | 39 | 2026-05-17 | Truelogic | Senior QA Engineer - E-commerce - Colombia | 3.8/5 | Applied | ✅ | [039](reports/039-truelogic-senior-qa-ecommerce-colombia-2026-05-17.md) | Applied 2026-05-17. Colombia-specific. Stack match (Playwright/Selenium/Postman/CI/CD). |
 | 37 | 2026-05-07 | Encora | Senior SDET | 4.2/5 | Applied | ✅ | [037](reports/037-encora-senior-sdet-2026-05-07.md) | Applied 2026-05-17. LATAM remote. Best stack match in pipeline -- TS+Playwright+GitHub Actions+Docker exact match. |
