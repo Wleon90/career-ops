@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 44 | 2026-05-22 | CI&T | Senior QA with Java Automation [Job-25126] Colombia | 3.8/5 | Discarded | ❌ | [044](reports/044-ciandt-senior-qa-java-automation-2026-05-22.md) | Discarded 2026-05-22 — posting closed (404). 4th consecutive CI&T posting to close before application. |
 | 45 | 2026-05-22 | Super.com | Senior QA Engineer | 3.5/5 | Evaluated | ❌ | [045](reports/045-supercom-senior-qa-engineer-2026-05-22.md) | JD not fully accessible. Confirm Colombia eligibility + stack before applying. AI-forward QE role — strong differentiator. |
 | 46 | 2026-05-22 | Resilient Co | Senior QA Automation | 2.8/5 | SKIP | ❌ | [046](reports/046-resilientco-senior-qa-automation-2026-05-22.md) | Medellín in-office-first (William in Bogotá) + Salesforce/Oracle domain gap. Do not apply. |
 | 40 | 2026-05-21 | Apply Digital Latam | Senior Quality Assurance Engineer | 4.0/5 | Discarded | ❌ | [040](reports/040-apply-digital-latam-senior-qa-2026-05-21.md) | Discarded 2026-05-21 — 6+ years automation requirement, candidate opted out. |

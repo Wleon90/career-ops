@@ -26,7 +26,14 @@
       "Bash(node generate-pdf.mjs output/cv-william-leon-blue-coding-qa-automation-2026-05-02.html)",
       "Bash(node generate-pdf.mjs output/cv-william-leon-coursedog-senior-qa-2026-05-02.html)",
       "Bash(node generate-pdf.mjs output/cv-william-leon-blue-coding-qa-automation-2026-05-02.html output/cv-william-leon-blue-coding-qa-automation-2026-05-02.pdf)",
-      "Bash(node generate-pdf.mjs output/cv-william-leon-coursedog-senior-qa-2026-05-02.html output/cv-william-leon-coursedog-senior-qa-2026-05-02.pdf)"
+      "Bash(node generate-pdf.mjs output/cv-william-leon-coursedog-senior-qa-2026-05-02.html output/cv-william-leon-coursedog-senior-qa-2026-05-02.pdf)",
+      "WebFetch(domain:praxent.com)",
+      "Bash(node generate-pdf.mjs output/cv-william-leon-backblaze-sr-qa-automation-2026-05-07.html output/cv-william-leon-backblaze-sr-qa-automation-2026-05-07.pdf)",
+      "Bash(node generate-pdf.mjs output/cv-william-leon-encora-senior-sdet-2026-05-07.html output/cv-william-leon-encora-senior-sdet-2026-05-07.pdf)",
+      "Bash(git stash *)",
+      "Bash(git rebase *)",
+      "Bash(git merge *)",
+      "Bash(node generate-pdf.mjs output/cv-william-leon-truelogic-senior-qa-ecommerce-2026-05-17.html output/cv-william-leon-truelogic-senior-qa-ecommerce-2026-05-17.pdf)"
     ]
   }
 }
