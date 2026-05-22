@@ -50,6 +50,12 @@
 
 - [!] https://jobs.ashbyhq.com/deel/ab92fa4b-26e3-4354-864c-f66ffe70d262 | Deel | Product UX Tester — Error: 404 (expired)
 
+- [ ] https://jobs.ashbyhq.com/truelogic/77fe936e-f6be-45a3-8724-55b9ba5b7f13 | Truelogic | Senior QA Engineer - Software
+- [ ] https://jobs.ashbyhq.com/truelogic/71df2a7a-cfff-4375-8868-0ec4877f96be | Truelogic | QA Lead - AI Consulting Company - Mexico
+- [ ] https://jobs.ashbyhq.com/truelogic/107fb55c-8c58-4166-952d-052782cc64e4 | Truelogic | QA Lead - AI Consulting Company
+- [ ] https://jobs.ashbyhq.com/truelogic/3cef5176-c35f-43e5-afa7-205412ab16c8 | Truelogic | QA Lead - AI Consulting Company - Brazil
+- [ ] https://jobs.ashbyhq.com/truelogic/e85cfd85-3eb6-4f81-ad15-e764ecfd0a94 | Truelogic | QA Lead - AI Consulting Company - Colombia
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
