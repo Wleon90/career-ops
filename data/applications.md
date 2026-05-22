@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 45 | 2026-05-22 | Super.com | Senior QA Engineer | 3.5/5 | Evaluated | ❌ | [045](reports/045-supercom-senior-qa-engineer-2026-05-22.md) | JD not fully accessible. Confirm Colombia eligibility + stack before applying. AI-forward QE role — strong differentiator. |
+| 46 | 2026-05-22 | Resilient Co | Senior QA Automation | 2.8/5 | SKIP | ❌ | [046](reports/046-resilientco-senior-qa-automation-2026-05-22.md) | Medellín in-office-first (William in Bogotá) + Salesforce/Oracle domain gap. Do not apply. |
 | 40 | 2026-05-21 | Apply Digital Latam | Senior Quality Assurance Engineer | 4.0/5 | Discarded | ❌ | [040](reports/040-apply-digital-latam-senior-qa-2026-05-21.md) | Discarded 2026-05-21 — 6+ years automation requirement, candidate opted out. |
 | 41 | 2026-05-21 | Encora | Mid QA Automation | 1.5/5 | SKIP | ❌ | [041](reports/041-encora-mid-qa-automation-2026-05-21.md) | Peru Lima hybrid — location blocker. Mid-level vs Senior. Active #037 application at Encora. Do not apply. |
 | 39 | 2026-05-17 | Truelogic | Senior QA Engineer - E-commerce - Colombia | 3.8/5 | Applied | ✅ | [039](reports/039-truelogic-senior-qa-ecommerce-colombia-2026-05-17.md) | Applied 2026-05-17. Colombia-specific. Stack match (Playwright/Selenium/Postman/CI/CD). |
@@ -13,7 +15,7 @@
 | 35 | 2026-05-02 | Coursedog | Senior QA Engineer Data Integrations | 3.8/5 | Discarded | ✅ | [035](reports/035-coursedog-senior-qa-2026-05-02.md) | Discarded 2026-05-02 — restricted to USA citizens. |
 | 32 | 2026-04-29 | Backblaze | Sr. QA Automation Engineer | 3.8/5 | Discarded | ✅ | [032](reports/032-backblaze-sr-qa-automation-2026-04-29.md) | Discarded 2026-04-29 — Python is primary required language, not in stack. |
 | 31 | 2026-04-29 | Santex | Senior Automation QA (Must: Playwright) | 3.2/5 | Discarded | ❌ | [031](reports/031-santex-qa-playwright-2026-04-29.md) | Discarded 2026-04-29 — location pattern (Argentina/Peru, not Colombia). Verify form before reconsidering. |
-| 30 | 2026-04-29 | Praxent | LATAM Senior QA Automation Engineer (C#/.NET) | 2.2/5 | SKIP | ❌ | [030](reports/030-praxent-latam-senior-qa-csnet-2026-04-29.md) | C#/.NET required — same blocker as #021. Do not apply. |
+| 30 | 2026-05-22 | Praxent | LATAM QA Automation Engineer(s) | 3.5/5 | SKIP | ❌ | [043](reports/043-praxent-latam-qa-automation-engineers-2026-05-22.md) | Re-eval 2026-05-22 (2.2→3.5). Pipeline/pool role (not immediate). No C#/.NET blocker. TS+Playwright stack accepted. Apply as hedge. |
 | 22 | 2026-04-28 | Huge | QA Lead | 3.6/5 | Discarded | ✅ | [022](reports/022-hugeinc-qa-lead-2026-04-28.md) | Discarded 2026-04-28 — mobile/Appium is a must-have, not in core stack. |
 | 23 | 2026-04-28 | CI&T | Senior QA Automation Analyst | 4.1/5 | Discarded | ✅ | [023](reports/023-ciandt-qa-automation-analyst-2026-04-28.md) | Discarded 2026-04-29 — posting closed (not in Lever API). |
 | 26 | 2026-04-28 | Koombea | QA Engineer - Functional Testing | 3.0/5 | Evaluated | ✅ | [026](reports/026-koombea-qa-engineer-2026-04-28.md) | Manual-first, 3-month contract, likely below comp target |

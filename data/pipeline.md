@@ -8,6 +8,14 @@
 
 ## Pendientes
 
+- [x] #043 | https://job-boards.greenhouse.io/praxent/jobs/7732249003 | Praxent | LATAM QA Automation Engineer(s) | 3.5/5 | ❌
+- [x] #042 | https://job-boards.greenhouse.io/backblaze/jobs/5204291008 | Backblaze | QA Automation Engineer | 3.2/5 | ❌
+- [ ] https://job-boards.greenhouse.io/hugeinc/jobs/7808509 | Huge | Senior QA Analyst (Remote Colombia, mobile-focused)
+- [ ] https://job-boards.greenhouse.io/hugeinc/jobs/7902154 | Huge | Freelance Senior QA Analyst (Remote Colombia, June 1-30 only)
+- [x] #045 | https://jobs.ashbyhq.com/super.com/0c70da0f-3c4f-40b9-abc2-ebe0df8d56a7 | Super.com | Senior QA Engineer | 3.5/5 | ❌
+- [x] #044 | https://jobs.lever.co/ciandt/b154b0cb-0b58-4cfc-8ea5-3d2b452b7657 | CI&T | [Job-25126] Senior QA with Java Automation, Colombia | 3.8/5 | ❌
+- [x] #046 | https://jobs.lever.co/resilientco/336e3f51-4ad8-46e5-b3a5-c38fe15c3adb | Resilient Co | Senior QA Automation (Medellín/hybrid) | 2.8/5 | ❌
+
 - [x] #040 | https://www.getonbrd.com/jobs/sysadmin-devops-qa/senior-quality-assurance-engineer-apply-digital-latam-remote-9d3b | Apply Digital Latam | Senior Quality Assurance Engineer | 4.0/5 | ❌
 - [x] #041 | https://job-boards.greenhouse.io/encora10/jobs/5133977007 | Encora | Mid QA Automation | 1.5/5 | ❌
 
