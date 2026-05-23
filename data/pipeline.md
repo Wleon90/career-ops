@@ -64,6 +64,8 @@
 - [ ] https://jobs.ashbyhq.com/truelogic/3cef5176-c35f-43e5-afa7-205412ab16c8 | Truelogic | QA Lead - AI Consulting Company - Brazil
 - [ ] https://jobs.ashbyhq.com/truelogic/e85cfd85-3eb6-4f81-ad15-e764ecfd0a94 | Truelogic | QA Lead - AI Consulting Company - Colombia
 
+- [ ] https://jobs.ashbyhq.com/truelogic/ac61013c-9924-42cf-a5f6-35470f59bbcd | Truelogic | Senior QA Engineer - Software
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
