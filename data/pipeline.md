@@ -66,6 +66,8 @@
 
 - [ ] https://jobs.ashbyhq.com/truelogic/ac61013c-9924-42cf-a5f6-35470f59bbcd | Truelogic | Senior QA Engineer - Software
 
+- [ ] https://jobs.ashbyhq.com/truelogic/2f68041f-732c-4031-8fa2-64b133974fa0 | Truelogic | Senior QA Engineer - Software
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
