@@ -4,14 +4,37 @@
 
 ---
 
+## Scan 2026-05-27
+
+- [x] #059 | https://jobs.ashbyhq.com/truelogic/04c5dfbe-6923-4cf5-9715-3d2b382a2332 | Truelogic | Senior QA Engineer - Software (LatAm) | 3.8/5 | ❌
+- [x] #060 | https://jobs.ashbyhq.com/deel/cbebed24-2219-4ab3-a5df-794eaf1c3260 | Deel | QA Automation Engineer (LATAM) | 4.0/5 | ❌
+- [x] #058 | https://jobs.ashbyhq.com/govworx/9483da43-5a6a-4c01-afd1-45476c624916 | GovWorx | QA Engineer - LATAM | 3.5/5 | ❌
+- [x] #050 | https://jobs.ashbyhq.com/tillo/22ae6a3f-433c-4834-8218-df0f059425e2 | Tillo | Senior SDET | 2.6/5 | ❌
+- [x] #051 | https://job-boards.greenhouse.io/enumerate/jobs/4105325009 | Enumerate | QA Automation Lead - LATAM | 3.4/5 | ❌
+- [x] #052 | https://job-boards.greenhouse.io/nearsure/jobs/4993026007 | Nearsure | Senior Software Test Engineer (UP078) | 3.5/5 | ❌
+- [x] #053 | https://job-boards.greenhouse.io/insightassurance/jobs/4856299008 | Insight Assurance | QA & Testing Developer - LATAM | 3.4/5 | ❌
+- [x] #054 | https://www.getonbrd.com/empleos/sysadmin-devops-qa/qa-engineer-sdet-playwright-azure-improving-south-america-remote | Improving South America | QA Engineer (SDET Playwright/Azure) | 1.5/5 | ❌
+- [x] #055 | https://www.getonbrd.com/jobs/sysadmin-devops-qa/software-development-engineer-in-test-sdet-agility-io-remote-fafd | Agility IO | Senior SDET | 2.5/5 | ❌
+- [x] #056 | https://www.getonbrd.com/jobs/sysadmin-devops-qa/qa-automation-engineer-api-sdet-insight-global-remote | Insight Global | QA Automation Engineer (API SDET) | 3.2/5 | ❌
+- [x] #057 | https://jobs.prometeotalent.com/jobs/7550276-senior-software-development-engineer-in-test-sdet-100-remote-latam | Prometeo Talent | Senior SDET (100% Remote LATAM) | 3.8/5 | ❌
+
+---
+
+## Scan 2026-05-23
+
+- [!] https://job-boards.greenhouse.io/valtech/jobs/4854941101 | Valtech | Senior QA Automation Engineer - Colombia Remote (AI/AWS Bedrock, Python) — Error: 404 Greenhouse API + Valtech careers page confirms "no longer available"
+- [!] https://job-boards.greenhouse.io/valtech/jobs/4855274101 | Valtech | QA Analyst - Colombia Remote — Error: 404 Greenhouse API
+- [!] https://jobs.lever.co/tryjeeves/1713c5e7-b97b-423e-8e52-41da6a6d030b | Jeeves | Senior QA Engineer — Error: not in Lever API (expired/filled)
+- [!] https://jobs.lever.co/toptal/a297b4fa-7c83-43d8-bc19-5abaf3a57fc8 | Toptal | Senior QA Automation Engineer (remote, Ruby/Rails stack) — Error: 404 Lever API
+
 
 
 ## Pendientes
 
 - [x] #043 | https://job-boards.greenhouse.io/praxent/jobs/7732249003 | Praxent | LATAM QA Automation Engineer(s) | 3.5/5 | ❌
 - [x] #042 | https://job-boards.greenhouse.io/backblaze/jobs/5204291008 | Backblaze | QA Automation Engineer | 3.2/5 | ❌
-- [ ] https://job-boards.greenhouse.io/hugeinc/jobs/7808509 | Huge | Senior QA Analyst (Remote Colombia, mobile-focused)
-- [ ] https://job-boards.greenhouse.io/hugeinc/jobs/7902154 | Huge | Freelance Senior QA Analyst (Remote Colombia, June 1-30 only)
+- [x] #061 | https://job-boards.greenhouse.io/hugeinc/jobs/7808509 | Huge | Senior QA Analyst (Remote Colombia, mobile-focused) | 2.4/5 | ❌
+- [x] #062 | https://job-boards.greenhouse.io/hugeinc/jobs/7902154 | Huge | Freelance Senior QA Analyst (Remote Colombia, June 1-30 only) | 3.1/5 | ❌
 - [x] #045 | https://jobs.ashbyhq.com/super.com/0c70da0f-3c4f-40b9-abc2-ebe0df8d56a7 | Super.com | Senior QA Engineer | 3.5/5 | ❌
 - [x] #044 | https://jobs.lever.co/ciandt/b154b0cb-0b58-4cfc-8ea5-3d2b452b7657 | CI&T | [Job-25126] Senior QA with Java Automation, Colombia | 3.8/5 | ❌
 - [x] #046 | https://jobs.lever.co/resilientco/336e3f51-4ad8-46e5-b3a5-c38fe15c3adb | Resilient Co | Senior QA Automation (Medellín/hybrid) | 2.8/5 | ❌
@@ -58,11 +81,11 @@
 
 - [!] https://jobs.ashbyhq.com/deel/ab92fa4b-26e3-4354-864c-f66ffe70d262 | Deel | Product UX Tester — Error: 404 (expired)
 
-- [ ] https://jobs.ashbyhq.com/truelogic/77fe936e-f6be-45a3-8724-55b9ba5b7f13 | Truelogic | Senior QA Engineer - Software
-- [ ] https://jobs.ashbyhq.com/truelogic/71df2a7a-cfff-4375-8868-0ec4877f96be | Truelogic | QA Lead - AI Consulting Company - Mexico
-- [ ] https://jobs.ashbyhq.com/truelogic/107fb55c-8c58-4166-952d-052782cc64e4 | Truelogic | QA Lead - AI Consulting Company
-- [ ] https://jobs.ashbyhq.com/truelogic/3cef5176-c35f-43e5-afa7-205412ab16c8 | Truelogic | QA Lead - AI Consulting Company - Brazil
-- [ ] https://jobs.ashbyhq.com/truelogic/e85cfd85-3eb6-4f81-ad15-e764ecfd0a94 | Truelogic | QA Lead - AI Consulting Company - Colombia
+- [!] https://jobs.ashbyhq.com/truelogic/77fe936e-f6be-45a3-8724-55b9ba5b7f13 | Truelogic | Senior QA Engineer - Software — Error: not in Ashby board (expired)
+- [!] https://jobs.ashbyhq.com/truelogic/71df2a7a-cfff-4375-8868-0ec4877f96be | Truelogic | QA Lead - AI Consulting Company - Mexico — Error: not in Ashby board (expired)
+- [!] https://jobs.ashbyhq.com/truelogic/107fb55c-8c58-4166-952d-052782cc64e4 | Truelogic | QA Lead - AI Consulting Company — Error: not in Ashby board (expired)
+- [!] https://jobs.ashbyhq.com/truelogic/3cef5176-c35f-43e5-afa7-205412ab16c8 | Truelogic | QA Lead - AI Consulting Company - Brazil — Error: not in Ashby board (expired)
+- [!] https://jobs.ashbyhq.com/truelogic/e85cfd85-3eb6-4f81-ad15-e764ecfd0a94 | Truelogic | QA Lead - AI Consulting Company - Colombia — Error: not in Ashby board (expired)
 
 ## Procesadas
 
