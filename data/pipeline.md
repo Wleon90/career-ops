@@ -77,6 +77,8 @@
 
 - [ ] https://jobs.ashbyhq.com/truelogic/ed93ae8d-3eee-4337-bc4a-a8d12c902209 | Truelogic | Senior QA Automation Engineer (JavaScript/TypeScript) - HospitalityTech
 
+- [ ] https://jobs.ashbyhq.com/truelogic/9c821d5b-584b-45d9-b2bd-e1a9c166f390 | Truelogic | Senior QA Automation Engineer (JavaScript/TypeScript) - HospitalityTech
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
