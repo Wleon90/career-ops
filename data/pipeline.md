@@ -4,6 +4,26 @@
 
 ---
 
+## Scan 2026-06-03
+
+- [ ] https://jobs.ashbyhq.com/truelogic/70ec66bc-29d6-4b1b-8d70-e1e988f7cdcc | Truelogic | Senior QA Automation Engineer (JavaScript/TypeScript) - HospitalityTech
+- [!] https://jobs.ashbyhq.com/truelogic/3d615e34-5cb7-44ea-ab11-50d21feeeb49 | Truelogic | Copy of Senior QA Automation Engineer (JS/TS) - HospitalityTech | Santo Domingo — Skipped: location mismatch (DR)
+- [!] https://jobs.ashbyhq.com/truelogic/0b1dc6f0-8523-4f4b-8790-9cc32aa49c9e | Truelogic | Senior SecOps Automation Engineer - Consumer FinTech — Skipped: SecOps ≠ QA domain
+- [!] https://jobs.ashbyhq.com/truelogic/3082abf2-2e91-47b4-8baa-d7fde613c995 | Truelogic | Senior SecOps Automation Engineer - Consumer FinTech | Brazil — Skipped: location + domain mismatch
+- [!] https://jobs.ashbyhq.com/truelogic/a88dc55d-5d49-48e4-89bf-9599d509042b | Truelogic | Senior SecOps Automation Engineer - Consumer FinTech | Mexico — Skipped: location + domain mismatch
+- [!] https://jobs.ashbyhq.com/truelogic/0d9802e6-6ca5-417b-bc86-7cd031d687c3 | Truelogic | Senior SecOps Automation Engineer - Consumer FinTech | Colombia — Skipped: SecOps ≠ QA domain
+- [!] https://jobs.ashbyhq.com/truelogic/349357a9-69c7-4308-a1a1-62db6a78a56c | Truelogic | Senior SecOps Automation Engineer - Consumer FinTech | DR — Skipped: location + domain mismatch
+- [ ] https://job-boards.greenhouse.io/peachpilot/jobs/5102879007 | Peach Pilot | Sr QA Engineer (AI Systems & Platform) - Latin America
+- [ ] https://jobs.ashbyhq.com/truelogic/f9745b7b-81fa-41c8-b104-65ff2ff06b39 | Truelogic | Senior QA Engineer (Data) - E-Learning (Latam)
+- [ ] https://jobs.ashbyhq.com/truelogic/fd04bb7f-544c-4dbb-870a-a305c093f041 | Truelogic | Senior QA Automation - Advertising (LatAm)
+- [ ] https://jobs.ashbyhq.com/silver/2b80059d-bf28-4ea2-81c0-a7555393c687 | Silver.dev | Hubstaff - Senior/Lead Software Test Automation Engineer (LATAM)
+- [ ] https://jobs.lever.co/celaralabs/a42e3b5c-d748-4d0c-b661-1283d350374f | Celara | QA Automation Engineer
+- [ ] https://jobs.lever.co/jobgether/7e6f1b22-a506-43d7-b185-aef1220d7433 | Jobgether | QA Engineer (Latam)
+- [ ] https://www.remoterocketship.com/company/jalasoft/jobs/senior-test-automation-engineer-playwright-typescript-colombia-remote/ | Jalasoft | Senior Test Automation Engineer - Playwright/TypeScript (Colombia remote)
+- [ ] https://job-boards.greenhouse.io/praxent/jobs/7668220003 | Praxent | LATAM Senior QA Analyst
+
+---
+
 ## Scan 2026-05-27
 
 - [x] #059 | https://jobs.ashbyhq.com/truelogic/04c5dfbe-6923-4cf5-9715-3d2b382a2332 | Truelogic | Senior QA Engineer - Software (LatAm) | 3.8/5 | ❌
