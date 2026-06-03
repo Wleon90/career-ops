@@ -83,6 +83,12 @@
 
 - [ ] https://jobs.ashbyhq.com/truelogic/3db28a07-1e9e-43e5-8178-982147cca556 | Truelogic | Senior QA Automation Engineer (JavaScript/TypeScript) - HospitalityTech
 
+- [ ] https://jobs.ashbyhq.com/truelogic/0b1dc6f0-8523-4f4b-8790-9cc32aa49c9e | Truelogic | Senior SecOps Automation Engineer - Consumer FinTech
+- [ ] https://jobs.ashbyhq.com/truelogic/3082abf2-2e91-47b4-8baa-d7fde613c995 | Truelogic | Senior SecOps Automation Engineer - Consumer FinTech | Brazil
+- [ ] https://jobs.ashbyhq.com/truelogic/a88dc55d-5d49-48e4-89bf-9599d509042b | Truelogic | Senior SecOps Automation Engineer - Consumer FinTech | Mexico
+- [ ] https://jobs.ashbyhq.com/truelogic/0d9802e6-6ca5-417b-bc86-7cd031d687c3 | Truelogic | Senior SecOps Automation Engineer - Consumer FinTech | Colombia
+- [ ] https://jobs.ashbyhq.com/truelogic/349357a9-69c7-4308-a1a1-62db6a78a56c | Truelogic | Senior SecOps Automation Engineer - Consumer FinTech | DR
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
