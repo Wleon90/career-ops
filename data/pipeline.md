@@ -107,6 +107,12 @@
 - [!] https://jobs.ashbyhq.com/truelogic/3cef5176-c35f-43e5-afa7-205412ab16c8 | Truelogic | QA Lead - AI Consulting Company - Brazil — Error: not in Ashby board (expired)
 - [!] https://jobs.ashbyhq.com/truelogic/e85cfd85-3eb6-4f81-ad15-e764ecfd0a94 | Truelogic | QA Lead - AI Consulting Company - Colombia — Error: not in Ashby board (expired)
 
+- [ ] https://jobs.ashbyhq.com/truelogic/2cd4239e-b22c-4833-989d-4919f71c2741 | Truelogic | Senior SDET -  GovTech Industry (Colombia)
+- [ ] https://jobs.ashbyhq.com/truelogic/a43fe49d-6e70-4df4-aa08-a7f8b1c829ae | Truelogic | Senior SDET -  GovTech Industry (Mexico)
+- [ ] https://jobs.ashbyhq.com/truelogic/b251e0c5-533d-477c-9d07-ec76682bd034 | Truelogic | Senior SDET -  GovTech Industry (Brazil)
+- [ ] https://jobs.ashbyhq.com/truelogic/ed93ae8d-3eee-4337-bc4a-a8d12c902209 | Truelogic | Senior QA Automation Engineer (JavaScript/TypeScript) - HospitalityTech
+- [ ] https://jobs.ashbyhq.com/truelogic/817be466-60a4-48d1-87b3-9b568218830e | Truelogic | Senior SDET -  GovTech Industry
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
