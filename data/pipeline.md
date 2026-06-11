@@ -8,6 +8,18 @@
 
 - [x] #073 | https://www.getonbrd.com/empleos/programacion/senior-qa-automation-engineer-niuro-remote | Niuro | Senior QA Automation Engineer | 2.8/5 | ❌
 - [x] #074 | https://jobs.lever.co/distro/2efc4825-de54-49eb-b903-461508f40c1a | Distro | Senior QA Automation Engineer | 3.8/5 | ❌
+- [x] #076 | https://career.globant.com/job/Bogota-Test-Automation-Engineer-Senior-with-Upper-English-level-Colo/578454717 | Globant | Senior Test Automation Engineer | 3.6/5 | ❌
+- [x] #077 | https://jobs.smartrecruiters.com/endava/744000121256477-automation-test-lead | Endava | Automation Test Lead | 3.8/5 | ❌
+- [x] #078 | https://jobs.smartrecruiters.com/endava/744000121251114-senior-automation-tester | Endava | Senior Automation Tester | 4.1/5 | ❌
+- [!] #079 | https://job-boards.greenhouse.io/quisitivejobs/jobs/7773653 | Quisitive | Senior QA Engineer – Playwright & Test Automation — Skipped: posting expired (Greenhouse 404)
+- [!] #080 | https://jobs.ashbyhq.com/truelogic/ef4a6a83-7724-454d-8ab1-c28c64677758 | Truelogic | Senior SDET Engineer - QA - Health Care — Skipped: posting expired (ID not in Ashby board)
+- [!] #081 | https://jobs.ashbyhq.com/truelogic/635bf3fa-fc0d-4b2d-825b-8ef089eb156a | Truelogic | QA Lead - Telecommunication — Skipped: posting expired (ID not in Ashby board)
+- [!] https://jobs.ashbyhq.com/truelogic/1db4ea66-655f-402c-8bfa-a55e4e84852d | Truelogic | Senior QA Engineer (SDET/Automation) - Healt Care — Skipped: duplicate variant of #008 (44bb5cb8, Healthcare role already evaluated)
+- [!] https://jobs.ashbyhq.com/truelogic/cb6ccd10-074f-4991-a22e-02215cf63669 | Truelogic | Senior Manual QA (Mobile/Web) - Entertainment — Skipped: manual QA focus, not automation
+- [!] https://oportunidades.sofka.com.co/en-GB/jobs/5860976-qa-automation-playwright-remote-latam | Sofka | QA Automation + Playwright | Remote LATAM — Skipped: posting expired (410 Gone)
+- [!] https://join.agileengine.com/job/sdet-engineer-senior-kobie/ | AgileEngine | SDET Engineer Senior (Kobie) — Skipped: posting expired (404)
+- [!] https://join.agileengine.com/job/senior-sdet-sureify/ | AgileEngine | Senior SDET (Sureify) — Skipped: posting expired (404)
+- [!] https://join.agileengine.com/job/senior-sdet-arkestro/ | AgileEngine | Senior SDET (Arkestro) — Skipped: posting expired (404)
 
 ---
 
@@ -124,6 +136,11 @@
 - [!] https://jobs.ashbyhq.com/truelogic/c003e430-db6b-4648-8269-48bc66332c05 | Truelogic | Senior SDET - GovTech Industry (Mexico) — Skipped: location mismatch
 - [!] https://jobs.ashbyhq.com/truelogic/2f6ccda8-f455-4fc6-9fc6-22bf854357fc | Truelogic | Senior SDET - GovTech Industry (Brazil) — Skipped: location mismatch
 - [!] https://jobs.ashbyhq.com/truelogic/b3731833-3b6c-405a-98b3-e6480f70521b | Truelogic | Senior SDET - GovTech Industry — Skipped: same JD type as #069, general variant
+
+- [!] https://job-boards.greenhouse.io/checkr/jobs/7921301 | Checkr | Quality Assurance Specialist, Truework — Skipped: US-only location (Nashville TN, hybrid 3d/week in office, requires US work authorization)
+- [!] https://www.samsara.com/company/careers/roles/7610376?gh_jid=7610376 | Samsara | Senior Automation Engineer (HIL) — Skipped: US-only location (San Francisco hybrid, US work authorization required)
+- [!] https://www.samsara.com/company/careers/roles/7610288?gh_jid=7610288 | Samsara | Solutions Integration Engineer — Skipped: US-only (Remote-US) + not a QA role (solutions engineering/integration)
+- [!] https://www.samsara.com/company/careers/roles/7775532?gh_jid=7775532 | Samsara | Solutions Integration Engineer IV — Skipped: US-only (Remote-US) + not a QA role (solutions engineering/integration)
 
 ## Procesadas
 

@@ -2,6 +2,12 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 76 | 2026-06-11 | Globant | Senior Test Automation Engineer | 3.6/5 | Evaluated | ❌ | [076](../reports/076-globant-senior-test-automation-engineer-2026-06-11.md) | Remote Colombia, Selenium/Java/Appium, thin JD, no salary — apply with negotiation |
+| 77 | 2026-06-11 | Endava | Automation Test Lead | 3.8/5 | Evaluated | ❌ | [077](../reports/077-endava-automation-test-lead-2026-06-11.md) | Bogotá hybrid, Playwright/CI-CD/AI-desirable, 8yr req vs 7yr — apply, lead Thales leadership angle |
+| 78 | 2026-06-11 | Endava | Senior Automation Tester | 4.1/5 | Evaluated | ❌ | [078](../reports/078-endava-senior-automation-tester-2026-06-11.md) | Bogotá hybrid, Playwright/REST/ISTQB, strongest match in batch — apply immediately |
+| 79 | 2026-06-11 | Quisitive | Senior QA Engineer – Playwright & Test Automation | N/A | Discarded | ❌ | [079](../reports/079-quisitive-senior-qa-engineer-playwright-2026-06-11.md) | Expired — Greenhouse 404, role not on board |
+| 80 | 2026-06-11 | Truelogic | Senior SDET Engineer - QA - Health Care | N/A | Discarded | ❌ | [080](../reports/080-truelogic-senior-sdet-healthcare-2026-06-11.md) | Expired — ID not in Ashby board; apply immediately on repost (known 3.8/5 fit) |
+| 81 | 2026-06-11 | Truelogic | QA Lead - Telecommunication | N/A | Discarded | ❌ | [081](../reports/081-truelogic-qa-lead-telecommunication-2026-06-11.md) | Expired — ID not in Ashby board |
 | 73 | 2026-06-11 | Niuro | Senior QA Automation Engineer | 2.8/5 | Evaluated | ❌ | [073](reports/073-niuro-senior-qa-automation-engineer-2026-06-11.md) | SKIP — C#/Python stack gap + comp below minimum ($2,500–$3,000/mo) |
 | 74 | 2026-06-11 | Distro | Senior QA Automation Engineer | 3.8/5 | Evaluated | ❌ | [074](reports/074-distro-senior-qa-automation-engineer-2026-06-11.md) | Playwright+TS exact match; fintech SaaS; verify Colombia eligibility + liveness (403 on direct access) |
 | 75 | 2026-06-11 | Truelogic | Senior QA Automation Engineer (JS/TS) - HospitalityTech (ed93ae8d) | 3.5/5 | Evaluated | ❌ | [075](reports/075-truelogic-senior-qa-automation-hospitalitytech-2026-06-11.md) | Verify liveness first — not in Ashby board; prior HospitalityTech variant (#063) closed before apply |
