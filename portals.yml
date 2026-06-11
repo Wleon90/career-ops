@@ -209,6 +209,20 @@ search_queries:
     query: 'site:job-boards.greenhouse.io "QA Engineer" OR "SDET" OR "Test Automation" "e-commerce" OR "ecommerce" OR "retail" remote'
     enabled: true
 
+  # -- New portals (added 2026-06-11) --
+
+  - name: Contra — QA Remote Senior
+    query: 'site:contra.com "QA Engineer" OR "SDET" OR "Test Automation" OR "Automation Engineer" senior remote'
+    enabled: true
+
+  - name: Lemon.io — QA Senior
+    query: 'site:lemon.io "QA Engineer" OR "SDET" OR "Test Automation" OR "Quality" senior'
+    enabled: true
+
+  - name: LinkedIn — SDET identity / verification
+    query: '"SDET" OR "QA Engineer" "identity verification" OR "identity documents" OR "biometric" OR "background check" remote senior Colombia OR LATAM OR "Latin America" -junior'
+    enabled: true
+
 # -- Tracked companies --
 # Companies whose career pages are checked directly.
 
@@ -384,3 +398,79 @@ tracked_companies:
     careers_url: https://jobs.ashbyhq.com/testgorilla
     notes: "Pre-employment testing platform. Previously evaluated #012 (4.5/5). Ashby board returns 404 — may use a different ATS."
     enabled: false
+
+  # == NEARSHORE LATAM (added 2026-06-11) ==
+
+  - name: BairesDev
+    careers_url: https://www.bairesdev.com/open-positions/
+    scan_method: websearch
+    scan_query: '"QA Engineer" OR "SDET" OR "Test Automation" OR "Quality Engineer" site:bairesdev.com/open-positions'
+    notes: "Large nearshore software company, strong LATAM presence. Remote-first."
+    enabled: true
+
+  - name: Wizeline
+    careers_url: https://job-boards.greenhouse.io/wizeline
+    notes: "Mexico-based nearshore with US product clients. Greenhouse board."
+    enabled: true
+
+  - name: Globant
+    careers_url: https://careers.globant.com/global/en/search-results
+    scan_method: websearch
+    scan_query: '"QA Engineer" OR "SDET" OR "Test Automation" OR "Quality" site:careers.globant.com remote senior'
+    notes: "Argentine nearshore tech giant. Strong Colombia presence. SmartRecruiters ATS."
+    enabled: true
+
+  - name: Andela
+    careers_url: https://job-boards.greenhouse.io/andela
+    notes: "Global engineering talent network. Strong LATAM expansion. Greenhouse board."
+    enabled: true
+
+  # == IDENTITY & BIOMETRIC — EXPANDED (added 2026-06-11) ==
+
+  - name: Aware Inc
+    careers_url: https://www.aware.com/about/careers/
+    scan_method: websearch
+    scan_query: '"QA" OR "QC" OR "Test" OR "Quality Engineer" "Aware" biometric OR identity remote'
+    notes: "Biometric software — fingerprint, face, voice. Identity verification platform."
+    enabled: true
+
+  - name: Daon
+    careers_url: https://www.daon.com/careers/
+    scan_method: websearch
+    scan_query: '"QA" OR "QC" OR "Test" OR "Quality" "Daon" identity OR biometric remote'
+    notes: "Digital identity verification platform (passports, biometrics). William's sector."
+    enabled: true
+
+  - name: Fingerprint
+    careers_url: https://jobs.ashbyhq.com/fingerprintjs
+    notes: "Device fingerprinting and fraud prevention. Identity-adjacent. Ashby board."
+    enabled: true
+
+  - name: Suprema
+    careers_url: https://www.supremainc.com/en/support/careers.asp
+    scan_method: websearch
+    scan_query: '"QA" OR "QC" OR "Test" OR "Quality" "Suprema" biometric OR "access control" remote'
+    notes: "Korean biometric hardware/software company. Global identity market."
+    enabled: true
+
+  # == SAAS / PRODUCT TECH (added 2026-06-11) ==
+
+  - name: Datadog
+    careers_url: https://job-boards.greenhouse.io/datadog
+    notes: "Observability and monitoring SaaS. Strong QA/SDET culture. Greenhouse board."
+    enabled: true
+
+  - name: PagerDuty
+    careers_url: https://job-boards.greenhouse.io/pagerduty
+    notes: "Incident management SaaS. LATAM-friendly remote roles. Greenhouse board."
+    enabled: true
+
+  - name: Samsara
+    careers_url: https://job-boards.greenhouse.io/samsara
+    notes: "IoT/fleet management SaaS. Growing QA team. Greenhouse board."
+    enabled: true
+
+  - name: Checkr
+    careers_url: https://job-boards.greenhouse.io/checkr
+    notes: "Background checks and identity verification SaaS. Adjacent to William's identity sector."
+    enabled: true

@@ -120,6 +120,11 @@
 - [x] #075 | https://jobs.ashbyhq.com/truelogic/ed93ae8d-3eee-4337-bc4a-a8d12c902209 | Truelogic | Senior QA Automation Engineer (JavaScript/TypeScript) - HospitalityTech | 3.5/5 | ❌
 - [!] https://jobs.ashbyhq.com/truelogic/817be466-60a4-48d1-87b3-9b568218830e | Truelogic | Senior SDET - GovTech Industry (no region) — Skipped: not in Ashby board (expired); syndicated as US-remote only on external boards
 
+- [!] https://jobs.ashbyhq.com/truelogic/311f7167-31b6-4871-9868-65ff1820b9f3 | Truelogic | Senior SDET - GovTech Industry (Colombia) — Skipped: same JD type as #069 (4.2/5, Discarded); Truelogic reposting pattern
+- [!] https://jobs.ashbyhq.com/truelogic/c003e430-db6b-4648-8269-48bc66332c05 | Truelogic | Senior SDET - GovTech Industry (Mexico) — Skipped: location mismatch
+- [!] https://jobs.ashbyhq.com/truelogic/2f6ccda8-f455-4fc6-9fc6-22bf854357fc | Truelogic | Senior SDET - GovTech Industry (Brazil) — Skipped: location mismatch
+- [!] https://jobs.ashbyhq.com/truelogic/b3731833-3b6c-405a-98b3-e6480f70521b | Truelogic | Senior SDET - GovTech Industry — Skipped: same JD type as #069, general variant
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
