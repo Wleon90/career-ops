@@ -4,6 +4,13 @@
 
 ---
 
+## Scan 2026-06-11
+
+- [x] #073 | https://www.getonbrd.com/empleos/programacion/senior-qa-automation-engineer-niuro-remote | Niuro | Senior QA Automation Engineer | 2.8/5 | ❌
+- [x] #074 | https://jobs.lever.co/distro/2efc4825-de54-49eb-b903-461508f40c1a | Distro | Senior QA Automation Engineer | 3.8/5 | ❌
+
+---
+
 ## Scan 2026-06-03
 
 - [x] #063 | https://jobs.ashbyhq.com/truelogic/70ec66bc-29d6-4b1b-8d70-e1e988f7cdcc | Truelogic | Senior QA Automation Engineer (JavaScript/TypeScript) - HospitalityTech | 3.6/5 | ❌
@@ -107,11 +114,11 @@
 - [!] https://jobs.ashbyhq.com/truelogic/3cef5176-c35f-43e5-afa7-205412ab16c8 | Truelogic | QA Lead - AI Consulting Company - Brazil — Error: not in Ashby board (expired)
 - [!] https://jobs.ashbyhq.com/truelogic/e85cfd85-3eb6-4f81-ad15-e764ecfd0a94 | Truelogic | QA Lead - AI Consulting Company - Colombia — Error: not in Ashby board (expired)
 
-- [ ] https://jobs.ashbyhq.com/truelogic/2cd4239e-b22c-4833-989d-4919f71c2741 | Truelogic | Senior SDET -  GovTech Industry (Colombia)
-- [ ] https://jobs.ashbyhq.com/truelogic/a43fe49d-6e70-4df4-aa08-a7f8b1c829ae | Truelogic | Senior SDET -  GovTech Industry (Mexico)
-- [ ] https://jobs.ashbyhq.com/truelogic/b251e0c5-533d-477c-9d07-ec76682bd034 | Truelogic | Senior SDET -  GovTech Industry (Brazil)
-- [ ] https://jobs.ashbyhq.com/truelogic/ed93ae8d-3eee-4337-bc4a-a8d12c902209 | Truelogic | Senior QA Automation Engineer (JavaScript/TypeScript) - HospitalityTech
-- [ ] https://jobs.ashbyhq.com/truelogic/817be466-60a4-48d1-87b3-9b568218830e | Truelogic | Senior SDET -  GovTech Industry
+- [!] https://jobs.ashbyhq.com/truelogic/2cd4239e-b22c-4833-989d-4919f71c2741 | Truelogic | Senior SDET - GovTech Industry (Colombia) — Skipped: duplicate of #069 (same Ashby ID, already evaluated 4.2/5, then Discarded)
+- [!] https://jobs.ashbyhq.com/truelogic/a43fe49d-6e70-4df4-aa08-a7f8b1c829ae | Truelogic | Senior SDET - GovTech Industry (Mexico) — Skipped: not in Ashby board (expired) + location mismatch (Mexico-specific, no remote clause found)
+- [!] https://jobs.ashbyhq.com/truelogic/b251e0c5-533d-477c-9d07-ec76682bd034 | Truelogic | Senior SDET - GovTech Industry (Brazil) — Skipped: not in Ashby board (expired) + location mismatch (Brazil-specific, no remote clause found)
+- [x] #075 | https://jobs.ashbyhq.com/truelogic/ed93ae8d-3eee-4337-bc4a-a8d12c902209 | Truelogic | Senior QA Automation Engineer (JavaScript/TypeScript) - HospitalityTech | 3.5/5 | ❌
+- [!] https://jobs.ashbyhq.com/truelogic/817be466-60a4-48d1-87b3-9b568218830e | Truelogic | Senior SDET - GovTech Industry (no region) — Skipped: not in Ashby board (expired); syndicated as US-remote only on external boards
 
 ## Procesadas
 

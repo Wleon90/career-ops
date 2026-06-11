@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 73 | 2026-06-11 | Niuro | Senior QA Automation Engineer | 2.8/5 | Evaluated | ❌ | [073](reports/073-niuro-senior-qa-automation-engineer-2026-06-11.md) | SKIP — C#/Python stack gap + comp below minimum ($2,500–$3,000/mo) |
+| 74 | 2026-06-11 | Distro | Senior QA Automation Engineer | 3.8/5 | Evaluated | ❌ | [074](reports/074-distro-senior-qa-automation-engineer-2026-06-11.md) | Playwright+TS exact match; fintech SaaS; verify Colombia eligibility + liveness (403 on direct access) |
+| 75 | 2026-06-11 | Truelogic | Senior QA Automation Engineer (JS/TS) - HospitalityTech (ed93ae8d) | 3.5/5 | Evaluated | ❌ | [075](reports/075-truelogic-senior-qa-automation-hospitalitytech-2026-06-11.md) | Verify liveness first — not in Ashby board; prior HospitalityTech variant (#063) closed before apply |
 | 63 | 2026-06-03 | Truelogic | Senior QA Automation Engineer (JS/TS) - HospitalityTech | 3.6/5 | Discarded | ❌ | [060](reports/060-truelogic-senior-qa-automation-hospitalitytech-2026-06-03.md) | Discarded 2026-06-03 — posting no longer available. |
 | 64 | 2026-06-03 | Peach Pilot | Sr QA Engineer (AI Systems & Platform) - Latin America | 3.2/5 | SKIP | ❌ | [061](reports/061-peachpilot-sr-qa-engineer-ai-systems-2026-06-03.md) | Hard gaps: Python, Vitest, LLM eval pipelines; comp likely below minimum; early-stage startup risk |
 | 65 | 2026-06-03 | Truelogic | Senior QA Engineer (Data) - E-Learning (Latam) | 3.5/5 | Discarded | ❌ | [062](reports/062-truelogic-senior-qa-engineer-data-elearning-2026-06-03.md) | Discarded 2026-06-03 — posting no longer available. |
