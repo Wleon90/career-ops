@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 83 | 2026-06-16 | Oowlish | QA Automation Engineer (AI-Assisted Quality Engineering) | 3.6/5 | Evaluated | ❌ | [083](../reports/083-oowlish-qa-automation-ai-2026-06-16.md) | Active Lever posting; companion postings expired; US visa travel ask needs clarification; no salary disclosed |
 | 76 | 2026-06-11 | Globant | Senior Test Automation Engineer | 3.6/5 | Evaluated | ❌ | [076](../reports/076-globant-senior-test-automation-engineer-2026-06-11.md) | Remote Colombia, Selenium/Java/Appium, thin JD, no salary — apply with negotiation |
 | 77 | 2026-06-11 | Endava | Automation Test Lead | 3.8/5 | Evaluated | ❌ | [077](../reports/077-endava-automation-test-lead-2026-06-11.md) | Bogotá hybrid, Playwright/CI-CD/AI-desirable, 8yr req vs 7yr — apply, lead Thales leadership angle |
 | 78 | 2026-06-11 | Endava | Senior Automation Tester | 4.1/5 | Evaluated | ❌ | [078](../reports/078-endava-senior-automation-tester-2026-06-11.md) | Bogotá hybrid, Playwright/REST/ISTQB, strongest match in batch — apply immediately |
@@ -31,7 +32,7 @@
 | 58 | 2026-05-27 | GovWorx | QA Engineer - LATAM | 3.5/5 | Applied | ❌ | [049](reports/049-govworx-qa-engineer-latam-2026-05-27.md) | Applied 2026-05-27. Gov/public safety AI startup; strong mission+skill fit. |
 | 59 | 2026-05-27 | Truelogic | Senior QA Engineer - Software (LatAm) | 3.8/5 | Applied | ❌ | [047](reports/047-truelogic-senior-qa-software-2026-05-27.md) | Applied 2026-06-03. Confirmed active despite earlier expired signal. |
 | 60 | 2026-05-27 | Deel | QA Automation Engineer (LATAM) | 4.0/5 | Discarded | ❌ | [048](reports/048-deel-qa-automation-engineer-latam-2026-05-27.md) | Discarded 2026-05-27 — posting no longer available. |
-| 61 | 2026-05-27 | Huge | Senior QA Analyst (Remote Colombia) | 2.4/5 | SKIP | ❌ | [058](reports/058-huge-senior-qa-analyst-2026-05-27.md) | Mobile-first (React Native, iOS/Android); 4th consecutive Huge Colombia SKIP — same pattern |
+| 61 | 2026-06-16 | Huge | Senior QA Analyst | 3.2/5 | SKIP | ❌ | [082](../reports/082-hugeinc-senior-qa-analyst-2026-06-16.md) | Re-eval 2026-06-16 (2.4→3.2). eCommerce agency role, better than prior Huge postings (no mobile gap) but COP salary pattern + domain gap → skip |
 | 62 | 2026-05-27 | Huge | Freelance Senior QA Analyst | 3.1/5 | SKIP | ❌ | [059](reports/059-huge-freelance-senior-qa-analyst-2026-05-27.md) | 3-week contract (Jun 1-30) only; CMS+WCAG gaps; low value vs permanent search opportunity cost |
 | 44 | 2026-05-22 | CI&T | Senior QA with Java Automation [Job-25126] Colombia | 3.8/5 | Discarded | ❌ | [044](reports/044-ciandt-senior-qa-java-automation-2026-05-22.md) | Discarded 2026-05-22 — posting closed (404). 4th consecutive CI&T posting to close before application. |
 | 45 | 2026-05-22 | Super.com | Senior QA Engineer | 3.5/5 | Discarded | ❌ | [045](reports/045-supercom-senior-qa-engineer-2026-05-22.md) | Discarded 2026-05-22 — US and Canada only. Location blocker. |

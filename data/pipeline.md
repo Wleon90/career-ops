@@ -2,6 +2,16 @@
 
 <!-- add new URLs here -->
 
+## Scan 2026-06-16
+
+- [x] #082 | https://job-boards.greenhouse.io/hugeinc/jobs/7947875 | Huge | Senior QA Analyst | 3.2/5 | ❌
+- [!] https://jobs.lever.co/oowlish/aba25fe5-9dbb-4692-977d-3bcbb9f4618e | Oowlish Technology | QA Automation Engineer — Skipped: posting expired (Lever API 404, not in active board)
+- [x] #083 | https://jobs.lever.co/oowlish/5301fc7e-1a65-471c-89d5-682b1c8db19f | Oowlish Technology | QA Automation Engineer (AI-Assisted Quality Engineering) | 3.6/5 | ❌
+- [!] https://jobs.lever.co/oowlish/7c75f49a-1f52-4035-8b1f-630ea647c907 | Oowlish Technology | Senior QA Automation Engineer (Split SaaS Products) — Skipped: posting expired (Lever API 404, not in active board)
+- [!] https://jobs.lever.co/teramind/bfb41341-ed03-4a4d-b087-341436b93621 | Teramind | QA Lead - Release and Automation — Skipped: posting expired (role no longer on Lever/Teramind board)
+- [!] https://job-boards.greenhouse.io/testlio/jobs/6436312 | Testlio | Test Automation Specialist (Python, Appium, TypeScript & Playwright) — Skipped: posting expired (job ID not found on Greenhouse board)
+- [!] https://job-boards.greenhouse.io/keyo/jobs/4608054008 | Keyo | Web/Mobile Apps QA/QC Engineer — Skipped: posting expired (Greenhouse board for Keyo returns 404; company migrated to Breezy.hr with no open QA positions)
+
 ---
 
 ## Scan 2026-06-11
@@ -141,6 +151,8 @@
 - [!] https://www.samsara.com/company/careers/roles/7610376?gh_jid=7610376 | Samsara | Senior Automation Engineer (HIL) — Skipped: US-only location (San Francisco hybrid, US work authorization required)
 - [!] https://www.samsara.com/company/careers/roles/7610288?gh_jid=7610288 | Samsara | Solutions Integration Engineer — Skipped: US-only (Remote-US) + not a QA role (solutions engineering/integration)
 - [!] https://www.samsara.com/company/careers/roles/7775532?gh_jid=7775532 | Samsara | Solutions Integration Engineer IV — Skipped: US-only (Remote-US) + not a QA role (solutions engineering/integration)
+
+- [!] https://www.samsara.com/company/careers/roles/7961278?gh_jid=7961278 | Samsara | Solutions Integration Engineer II — Skipped: US-only (Remote-US) + not a QA role (solutions engineering/integration)
 
 ## Procesadas
 
