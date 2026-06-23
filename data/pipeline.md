@@ -105,6 +105,12 @@
 - [ ] https://jobs.ashbyhq.com/truelogic/5e22da0f-9ca4-4816-9be2-9ef6ede8e353 | Truelogic | Senior Software Development Engineer in Test (SDET/AI) - Real Estate - Colombia (Remote)
 - [ ] https://jobs.ashbyhq.com/truelogic/992842a1-6957-40d4-8d72-2c0fe66d1e0e | Truelogic | Senior Software Development Engineer in Test (SDET/AI) - Real Estate - Brazil (Remote)
 
+- [ ] https://jobs.ashbyhq.com/truelogic/e4c4d80e-b9e9-4a8a-b6a4-61946d238e9a | Truelogic | Senior Software Development Engineer in Test (SDET) - Ecommerce - LATAM (Remote)
+- [ ] https://jobs.ashbyhq.com/truelogic/854ec4a7-0214-4bd8-8cb0-dbff30d1180d | Truelogic | Senior Software Development Engineer in Test (SDET) - Ecommerce - DR (Remote)
+- [ ] https://jobs.ashbyhq.com/truelogic/41bb8844-6807-415d-abf2-90cc2c3dacfa | Truelogic | Senior Software Development Engineer in Test (SDET) - Ecommerce - Brazil (Remote)
+- [ ] https://jobs.ashbyhq.com/truelogic/0a32203e-3508-4dc1-bb6b-5f6c881f37df | Truelogic | Senior Software Development Engineer in Test (SDET) - Ecommerce - Mexico (Remote)
+- [ ] https://jobs.ashbyhq.com/truelogic/9fcca8c1-90b6-4c91-b9f2-914b3196d5ba | Truelogic | Senior Software Development Engineer in Test (SDET) - Ecommerce - Colombia (Remote)
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
