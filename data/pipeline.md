@@ -111,6 +111,9 @@
 - [ ] https://jobs.ashbyhq.com/truelogic/0a32203e-3508-4dc1-bb6b-5f6c881f37df | Truelogic | Senior Software Development Engineer in Test (SDET) - Ecommerce - Mexico (Remote)
 - [ ] https://jobs.ashbyhq.com/truelogic/9fcca8c1-90b6-4c91-b9f2-914b3196d5ba | Truelogic | Senior Software Development Engineer in Test (SDET) - Ecommerce - Colombia (Remote)
 
+- [ ] https://job-boards.greenhouse.io/santex/jobs/8350470002 | Santex | Senior QA Automation (Must: Cypress & Detox)
+- [ ] https://job-boards.greenhouse.io/santex/jobs/8205035002 | Santex | Senior SDET 
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
