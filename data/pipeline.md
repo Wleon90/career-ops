@@ -114,6 +114,8 @@
 - [ ] https://job-boards.greenhouse.io/santex/jobs/8350470002 | Santex | Senior QA Automation (Must: Cypress & Detox)
 - [ ] https://job-boards.greenhouse.io/santex/jobs/8205035002 | Santex | Senior SDET 
 
+- [ ] https://jobs.ashbyhq.com/truelogic/3e85ae02-17dc-40a7-b030-eeb579553dc7 | Truelogic | Senior QA Engineer - E-commerce
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
