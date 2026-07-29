@@ -127,6 +127,8 @@
 
 - [ ] https://job-boards.greenhouse.io/santex/jobs/8631605002 | Santex | Senior QA Automation (Must: Detox & TypeScript)
 
+- [ ] https://job-boards.greenhouse.io/lifted/jobs/7790973003 | Lifted | Contract: Senior QA Engineer
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
