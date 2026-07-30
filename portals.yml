@@ -70,6 +70,47 @@ title_filter:
     - "Mid"
     - "Middle"
 
+# -- Location filter (added 2026-07-29) --
+# Keeps only Colombia / LATAM-remote roles. Rules (see modes/scan.md step 6b):
+#   empty posting location -> passes; any `block` keyword -> reject (wins over allow);
+#   non-empty `allow` -> must match >=1 keyword. All case-insensitive substring matches.
+# NOTE: scan.mjs v1.10 does NOT enforce this yet (it captures location but ignores the
+# filter). Enforced by the agent workflow now; the v1.21 update is expected to add native
+# scanner support. Country-only shards (Mexico/Brazil/etc.) are dropped by the allow-list
+# requirement; multi-country LATAM postings that mention Colombia still pass.
+location_filter:
+  allow:
+    - "Colombia"
+    - "Bogotá"
+    - "Bogota"
+    - "Medellín"
+    - "Medellin"
+    - "LATAM"
+    - "Latin America"
+    - "Latam"
+    - "Americas"
+    - "Remote"
+    - "Anywhere"
+    - "Worldwide"
+    - "Global"
+  block:
+    - "India"
+    - "Philippines"
+    - "Manila"
+    - "Quezon"
+    - "Pakistan"
+    - "Vietnam"
+    - "Indonesia"
+    - "Europe"
+    - "European"
+    - "EMEA"
+    - "Egypt"
+    - "Nigeria"
+    - "Kenya"
+    - "Ukraine"
+    - "Poland"
+    - "Romania"
+
 # -- Search queries --
 # Each query triggers a WebSearch. Use site: to filter by portal.
 
@@ -221,6 +262,20 @@ search_queries:
 
   - name: LinkedIn — SDET identity / verification
     query: '"SDET" OR "QA Engineer" "identity verification" OR "identity documents" OR "biometric" OR "background check" remote senior Colombia OR LATAM OR "Latin America" -junior'
+    enabled: true
+
+  # -- Pharma / life sciences (added 2026-07-14) --
+
+  - name: LinkedIn — Pharma QA/QC Validation Remote
+    query: '"QA Engineer" OR "QC Engineer" OR "Validation Engineer" OR "Quality Assurance" pharma OR pharmaceutical OR "life sciences" OR GxP OR "computer system validation" remote Colombia OR LATAM OR "Latin America" -junior'
+    enabled: true
+
+  - name: Indeed — Pharma QA/QC/CSV Senior
+    query: 'site:indeed.com "Senior QA" OR "QC Engineer" OR "Validation Engineer" pharma OR pharmaceutical OR GxP OR "computer system validation" remote -junior'
+    enabled: true
+
+  - name: Greenhouse — Biotech/Pharma QA Validation
+    query: 'site:boards.greenhouse.io OR site:job-boards.greenhouse.io "QA Engineer" OR "Validation Engineer" OR "Quality Assurance" biotech OR pharma OR pharmaceutical OR GxP remote'
     enabled: true
 
 # -- Tracked companies --
@@ -379,11 +434,6 @@ tracked_companies:
     notes: "Nearshore engineering, multiple verticals. Previously evaluated #008 (3.8/5) and #015 (3.5/5)."
     enabled: true
 
-  - name: Machinify
-    careers_url: https://jobs.ashbyhq.com/machinify
-    notes: "AI/ML platform. Previously evaluated #009 (1.5/5)."
-    enabled: true
-
   - name: RoomPriceGenie
     careers_url: https://jobs.ashbyhq.com/roompricegenie
     notes: "Hospitality SaaS. Previously evaluated #010 (4.0/5)."
@@ -420,11 +470,6 @@ tracked_companies:
     notes: "Argentine nearshore tech giant. Strong Colombia presence. SmartRecruiters ATS."
     enabled: true
 
-  - name: Andela
-    careers_url: https://job-boards.greenhouse.io/andela
-    notes: "Global engineering talent network. Strong LATAM expansion. Greenhouse board."
-    enabled: true
-
   # == IDENTITY & BIOMETRIC — EXPANDED (added 2026-06-11) ==
 
   - name: Aware Inc
@@ -439,11 +484,6 @@ tracked_companies:
     scan_method: websearch
     scan_query: '"QA" OR "QC" OR "Test" OR "Quality" "Daon" identity OR biometric remote'
     notes: "Digital identity verification platform (passports, biometrics). William's sector."
-    enabled: true
-
-  - name: Fingerprint
-    careers_url: https://jobs.ashbyhq.com/fingerprintjs
-    notes: "Device fingerprinting and fraud prevention. Identity-adjacent. Ashby board."
     enabled: true
 
   - name: Suprema
@@ -473,4 +513,407 @@ tracked_companies:
   - name: Checkr
     careers_url: https://job-boards.greenhouse.io/checkr
     notes: "Background checks and identity verification SaaS. Adjacent to William's identity sector."
+    enabled: true
+
+  # == PHARMA / LIFE SCIENCES — GxP, CSV, Quality Systems (added 2026-07-14) ==
+
+  - name: Novartis
+    careers_url: https://www.novartis.com/careers
+    scan_method: websearch
+    scan_query: '"QA" OR "QC" OR "Validation Engineer" OR "Quality Assurance" site:novartis.com/careers remote'
+    notes: "Global pharma. GxP quality systems roles."
+    enabled: true
+
+  - name: Roche
+    careers_url: https://careers.roche.com
+    scan_method: websearch
+    scan_query: '"QA" OR "QC" OR "Validation Engineer" OR "Quality Assurance" site:careers.roche.com remote'
+    notes: "Pharma + diagnostics. Strong QA/QC and CSV (computer system validation) hiring."
+    enabled: true
+
+  - name: GSK
+    careers_url: https://www.gsk.com/en-gb/careers/
+    scan_method: websearch
+    scan_query: '"QA" OR "QC" OR "Validation Engineer" OR "Quality Engineer" site:gsk.com/en-gb/careers remote'
+    notes: "GlaxoSmithKline. Global pharma/vaccines."
+    enabled: true
+
+  - name: Sanofi
+    careers_url: https://jobs.sanofi.com
+    scan_method: websearch
+    scan_query: '"QA" OR "QC" OR "Validation Engineer" OR "Quality Assurance" site:jobs.sanofi.com remote'
+    notes: "French global pharma. LATAM manufacturing sites (incl. Colombia)."
+    enabled: true
+
+  - name: AbbVie
+    careers_url: https://careers.abbvie.com
+    scan_method: websearch
+    scan_query: '"QA" OR "QC" OR "Validation Engineer" OR "Quality Engineer" site:careers.abbvie.com remote'
+    notes: "Global pharma (Humira, Botox). GxP quality/validation roles."
+    enabled: true
+
+  - name: Merck (MSD)
+    careers_url: https://jobs.merck.com
+    scan_method: websearch
+    scan_query: '"QA" OR "QC" OR "Validation Engineer" OR "Quality Assurance" site:jobs.merck.com remote'
+    notes: "Known as MSD outside US/Canada. Global pharma."
+    enabled: true
+
+  - name: Novo Nordisk
+    careers_url: https://www.novonordisk.com/careers.html
+    scan_method: websearch
+    scan_query: '"QA" OR "QC" OR "Validation Engineer" OR "Quality Engineer" site:novonordisk.com/careers remote'
+    notes: "Diabetes/obesity care pharma. Growing digital + quality systems teams."
+    enabled: true
+
+  # == HEALTHCARE / HEALTHTECH (added 2026-07-16) ==
+
+  - name: Oscar Health
+    careers_url: https://www.hioscar.com/careers
+    scan_method: websearch
+    scan_query: '"QA" OR "QC" OR "Test Automation" OR "Quality Engineer" site:hioscar.com/careers remote'
+    notes: "Health insurance technology (NYC). ~98 remote openings referenced across tech/admin; QA roles exist. Verify remote scope for LATAM each scan."
+    enabled: true
+
+  - name: GoodRx
+    careers_url: https://www.goodrx.com/jobs
+    scan_method: websearch
+    scan_query: '"QA" OR "QC" OR "Test Automation" OR "Quality Engineer" site:goodrx.com/jobs remote'
+    notes: "Healthcare/pharmacy discount platform. Engineering org active; remote QA/automation postings appear via job aggregators — verify each scan."
+    enabled: true
+
+  - name: Included Health
+    careers_url: https://includedhealth.com/careers/tech-jobs/
+    scan_method: websearch
+    scan_query: '"QA" OR "QC" OR "Test Automation" OR "Quality Engineer" site:includedhealth.com/careers remote'
+    notes: "Virtual care + navigation healthtech. Has a dedicated remote tech-jobs page — confirmed remote-first engineering culture."
+    enabled: true
+
+  - name: Ro
+    careers_url: https://jobs.lever.co/ro
+    notes: "Telehealth (pharmacy, at-home testing, diagnostics). Remote team spans 4 countries. Lever board — zero-token scannable."
+    enabled: true
+
+  - name: Cedar
+    careers_url: https://www.cedar.com/careers
+    scan_method: websearch
+    scan_query: '"QA" OR "QC" OR "Test Automation" OR "Quality Engineer" site:cedar.com/careers remote'
+    notes: "Healthcare billing/patient financial experience (AI-powered). Hybrid model — ~2/3 of staff work remotely, onsite only for team on-sites."
+    enabled: true
+
+  # == INSURANCE / INSURTECH (added 2026-07-16) ==
+
+  - name: Root Insurance
+    careers_url: https://www.joinroot.com/careers
+    scan_method: websearch
+    scan_query: '"QA" OR "QC" OR "Test Automation" OR "Quality Engineer" site:joinroot.com/careers remote'
+    notes: "Auto insurtech (Columbus, OH). Tech-led org; remote QA postings not independently confirmed this pass — verify each scan."
+    enabled: true
+
+  - name: Hippo Insurance
+    careers_url: https://boards.greenhouse.io/hippo70
+    notes: "Home insurtech. Hybrid/remote-flexible; SwingDev (Hippo's engineering arm) has posted remote QA roles. Greenhouse board — zero-token scannable."
+    enabled: true
+
+  - name: Next Insurance
+    careers_url: https://www.nextinsurance.com/careers/
+    scan_method: websearch
+    scan_query: '"QA" OR "QC" OR "Test Automation" OR "Quality Engineer" site:nextinsurance.com/careers remote'
+    notes: "SMB insurtech, tech-led (Kotlin/Java backend). Remote QA postings not independently confirmed this pass — verify each scan."
+    enabled: true
+
+  - name: Ethos Life
+    careers_url: https://job-boards.greenhouse.io/ethoslife
+    notes: "Life insurance insurtech (AI/data-driven underwriting). Remote openings across Software Engineering confirmed. Greenhouse board — zero-token scannable."
+    enabled: true
+
+  - name: Coalition Inc
+    careers_url: https://www.coalitioninc.com/careers
+    scan_method: websearch
+    scan_query: '"QA" OR "QC" OR "Test Automation" OR "Quality Engineer" site:coalitioninc.com/careers remote'
+    notes: "Cyber insurance + security. Confirmed remote-first — roles workable from anywhere in the world."
+    enabled: true
+
+  # == LOANS / LENDING (added 2026-07-16) ==
+
+  - name: Upstart
+    careers_url: https://www.upstart.com/careers
+    scan_method: websearch
+    scan_query: '"QA" OR "QC" OR "Test Automation" OR "Quality Engineer" site:upstart.com/careers remote'
+    notes: "AI lending platform. Confirmed a fully-remote Senior QA Engineer (Manual/Automation) posting (since filled) — active remote QA hiring pattern."
+    enabled: true
+
+  - name: Affirm
+    careers_url: https://www.affirm.com/careers
+    scan_method: websearch
+    scan_query: '"QA" OR "QC" OR "Test Automation" OR "Quality Engineer" site:affirm.com/careers remote'
+    notes: "BNPL/lending. Confirmed remote-first — majority of roles are remote. QA Specialist/Manager (Customer Operations) remote postings confirmed."
+    enabled: true
+
+  - name: Earnest
+    careers_url: https://www.earnest.com/careers
+    scan_method: websearch
+    scan_query: '"QA" OR "QC" OR "Test Automation" OR "Quality Engineer" site:earnest.com/careers remote'
+    notes: "Student loan refinancing/lending. Confirmed remote-first team; 100% remote software development roles, in-office only periodic."
+    enabled: true
+
+  - name: Best Egg
+    careers_url: https://jobs.lever.co/BestEgg
+    notes: "Consumer lending (personal loans, credit cards) fintech. Recognized as a top remote workplace. Lever board — zero-token scannable."
+    enabled: true
+
+  - name: SoFi
+    careers_url: https://www.sofi.com/careers/
+    scan_method: websearch
+    scan_query: '"QA" OR "QC" OR "Test Automation" OR "Quality Assurance" site:sofi.com/careers remote'
+    notes: "Personal finance/lending (student loans, mortgages, personal loans). Confirmed QA Analyst roles; remote available except HI/AK (insurance coverage limits)."
+    enabled: true
+
+  # == FINTECH (added 2026-07-16) ==
+
+  - name: Plaid
+    careers_url: https://jobs.ashbyhq.com/plaid
+    notes: "Financial data connectivity infrastructure. Remote-friendly by design. Ashby board — zero-token scannable."
+    enabled: true
+
+  - name: Brex
+    careers_url: https://www.brex.com/careers
+    scan_method: websearch
+    scan_query: '"QA" OR "QC" OR "Test Automation" OR "Quality Engineer" site:brex.com/careers remote'
+    notes: "Corporate cards/spend management fintech. Confirmed remote QA roles (e.g. Senior QA Analyst, Risk - CDD/EDD, remote)."
+    enabled: true
+
+  - name: Ramp
+    careers_url: https://jobs.ashbyhq.com/ramp
+    notes: "Corporate cards/spend management fintech. ~16 remote roles confirmed company-wide. Ashby board — zero-token scannable. QA-specific postings not independently confirmed — verify each scan."
+    enabled: true
+
+  - name: Mercury
+    careers_url: https://job-boards.greenhouse.io/mercury
+    notes: "Banking-as-a-service for startups. Optional full-time remote (anywhere in US). Greenhouse board — zero-token scannable. QA engineering postings less frequent than customer-support QA — verify each scan."
+    enabled: true
+
+  - name: Marqeta
+    careers_url: https://www.marqeta.com/company/careers
+    scan_method: websearch
+    scan_query: '"QA" OR "QC" OR "Test Automation" OR "Quality Engineer" site:marqeta.com/company/careers remote'
+    notes: "Card issuing/payments infrastructure. 'Flexible First' remote policy. QA-specific engineering postings not independently confirmed this pass — verify each scan."
+    enabled: true
+
+  # == BATCH ADDED 2026-07-29 (+20) — all ATS endpoints verified live before adding ==
+
+  # -- Nearshore LATAM QA / staff-aug shops (highest fit; zero-token API scan) --
+
+  - name: 3Pillar Global
+    careers_url: https://jobs.lever.co/3pillarglobal
+    notes: "Nearshore product engineering, strong LATAM presence. Lever board (~80 postings). Frequent Senior QA Automation / SDET roles (Python/Selenium/Pytest)."
+    enabled: true
+
+  - name: Zartis
+    careers_url: https://jobs.lever.co/zartis
+    notes: "Software teams across EMEA + LATAM. Lever board. Senior QA Automation (.NET/BDD) roles seen."
+    enabled: true
+
+  - name: RYZ Labs
+    careers_url: https://jobs.lever.co/RyzLabs
+    notes: "Startup studio, remote/distributed US + LATAM. Lever board (~45 postings). QA Automation roles."
+    enabled: true
+
+  - name: Ubiminds
+    careers_url: https://jobs.lever.co/Ubiminds
+    notes: "Curates Brazilian/LATAM top talent for US clients. Lever board. Senior Test Automation (C#/Java) — verify Colombia eligibility (often Brazil-first)."
+    enabled: true
+
+  - name: Blue Coding
+    careers_url: https://jobs.lever.co/bluecoding
+    notes: "Nearshore hiring across LATAM. Lever board (low volume). William interviewed here (#033, 4.0/5) — track closely for reposts."
+    enabled: true
+
+  - name: Koombea
+    careers_url: https://jobs.lever.co/koombea
+    notes: "Colombia-founded (Barranquilla) app/dev shop. Lever board. Previously evaluated #026 (functional testing, 3-mo contract)."
+    enabled: true
+
+  - name: CI&T
+    careers_url: https://jobs.lever.co/ciandt
+    notes: "Global digital agency, strong Colombia QA hiring. Lever board (~176 postings). Pattern: Colombia QA postings close fast — apply immediately on sighting (see memory)."
+    enabled: true
+
+  - name: Distro
+    careers_url: https://jobs.lever.co/distro
+    notes: "Fintech SaaS. Lever board (large). Playwright+TS match seen (#074, 3.8/5); prior direct-access 403 — verify liveness per scan."
+    enabled: true
+
+  - name: Oowlish
+    careers_url: https://jobs.lever.co/oowlish
+    notes: "Nearshore LATAM engineering. Lever board. AI-assisted QE roles (#083, 3.6/5); companion postings churn fast."
+    enabled: true
+
+  - name: Modus Create
+    careers_url: https://job-boards.greenhouse.io/moduscreate
+    notes: "Digital product consultancy with LATAM delivery. Greenhouse board (~66 jobs). Verify remote-LATAM eligibility per role."
+    enabled: true
+
+  - name: Remote.com
+    careers_url: https://job-boards.greenhouse.io/remotecom
+    notes: "Global-employment platform, hires fully-remote worldwide. Greenhouse board. QA/SDET roles appear periodically."
+    enabled: true
+
+  # -- Identity / biometric / fraud (William's sector) --
+
+  - name: Persona
+    careers_url: https://jobs.ashbyhq.com/persona
+    notes: "Identity verification platform. Ashby board (~19 postings). Sector match; verify LATAM-remote eligibility (often US-remote)."
+    enabled: true
+
+  - name: Sardine
+    careers_url: https://jobs.ashbyhq.com/sardine
+    notes: "Fraud prevention / fintech risk. Ashby board (~39 postings). Identity-adjacent sector fit."
+    enabled: true
+
+  - name: Silver.dev
+    careers_url: https://jobs.ashbyhq.com/silver
+    notes: "Talent marketplace placing LATAM engineers at US startups. Ashby board (~46 postings). Prior QA/test-automation placements (#067, 3.8/5)."
+    enabled: true
+
+  - name: Trulioo
+    careers_url: https://jobs.ashbyhq.com/trulioo
+    notes: "Global identity & business verification. Ashby board (~23 postings). Strong sector match; verify LATAM-remote eligibility."
+    enabled: true
+
+  - name: Alloy
+    careers_url: https://job-boards.greenhouse.io/alloy
+    notes: "Identity decisioning platform for fintech. Greenhouse board (~20 jobs). Sector match; often US-based — verify location."
+    enabled: true
+
+  - name: Veriff
+    careers_url: https://job-boards.greenhouse.io/veriff
+    notes: "Identity verification (Estonia HQ). Greenhouse board (~42 jobs). Strong sector match; verify remote-LATAM eligibility."
+    enabled: true
+
+  # -- Fintech / payments (LATAM-friendly) --
+
+  - name: dLocal
+    careers_url: https://jobs.lever.co/dlocal
+    notes: "LATAM-focused cross-border payments (Uruguay HQ). Lever board. Strong regional fit; QA/SDET roles appear periodically."
+    enabled: true
+
+  - name: Nubank
+    careers_url: https://job-boards.greenhouse.io/nubank
+    notes: "Largest LATAM digital bank (Brazil HQ). Greenhouse board. High volume; many roles Brazil/Portuguese — verify Colombia-remote + language."
+    enabled: true
+
+  - name: Toptal
+    careers_url: https://jobs.lever.co/toptal
+    notes: "Remote talent network. Lever board. QA Automation roles seen but often Ruby/Rails stack — verify stack fit before evaluating."
+    enabled: true
+
+  # == BATCH ADDED 2026-07-29 (+20, second batch) — all ATS endpoints verified live before adding ==
+
+  # -- Identity / biometric / fraud (William's sector) --
+
+  - name: Prove
+    careers_url: https://job-boards.greenhouse.io/prove
+    notes: "Phone-centric identity & authentication. Greenhouse board (~13 jobs). Strong sector match; verify remote-LATAM eligibility (US-heavy)."
+    enabled: true
+
+  - name: Jumio
+    careers_url: https://job-boards.greenhouse.io/jumio
+    notes: "ID verification & KYC/AML (biometric, document). Greenhouse board (~56 jobs). Strong sector match."
+    enabled: true
+
+  - name: ID.me
+    careers_url: https://job-boards.greenhouse.io/idme
+    notes: "Digital identity wallet / verification. Greenhouse board (~294 jobs, high volume). Sector match; often US-based — rely on location_filter."
+    enabled: true
+
+  - name: SentiLink
+    careers_url: https://jobs.ashbyhq.com/sentilink
+    notes: "Synthetic-fraud / identity risk for fintech. Ashby board (~42 postings). Sector-adjacent; US-heavy — verify location."
+    enabled: true
+
+  - name: Riskified
+    careers_url: https://job-boards.greenhouse.io/riskified
+    notes: "E-commerce fraud prevention. Greenhouse board (~36 jobs). Fraud/identity-adjacent."
+    enabled: true
+
+  - name: Forter
+    careers_url: https://job-boards.greenhouse.io/forter
+    notes: "E-commerce fraud prevention / identity. Greenhouse board (~39 jobs). Sector-adjacent."
+    enabled: true
+
+  - name: Feedzai
+    careers_url: https://job-boards.greenhouse.io/feedzai
+    notes: "AI fraud/financial-crime prevention. Greenhouse board (~96 jobs). Fintech + fraud sector fit."
+    enabled: true
+
+  # -- Fintech / payments --
+
+  - name: Clara
+    careers_url: https://job-boards.greenhouse.io/clara
+    notes: "LATAM corporate cards / spend management (Mexico HQ). Greenhouse board (~76 jobs). Strong regional fit."
+    enabled: true
+
+  - name: Payoneer
+    careers_url: https://job-boards.greenhouse.io/payoneer
+    notes: "Cross-border payments, global (LATAM presence). Greenhouse board (~260 jobs, high volume). QA/SDET roles appear; rely on location_filter."
+    enabled: true
+
+  - name: Gusto
+    careers_url: https://job-boards.greenhouse.io/gusto
+    notes: "Payroll/benefits fintech. Greenhouse board (~380 jobs, high volume). Mostly US — rely on location_filter."
+    enabled: true
+
+  - name: Middesk
+    careers_url: https://jobs.ashbyhq.com/middesk
+    notes: "Business identity verification for fintech. Ashby board (~21 postings). Identity + fintech sector fit."
+    enabled: true
+
+  # -- Healthtech (William has evaluated healthcare QA roles) --
+
+  - name: Cohere Health
+    careers_url: https://job-boards.greenhouse.io/coherehealth
+    notes: "Healthcare prior-authorization platform. Greenhouse board (~71 jobs). Healthtech sector; verify remote-LATAM eligibility."
+    enabled: true
+
+  - name: Komodo Health
+    careers_url: https://job-boards.greenhouse.io/komodohealth
+    notes: "Healthcare data/analytics. Greenhouse board (~33 jobs). Healthtech sector."
+    enabled: true
+
+  - name: Doximity
+    careers_url: https://job-boards.greenhouse.io/doximity
+    notes: "Physician network / digital health. Greenhouse board (~8 jobs). Healthtech; US-heavy — verify location."
+    enabled: true
+
+  # -- Product / all-remote SaaS (QA/SDET hiring) --
+
+  - name: GitLab
+    careers_url: https://job-boards.greenhouse.io/gitlab
+    notes: "All-remote DevOps platform. Greenhouse board (~370 jobs, high volume). Genuinely global-remote — good QA/SDET fit; rely on location_filter."
+    enabled: true
+
+  - name: Twilio
+    careers_url: https://job-boards.greenhouse.io/twilio
+    notes: "Cloud comms APIs, remote-friendly. Greenhouse board (~374 jobs, high volume). QA/SDET roles; rely on location_filter."
+    enabled: true
+
+  - name: Linear
+    careers_url: https://jobs.ashbyhq.com/linear
+    notes: "Dev project-management SaaS. Ashby board (~23 postings). Remote-first; QA roles infrequent — verify each scan."
+    enabled: true
+
+  - name: Vercel
+    careers_url: https://jobs.ashbyhq.com/vercel
+    notes: "Frontend cloud platform. Ashby board (low/zero volume now). Remote-first; SDET roles occasional."
+    enabled: true
+
+  - name: Watershed
+    careers_url: https://jobs.ashbyhq.com/watershed
+    notes: "Climate/carbon SaaS. Ashby board (~38 postings). Remote-friendly; QA/SDET roles occasional."
+    enabled: true
+
+  - name: Elastic
+    careers_url: https://job-boards.greenhouse.io/elastic
+    notes: "Search/observability, distributed all-remote. Greenhouse board (~1500 jobs, HIGH volume — disable if too noisy). Strong global-remote QA/SDET fit; rely on location_filter."
     enabled: true

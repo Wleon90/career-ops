@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 85 | 2026-07-16 | PublicInput | Quality Assurance Engineer (govtech) | N/A | Applied | ❌ | N/A | Applied 2026-07-16 directly, no formal evaluation run. Govtech/civic engagement platform, Remote. |
 | 83 | 2026-06-16 | Oowlish | QA Automation Engineer (AI-Assisted Quality Engineering) | 3.6/5 | Evaluated | ❌ | [083](../reports/083-oowlish-qa-automation-ai-2026-06-16.md) | Active Lever posting; companion postings expired; US visa travel ask needs clarification; no salary disclosed |
 | 76 | 2026-06-11 | Globant | Senior Test Automation Engineer | 3.6/5 | Evaluated | ❌ | [076](../reports/076-globant-senior-test-automation-engineer-2026-06-11.md) | Remote Colombia, Selenium/Java/Appium, thin JD, no salary — apply with negotiation |
 | 77 | 2026-06-11 | Endava | Automation Test Lead | 3.8/5 | Evaluated | ❌ | [077](../reports/077-endava-automation-test-lead-2026-06-11.md) | Bogotá hybrid, Playwright/CI-CD/AI-desirable, 8yr req vs 7yr — apply, lead Thales leadership angle |
@@ -19,7 +20,7 @@
 | 67 | 2026-06-03 | Silver.dev (Hubstaff) | Senior/Lead Software Test Automation Engineer | 3.8/5 | Discarded | ❌ | [064](reports/064-silver-dev-hubstaff-senior-lead-software-test-automation-engineer-2026-06-03.md) | Discarded 2026-06-03 — posting no longer available. |
 | 68 | 2026-06-03 | Celara | QA Automation Engineer | 3.4/5 | Discarded | ❌ | [065](reports/065-celara-qa-automation-engineer-2026-06-03.md) | Discarded 2026-06-03 — posting no longer available. |
 | 69 | 2026-06-03 | Jobgether (Bluelight) | QA Engineer (LATAM) | 3.3/5 | Discarded | ❌ | [066](reports/066-jobgether-bluelight-qa-engineer-latam-2026-06-03.md) | Discarded 2026-06-03 — posting no longer available. |
-| 70 | 2026-06-03 | Jalasoft | Senior Test Automation Engineer (Playwright+TS) | 3.4/5 | Discarded | ❌ | [067](reports/067-jalasoft-senior-test-automation-engineer-2026-06-03.md) | Discarded 2026-06-03 — posting no longer available. |
+| 70 | 2026-06-03 | Jalasoft | Senior Test Automation Engineer (Playwright+TS) | 3.4/5 | Applied | ❌ | [067](reports/067-jalasoft-senior-test-automation-engineer-2026-06-03.md) | Applied 2026-07-16 to a new posting (Mid Senior Test Automation Engineer, Colombia Remote) after original senior-tier posting was discarded 2026-06-03 for being closed. No formal evaluation run on the new posting. |
 | 71 | 2026-06-03 | Praxent | LATAM Senior QA Analyst | 3.2/5 | Discarded | ❌ | [068](reports/068-praxent-latam-senior-qa-analyst-2026-06-03.md) | Discarded 2026-06-03 — posting no longer available. |
 | 50 | 2026-05-27 | Tillo | Senior SDET | 2.6/5 | SKIP | ❌ | [050](reports/050-tillo-senior-sdet-2026-05-27.md) | Hard blocker: Cape Town hybrid 2-3 days/week, outside Colombia; comp below minimum (South African market rates) |
 | 51 | 2026-05-27 | Enumerate | QA Automation Lead - LATAM | 3.4/5 | Discarded | ❌ | [051](reports/051-enumerate-qa-automation-lead-2026-05-27.md) | Discarded 2026-05-27 — posting no longer available. |
@@ -63,7 +64,7 @@
 | 18 | 2026-04-15 | Launchpad Technologies | ServiceNow Tester | 2.0/5 | SKIP | ❌ | [18](reports/018-launchpad-servicenow-2026-04-15.md) | No ServiceNow in stack. Manual testing role. Launchpad pattern (2nd miss). Do not apply. |
 | 2 | 2026-04-15 | RapidFort | Senior SDET / Sr QA Automation Engineer | 1.5/5 | SKIP | ❌ | [002](reports/002-rapidfort-2026-04-15.md) | USA only — location blocker. $120k-$150k/yr but inaccessible from Colombia. |
 | 3 | 2026-04-15 | Santex | Senior QA Lead (SDET Experience Required) | 3.5/5 | Discarded | ✅ | [003](reports/003-santex-2026-04-15.md) | Location blocker confirmed: form requires Mexico City or Argentina. Colombia excluded. |
-| 4 | 2026-04-15 | Lifted | Senior QA Engineer (Contract, LATAM) | 3.8/5 | Discarded | ✅ | [004](reports/004-lifted-2026-04-15.md) | Discarded 2026-04-28 after recruiter screening. Applied 2026-04-15. |
+| 4 | 2026-04-15 | Lifted | Senior QA Engineer (Contract, LATAM) | 3.8/5 | Applied | ✅ | [004](reports/004-lifted-2026-04-15.md) | Re-applied 2026-07-29 to re-opened contract posting (greenhouse/lifted/jobs/7790973003). Previously applied 2026-04-15, discarded 2026-04-28 after recruiter screening. |
 | 5 | 2026-04-15 | LumiMeds | Senior AI-First QA Engineer (Remote, South America) | 3.0/5 | Evaluated | ✅ | [005](reports/005-lumimeds-2026-04-15.md) | AI-First QA, strong tech match. Blockers: Colombia not listed, PDT schedule = midnight COT. |
 | 6 | 2026-04-15 | Launchpad Technologies | Senior QA Automation Engineer (Remote Contractor) | 2.0/5 | SKIP | ❌ | [006](reports/006-launchpad-2026-04-15.md) | .NET/Angular stack mismatch + UK hours = 3am COT. Start date Jan 2026 may be filled. |
 | 7 | 2026-04-15 | Deel | Senior QA Automation Engineer (LATAM) | 4.2/5 | Discarded | ✅ | [007](reports/007-deel-2026-04-15.md) | Posting closed — no QA roles on Deel Ashby board (Apr 15). |
