@@ -215,6 +215,11 @@
 
 - [ ] https://jobs.ashbyhq.com/truelogic/98866bc6-1962-404c-bb48-1fd28bf04470 | Truelogic | Senior SDET -  GovTech Industry
 
+- [ ] https://www.payoneer.com/careers/position/8073755/?gh_jid=8073755 | Payoneer | QA Lead
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8648964002 | GitLab | Enterprise QA Engineer, Salesforce 
+- [ ] https://job-boards.greenhouse.io/coherehealth/jobs/7691083003 | Cohere Health | SDET Engineer
+- [ ] https://job-boards.greenhouse.io/coherehealth/jobs/7719450003 | Cohere Health | Sr. SDET Engineer
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
