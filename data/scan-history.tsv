@@ -82,12 +82,10 @@ https://job-boards.greenhouse.io/nearsure/jobs/5070738007	2026-04-28	WebSearch	L
 https://job-boards.greenhouse.io/coderoad/jobs/4136073009	2026-04-28	WebSearch	Senior QA Automation Engineer (Manual + automation)	CodeRoad	skipped_expired
 https://job-boards.greenhouse.io/enumerate/jobs/4105325009	2026-04-28	WebSearch	QA Automation Lead - LATAM	Enumerate	skipped_expired
 https://job-boards.greenhouse.io/lokainc/jobs/5045145007	2026-04-28	WebSearch	Senior Quality Assurance Specialist	Loka Inc	skipped_expired
-https://remotive.com/remote/jobs/qa/senior-quality-assurance-automation-engineer-4286203	2026-04-28	WebSearch	Senior Quality Assurance Automation Engineer	Stellus Rx	skipped_dup
 https://jobs.lever.co/foodsmart/7cd3c3d5-9afb-4c98-b4c6-c0a7bdb6504e	2026-04-28	WebSearch	Software Development Engineer in Test (SDET)	Foodsmart	skipped_error
 https://jobs.lever.co/netomi/d637db60-0873-4dc6-8b23-b8fa78a04727	2026-04-28	WebSearch	SDET II	Netomi	skipped_error
 https://weworkremotely.com/remote-jobs/secure-privacy-qa-engineer-ai-automation-intelligent-testing	2026-04-28	WebSearch	QA Engineer - AI Automation & Intelligent Testing	Secure Privacy	skipped_error
 https://weworkremotely.com/listings/valorx-senior-qa-engineer	2026-04-28	WebSearch	Senior QA Engineer	Valorx	skipped_error
-https://weworkremotely.com/remote-jobs/data-virtuality-a-cdata-software-company-senior-qa-automation-engineer-frontend	2026-04-28	WebSearch	Senior QA Automation Engineer (Frontend)	Data Virtuality/CData	skipped_error
 https://weworkremotely.com/remote-jobs/xm-qa-software-test-automation-engineer-java	2026-04-28	WebSearch	QA Software Test Automation Engineer (Java)	XM	skipped_error
 https://job-boards.greenhouse.io/hugeinc/jobs/7808557	2026-04-28	WebSearch	QA Lead	HugeInc	added
 https://jobs.ashbyhq.com/truelogic/a1e633c8-7bbb-454f-9eb7-29d566eb6254	2026-04-28	WebSearch	QA Lead - AI Consulting Company (Colombia)	Truelogic	added
@@ -124,8 +122,6 @@ https://jobs.ashbyhq.com/owner/d3fc902a-4261-468e-951e-15351cf4ef47	2026-04-28	W
 https://jobs.ashbyhq.com/truelogic/bf757626-bdb4-40c3-9711-c350fd7c519d	2026-04-28	WebSearch	SR. SDET - E-Commerce	Truelogic	skipped_dup
 https://weworkremotely.com/remote-jobs/shotflow-qa-automation-engineer	2026-04-28	WebSearch	QA Automation Engineer	ShotFlow	skipped_error
 https://jobs.lever.co/jobgether/7e6f1b22-a506-43d7-b185-aef1220d7433	2026-04-28	WebSearch	QA Engineer (Latam)	Jobgether	skipped_title
-https://jobs.ashbyhq.com/truelogic/a1e633c8-7bbb-454f-9eb7-29d566eb6254	2026-04-28	WebSearch	QA Lead - AI Consulting Company	Truelogic	skipped_user
-https://jobs.ashbyhq.com/truelogic/64f2e927-4a04-4620-9bfb-574240a8c8a8	2026-04-28	WebSearch	SR. SDET - E-Commerce	Truelogic	skipped_user
 https://job-boards.greenhouse.io/praxent/jobs/7646447003	2026-04-29	greenhouse-api	LATAM Senior QA Automation Engineer (C#/.NET)	Praxent	added
 https://job-boards.greenhouse.io/santex/jobs/8480946002	2026-04-29	greenhouse-api	Senior Automation QA (Must: Playwright)	Santex	added
 https://jobs.lever.co/ciandt/6e15aa98-7397-4846-ad65-321af7dc368c	2026-04-29	lever-api	Senior QA Automation - Campinas SP (On-Site)	CI&T	skipped_location
@@ -170,18 +166,9 @@ https://job-boards.greenhouse.io/hugeinc/jobs/7772958	2026-05-02	Greenhouse — 
 https://job-boards.greenhouse.io/hugeinc/jobs/7800693	2026-05-02	Greenhouse — QA Lead	Salesforce QA Analyst	Huge	skipped_title
 https://job-boards.greenhouse.io/backblaze/jobs/5205676008	2026-05-07	Greenhouse API	Sr. QA Automation Engineer	Backblaze	added
 https://job-boards.greenhouse.io/encora10/jobs/5119692007	2026-05-07	Greenhouse API	Senior SDET	Encora	added
-https://jobs.lever.co/powdevs/8b02ba30-d621-4bf4-9926-1dc756d085f5	2026-05-07	Lever — QA LATAM	QA Lead	Powdevs	added
-https://jobs.lever.co/ciandt/6e15aa98-7397-4846-ad65-321af7dc368c	2026-05-07	Lever API	Senior QA Automation (On-Site Campinas SP)	CI&T	skipped_location
 https://jobs.lever.co/tryjeeves/7964df08-4c34-48bd-91b9-2ab526078a67	2026-05-07	Lever — QA LATAM	Senior QA Engineer	Jeeves	skipped_expired
-https://weworkremotely.com/remote-jobs/secure-privacy-qa-engineer-ai-automation-intelligent-testing	2026-05-07	WeWorkRemotely — QA	QA Engineer AI Automation	Secure Privacy	skipped_error
-https://weworkremotely.com/listings/valorx-senior-qa-engineer	2026-05-07	WeWorkRemotely — QA	Senior QA Engineer	Valorx	skipped_error
-https://himalayas.app/companies/shyft6/jobs/principal-quality-automation-architect	2026-05-07	Himalayas — QA Remote	Principal Quality Automation Architect	Shyft6	skipped_location
 https://himalayas.app/companies/jobgether/jobs/qa-automation-tech-lead-remote-us	2026-05-07	Himalayas — QA Remote	QA Automation Tech Lead	Jobgether	skipped_location
-https://himalayas.app/companies/1950labs/jobs/sr-qa-automation-engineer	2026-05-07	Himalayas — QA Remote	Sr. QA Automation Engineer	1950Labs	skipped_title
-https://job-boards.greenhouse.io/coderoad/jobs/4136073009	2026-05-07	Greenhouse — QA LATAM	Senior QA Automation Engineer (Manual + automation)	CodeRoad	skipped_expired
-https://job-boards.greenhouse.io/lokainc/jobs/5045145007	2026-05-07	Greenhouse — QA LATAM	Senior Quality Assurance Specialist	Loka Inc	skipped_expired
 https://job-boards.greenhouse.io/sourcemeridian/jobs/5181537008	2026-05-07	Greenhouse — QA LATAM	QA Automation Engineer	Source Meridian	skipped_expired
-https://job-boards.greenhouse.io/nearsure/jobs/5070738007	2026-05-07	Greenhouse — QA LATAM	Lead QA Engineer	Nearsure	skipped_expired
 https://job-boards.greenhouse.io/sandtechholdingslimited/jobs/4855710101	2026-05-07	Greenhouse — QA LATAM	Senior Test Automation Engineer	Sand Tech Holdings Limited	skipped_location
 https://job-boards.greenhouse.io/cayuse	2026-05-07	Greenhouse — QA LATAM	QA Automation (no active posting)	Cayuse	skipped_location
 https://remotive.com/remote-jobs/qa/sdet-engineer-4389536	2026-05-07	Remotive — QA LATAM	SDET Engineer	AgileEngine	skipped_expired
@@ -214,18 +201,10 @@ https://jobs.ashbyhq.com/truelogic/71df2a7a-cfff-4375-8868-0ec4877f96be	2026-05-
 https://jobs.ashbyhq.com/truelogic/107fb55c-8c58-4166-952d-052782cc64e4	2026-05-22	ashby-api	QA Lead - AI Consulting Company	Truelogic	added
 https://jobs.ashbyhq.com/truelogic/3cef5176-c35f-43e5-afa7-205412ab16c8	2026-05-22	ashby-api	QA Lead - AI Consulting Company - Brazil	Truelogic	added
 https://jobs.ashbyhq.com/truelogic/e85cfd85-3eb6-4f81-ad15-e764ecfd0a94	2026-05-22	ashby-api	QA Lead - AI Consulting Company - Colombia	Truelogic	added
-https://job-boards.greenhouse.io/santex/jobs/8504641002	2026-05-22	greenhouse-api	Senior QA Lead (SDET Experience)	Santex	skipped_dup
-https://job-boards.greenhouse.io/lifted/jobs/7689401003	2026-05-22	greenhouse-api	Contract: Senior Quality Assurance Engineer	Lifted	skipped_dup
 https://job-boards.greenhouse.io/praxent/jobs/7732249003	2026-05-22	greenhouse-api	LATAM QA Automation Engineer(s)	Praxent	added
-https://job-boards.greenhouse.io/backblaze/jobs/5205676008	2026-05-22	greenhouse-api	QA Automation Engineer	Backblaze	skipped_dup
 https://job-boards.greenhouse.io/backblaze/jobs/5204291008	2026-05-22	greenhouse-api	QA Automation Engineer	Backblaze	added
-https://job-boards.greenhouse.io/hugeinc/jobs/7808557	2026-05-22	greenhouse-api	QA Lead	HugeInc	skipped_dup
 https://job-boards.greenhouse.io/hugeinc/jobs/7808509	2026-05-22	greenhouse-api	Senior QA Analyst	HugeInc	added
 https://job-boards.greenhouse.io/hugeinc/jobs/7902154	2026-05-22	greenhouse-api	Freelance Senior QA Analyst	HugeInc	added
-https://job-boards.greenhouse.io/encora10/jobs/5119692007	2026-05-22	greenhouse-api	Senior SDET	Encora	skipped_dup
-https://job-boards.greenhouse.io/encora10/jobs/5133977007	2026-05-22	greenhouse-api	Mid QA Automation	Encora	skipped_dup
-https://job-boards.greenhouse.io/encora10/jobs/5123377007	2026-05-22	greenhouse-api	Analista QA	Encora	skipped_dup
-https://job-boards.greenhouse.io/encora10/jobs/5033725007	2026-05-22	greenhouse-api	Application Quality Assurance Engineer	Encora	skipped_dup
 https://job-boards.greenhouse.io/encora10/jobs/5078400007	2026-05-22	greenhouse-api	QA Automation Engineer (Senior)	Encora	skipped_location
 https://job-boards.greenhouse.io/encora10/jobs/5102249007	2026-05-22	greenhouse-api	QA Automation Engineer Senior	Encora	skipped_location
 https://job-boards.greenhouse.io/encora10/jobs/5124049007	2026-05-22	greenhouse-api	QA Automation (Java/Selenium)	Encora	skipped_location
@@ -263,7 +242,6 @@ https://weworkremotely.com/remote-jobs/all-european-careers-senior-qa-test-engin
 https://jobicy.com/jobs/123639-senior-automation-qa-engineer	2026-05-22	WebSearch	Senior Automation QA Engineer	Alludo	skipped_location
 https://jobicy.com/jobs/123333-senior-automation-ai-engineer	2026-05-22	WebSearch	Senior Automation AI Engineer	Akamai Technologies	skipped_title
 https://job-boards.greenhouse.io/dragos/jobs/5022514008	2026-05-22	WebSearch	Senior SDET	Dragos	skipped_location
-https://job-boards.greenhouse.io/sandtechholdingslimited/jobs/4855710101	2026-05-22	WebSearch	Senior Test Automation Engineer	Sand Tech Holdings Limited	skipped_location
 https://job-boards.greenhouse.io/encora10/jobs/5133442007	2026-05-23	greenhouse-api	QA Funcional Senior	Encora	skipped_location
 https://job-boards.greenhouse.io/encora10/jobs/5140909007	2026-05-23	greenhouse-api	QA Senior / QA Lead	Encora	skipped_location
 https://job-boards.greenhouse.io/encora10/jobs/5137094007	2026-05-23	greenhouse-api	Quality Assurance Tester	Encora	skipped_title
@@ -283,38 +261,18 @@ https://jobs.lever.co/lodgify/1a97f9f2-df73-4f7d-a24e-ced08052327f	2026-05-23	We
 https://jobs.lever.co/enable/eac72809-0a0d-4fed-b967-c338568522eb	2026-05-23	WebSearch	Senior QA Engineer (Automation)	Enable	skipped_error
 https://jobs.lever.co/Clearer/21e0a71d-09a1-4f76-aafc-1739f17bba53	2026-05-23	WebSearch	Senior QA Automation Engineer	Clearer.io	skipped_error
 https://jobs.lever.co/airalo/3c02df75-a975-40f2-9471-73d6da074159	2026-05-23	WebSearch	Senior QA Automation Engineer (Backend)	Airalo	skipped_location
-https://job-boards.greenhouse.io/santex/jobs/8504641002	2026-05-23	greenhouse-api	Senior SDET	Santex	skipped_dup
-https://job-boards.greenhouse.io/lifted/jobs/7689401003	2026-05-23	greenhouse-api	Contract: Senior Quality Assurance Engineer	Lifted	skipped_dup
-https://job-boards.greenhouse.io/praxent/jobs/7732249003	2026-05-23	greenhouse-api	LATAM QA Automation Engineer(s)	Praxent	skipped_dup
-https://job-boards.greenhouse.io/backblaze/jobs/5205676008	2026-05-23	greenhouse-api	QA Automation Engineer	Backblaze	skipped_dup
-https://job-boards.greenhouse.io/backblaze/jobs/5204291008	2026-05-23	greenhouse-api	QA Automation Engineer	Backblaze	skipped_dup
-https://job-boards.greenhouse.io/hugeinc/jobs/7808557	2026-05-23	greenhouse-api	QA Lead	HugeInc	skipped_dup
-https://job-boards.greenhouse.io/hugeinc/jobs/7808509	2026-05-23	greenhouse-api	Senior QA Analyst	HugeInc	skipped_dup
-https://job-boards.greenhouse.io/hugeinc/jobs/7902154	2026-05-23	greenhouse-api	Freelance Senior QA Analyst	HugeInc	skipped_dup
-https://job-boards.greenhouse.io/encora10/jobs/5119692007	2026-05-23	greenhouse-api	Senior SDET	Encora	skipped_dup
-https://job-boards.greenhouse.io/encora10/jobs/5133977007	2026-05-23	greenhouse-api	Mid QA Automation	Encora	skipped_dup
 https://jobs.ashbyhq.com/truelogic/04c5dfbe-6923-4cf5-9715-3d2b382a2332	2026-05-27	ashby-api	Senior QA Engineer - Software	Truelogic	added
-https://jobs.ashbyhq.com/deel/cbebed24-2219-4ab3-a5df-794eaf1c3260	2026-05-27	Ashby — QA Colombia LATAM	QA Automation Engineer	Deel	added
-https://jobs.ashbyhq.com/govworx/9483da43-5a6a-4c01-afd1-45476c624916	2026-05-27	Ashby — QA Colombia LATAM	QA Engineer - LATAM	GovWorx	added
-https://jobs.ashbyhq.com/tillo/22ae6a3f-433c-4834-8218-df0f059425e2	2026-05-27	Ashby — QA Automation Senior	Senior SDET	Tillo	added
-https://job-boards.greenhouse.io/enumerate/jobs/4105325009	2026-05-27	Greenhouse — QA Lead	QA Automation Lead - LATAM	Enumerate	added
-https://job-boards.greenhouse.io/nearsure/jobs/4993026007	2026-05-27	Greenhouse — Nearshore LATAM QA	Senior Software Test Engineer	Nearsure	added
-https://job-boards.greenhouse.io/insightassurance/jobs/4856299008	2026-05-27	Greenhouse — Nearshore LATAM QA	QA & Testing Developer - LATAM	Insight Assurance	added
-https://www.getonbrd.com/empleos/sysadmin-devops-qa/qa-engineer-sdet-playwright-azure-improving-south-america-remote	2026-05-27	GetOnBoard — QA Senior LATAM	QA Engineer (SDET Playwright/Azure)	Improving South America	added
-https://www.getonbrd.com/jobs/sysadmin-devops-qa/software-development-engineer-in-test-sdet-agility-io-remote-fafd	2026-05-27	GetOnBoard — QA Senior LATAM	Senior SDET	Agility IO	added
 https://www.getonbrd.com/jobs/sysadmin-devops-qa/qa-automation-engineer-api-sdet-insight-global-remote	2026-05-27	GetOnBoard — QA Senior LATAM	QA Automation Engineer (API SDET)	Insight Global	added
 https://jobs.prometeotalent.com/jobs/7550276-senior-software-development-engineer-in-test-sdet-100-remote-latam	2026-05-27	LinkedIn — QA Remote Latam	Senior SDET (100https://jobs.ashbyhq.com/deel/cbebed24-2219-4ab3-a5df-794eaf1c3260	2026-05-27	Ashby -- QA Colombia LATAM	QA Automation Engineer	Deel	added
-https://jobs.ashbyhq.com/govworx/9483da43-5a6a-4c01-afd1-45476c624916	2026-05-27	Ashby -- QA Colombia LATAM	QA Engineer - LATAM	GovWorx	added
-https://jobs.ashbyhq.com/tillo/22ae6a3f-433c-4834-8218-df0f059425e2	2026-05-27	Ashby -- QA Automation Senior	Senior SDET	Tillo	added
-https://job-boards.greenhouse.io/enumerate/jobs/4105325009	2026-05-27	Greenhouse -- QA Lead	QA Automation Lead - LATAM	Enumerate	added
-https://job-boards.greenhouse.io/nearsure/jobs/4993026007	2026-05-27	Greenhouse -- Nearshore LATAM QA	Senior Software Test Engineer	Nearsure	added
-https://job-boards.greenhouse.io/insightassurance/jobs/4856299008	2026-05-27	Greenhouse -- Nearshore LATAM QA	QA Testing Developer - LATAM	Insight Assurance	added
-https://www.getonbrd.com/empleos/sysadmin-devops-qa/qa-engineer-sdet-playwright-azure-improving-south-america-remote	2026-05-27	GetOnBoard -- QA Senior LATAM	QA Engineer SDET Playwright Azure	Improving South America	added
-https://www.getonbrd.com/jobs/sysadmin-devops-qa/software-development-engineer-in-test-sdet-agility-io-remote-fafd	2026-05-27	GetOnBoard -- QA Senior LATAM	Senior SDET	Agility IO	added
-https://www.getonbrd.com/jobs/sysadmin-devops-qa/qa-automation-engineer-api-sdet-insight-global-remote	2026-05-27	GetOnBoard -- QA Senior LATAM	QA Automation Engineer API SDET	Insight Global	added
-https://jobs.prometeotalent.com/jobs/7550276-senior-software-development-engineer-in-test-sdet-100-remote-latam	2026-05-27	LinkedIn -- QA Remote Latam	Senior SDET 100% Remote LATAM	Prometeo Talent	added
 https://jobs.ashbyhq.com/truelogic/70ec66bc-29d6-4b1b-8d70-e1e988f7cdcc	2026-06-03	ashby-api	Senior QA Automation Engineer (JavaScript/TypeScript) - HospitalityTech	Truelogic	added
 https://jobs.ashbyhq.com/truelogic/3d615e34-5cb7-44ea-ab11-50d21feeeb49	2026-06-03	ashby-api	Copy of Senior QA Automation Engineer (JavaScript/TypeScript) - HospitalityTech	Truelogic	added
+https://jobs.ashbyhq.com/truelogic/ac61013c-9924-42cf-a5f6-35470f59bbcd	2026-05-23	ashby-api	Senior QA Engineer - Software	Truelogic	added
+https://jobs.ashbyhq.com/truelogic/2f68041f-732c-4031-8fa2-64b133974fa0	2026-05-24	ashby-api	Senior QA Engineer - Software	Truelogic	added
+https://jobs.ashbyhq.com/truelogic/18a27ad1-4220-4225-8f8c-944c46fad299	2026-05-25	ashby-api	Senior QA Engineer - Software	Truelogic	added
+https://jobs.ashbyhq.com/truelogic/ed93ae8d-3eee-4337-bc4a-a8d12c902209	2026-05-30	ashby-api	Senior QA Automation Engineer (JavaScript/TypeScript) - HospitalityTech	Truelogic	added
+https://jobs.ashbyhq.com/truelogic/9c821d5b-584b-45d9-b2bd-e1a9c166f390	2026-05-31	ashby-api	Senior QA Automation Engineer (JavaScript/TypeScript) - HospitalityTech	Truelogic	added
+https://jobs.ashbyhq.com/truelogic/cd0a079a-9d3a-4e10-ae78-cb12857fd152	2026-06-01	ashby-api	Senior QA Automation Engineer (JavaScript/TypeScript) - HospitalityTech	Truelogic	added
+https://jobs.ashbyhq.com/truelogic/3db28a07-1e9e-43e5-8178-982147cca556	2026-06-02	ashby-api	Senior QA Automation Engineer (JavaScript/TypeScript) - HospitalityTech	Truelogic	added
 https://jobs.ashbyhq.com/truelogic/0b1dc6f0-8523-4f4b-8790-9cc32aa49c9e	2026-06-03	ashby-api	Senior SecOps Automation Engineer - Consumer FinTech	Truelogic	added
 https://jobs.ashbyhq.com/truelogic/3082abf2-2e91-47b4-8baa-d7fde613c995	2026-06-03	ashby-api	Senior SecOps Automation Engineer - Consumer FinTech | Brazil	Truelogic	added
 https://jobs.ashbyhq.com/truelogic/a88dc55d-5d49-48e4-89bf-9599d509042b	2026-06-03	ashby-api	Senior SecOps Automation Engineer - Consumer FinTech | Mexico	Truelogic	added
@@ -323,7 +281,6 @@ https://jobs.ashbyhq.com/truelogic/349357a9-69c7-4308-a1a1-62db6a78a56c	2026-06-
 https://jobs.ashbyhq.com/truelogic/2cd4239e-b22c-4833-989d-4919f71c2741	2026-06-05	ashby-api	Senior SDET -  GovTech Industry (Colombia)	Truelogic	added
 https://jobs.ashbyhq.com/truelogic/a43fe49d-6e70-4df4-aa08-a7f8b1c829ae	2026-06-05	ashby-api	Senior SDET -  GovTech Industry (Mexico)	Truelogic	added
 https://jobs.ashbyhq.com/truelogic/b251e0c5-533d-477c-9d07-ec76682bd034	2026-06-05	ashby-api	Senior SDET -  GovTech Industry (Brazil)	Truelogic	added
-https://jobs.ashbyhq.com/truelogic/ed93ae8d-3eee-4337-bc4a-a8d12c902209	2026-06-05	ashby-api	Senior QA Automation Engineer (JavaScript/TypeScript) - HospitalityTech	Truelogic	added
 https://jobs.ashbyhq.com/truelogic/817be466-60a4-48d1-87b3-9b568218830e	2026-06-05	ashby-api	Senior SDET -  GovTech Industry	Truelogic	added
 https://www.getonbrd.com/empleos/programacion/senior-qa-automation-engineer-niuro-remote	2026-06-11	GetOnBoard — QA Senior LATAM	Senior QA Automation Engineer	Niuro	added
 https://jobs.lever.co/distro/2efc4825-de54-49eb-b903-461508f40c1a	2026-06-11	Lever — QA Senior Remote	Senior QA Automation Engineer	Distro	added
@@ -353,10 +310,6 @@ https://jobs.ashbyhq.com/truelogic/311f7167-31b6-4871-9868-65ff1820b9f3	2026-06-
 https://jobs.ashbyhq.com/truelogic/c003e430-db6b-4648-8269-48bc66332c05	2026-06-11	ashby-api	Senior SDET -  GovTech Industry (Mexico)	Truelogic	added
 https://jobs.ashbyhq.com/truelogic/2f6ccda8-f455-4fc6-9fc6-22bf854357fc	2026-06-11	ashby-api	Senior SDET -  GovTech Industry (Brazil)	Truelogic	added
 https://jobs.ashbyhq.com/truelogic/b3731833-3b6c-405a-98b3-e6480f70521b	2026-06-11	ashby-api	Senior SDET -  GovTech Industry	Truelogic	added
-https://jobs.ashbyhq.com/truelogic/311f7167-31b6-4871-9868-65ff1820b9f3	2026-06-11	Truelogic Ashby	Senior SDET - GovTech Industry (Colombia)	Truelogic	skipped_dup
-https://jobs.ashbyhq.com/truelogic/c003e430-db6b-4648-8269-48bc66332c05	2026-06-11	Truelogic Ashby	Senior SDET - GovTech Industry (Mexico)	Truelogic	skipped_dup
-https://jobs.ashbyhq.com/truelogic/2f6ccda8-f455-4fc6-9fc6-22bf854357fc	2026-06-11	Truelogic Ashby	Senior SDET - GovTech Industry (Brazil)	Truelogic	skipped_dup
-https://jobs.ashbyhq.com/truelogic/b3731833-3b6c-405a-98b3-e6480f70521b	2026-06-11	Truelogic Ashby	Senior SDET - GovTech Industry	Truelogic	skipped_dup
 https://job-boards.greenhouse.io/checkr/jobs/7921301	2026-06-11	greenhouse-api	Quality Assurance Specialist, Truework	Checkr	skipped_location
 https://www.samsara.com/company/careers/roles/7610376?gh_jid=7610376	2026-06-11	greenhouse-api	Senior Automation Engineer (HIL)	Samsara	skipped_location
 https://www.samsara.com/company/careers/roles/7610288?gh_jid=7610288	2026-06-11	greenhouse-api	Solutions Integration Engineer	Samsara	skipped_location
@@ -379,7 +332,6 @@ https://weworkremotely.com/remote-jobs/kodify-media-group-qa-automation-engineer
 https://apply.workable.com/jalasoft/j/DED9B2D83A	2026-06-11	Level3 — WebSearch	Senior Test Automation Engineer - Playwright + Typescript	Jalasoft	skipped_dup
 https://jobs.lever.co/applydigital/f76204c5-b5b3-471c-8fec-94954fbac4aa	2026-06-11	Level3 — Lever LATAM	Senior QA Automation Engineer	Apply Digital	skipped_expired
 https://www.samsara.com/company/careers/roles/7961278?gh_jid=7961278	2026-06-16	greenhouse-api	Solutions Integration Engineer II	Samsara	added
-https://jobs.ashbyhq.com/machinify/2f6dd716-42c9-4490-9ded-fee3b2631d7f	2026-06-16	Level3 -- Ashby 404-check	Senior Automation Engineer Quality Assurance	Machinify	skipped_dup
 https://job-boards.greenhouse.io/andela/	2026-06-16	Level3 -- Greenhouse 404-check	(no QA results found)	Andela	skipped_expired
 https://jobs.ashbyhq.com/fingerprintjs/	2026-06-16	Level3 -- Ashby 404-check	(no QA results found)	Fingerprint	skipped_expired
 https://job-boards.greenhouse.io/growetalents/jobs/4874624101	2026-06-16	Level3 -- Greenhouse QA Senior	Senior Automation QA Engineer	Growe Talents	skipped_location
@@ -402,9 +354,6 @@ https://jobs.lever.co/teramind/bfb41341-ed03-4a4d-b087-341436b93621	2026-06-16	L
 https://job-boards.greenhouse.io/testlio/jobs/6436312	2026-06-16	Level3 -- Greenhouse QA LATAM	Test Automation Specialist Python Appium TypeScript Playwright	Testlio	added
 https://job-boards.greenhouse.io/keyo/jobs/4608054008	2026-06-16	Level3 -- WebSearch Biometric QA	Web/Mobile Apps QA/QC Engineer	Keyo	added
 https://job-boards.greenhouse.io/impiricus/jobs/4993696008	2026-06-16	Level3 -- Greenhouse QA Senior	QA Automation Engineer	Impiricus	skipped_location
-https://job-boards.greenhouse.io/sandtechholdingslimited/jobs/4855710101	2026-06-16	Level3 -- Greenhouse QA Senior	Senior Test Automation Engineer	Sand Tech Holdings Limited	skipped_location
-https://job-boards.greenhouse.io/blastpoint/jobs/5150588007	2026-06-16	Level3 -- Greenhouse QA Senior	Sr Automation QA Engineer SDET	BlastPoint	skipped_location
-https://jobs.lever.co/zartis/8e4685cb-8a53-4d3d-a13f-a3c7d3e016f4	2026-06-16	Level3 -- Lever QA Senior	Senior QA Automation Engineer	Zartis	skipped_location
 https://remotive.com/remote/jobs/qa/senior-qa-analyst-4415451	2026-06-16	Level3 -- Remotive	Senior QA Analyst	HugeInc	skipped_dup
 https://www.wizeline.ai/careers/job?gh_jid=2924490	2026-07-14	greenhouse-api	Functional QA Engineer (On-site)	Wizeline	skipped_location
 https://jobs.ashbyhq.com/truelogic/359252f7-1f96-4a48-a7e9-6209f4f1b9b7	2026-07-14	ashby-api	Senior SDET -  GovTech Industry	Truelogic	skipped_location
@@ -439,11 +388,8 @@ https://job-boards.greenhouse.io/nortal/jobs/5178143007	2026-07-16	Greenhouse �
 https://himalayas.app/companies/aequilibrium/jobs/senior-software-development-engineer-in-test-sdet-backbase-digital-banking	2026-07-16	Himalayas — QA Remote	Senior SDET - Backbase & Digital Banking	Aequilibrium	added
 https://remotive.com/remote/jobs/qa/senior-quality-assurance-specialist-automation-5036990	2026-07-16	Remotive — QA Senior	Senior Quality Assurance Specialist - Automation (4-5mo contract)	Boombit	added
 https://job-boards.greenhouse.io/tuesdayhealth/jobs/4313684009	2026-07-16	Greenhouse — QA Automation	Software Development Engineer in Test (SDET)	Tuesday Health	added
-https://job-boards.greenhouse.io/blastpoint/jobs/5150588007	2026-07-16	Greenhouse — QA Automation	Sr. Automation QA Engineer / SDET	BlastPoint	added
 https://job-boards.greenhouse.io/publicinput/jobs/4266137009	2026-07-16	Greenhouse — QC Integration	Quality Assurance Engineer (govtech)	PublicInput	added
-https://job-boards.greenhouse.io/praxent/jobs/7742829003	2026-07-16	Greenhouse — Nearshore LATAM QA	LATAM Senior SDET	Praxent	added
 https://job-boards.greenhouse.io/goodsservices/jobs/7789727003	2026-07-16	Greenhouse — Nearshore LATAM QA	Staff SDET, Mobile (AI-Enabled)	Goods & Services	added
-https://jobs.ashbyhq.com/agility.io/cbbae3be-221a-4bb9-9d18-dd2caea70283	2026-07-16	Ashby — QA Colombia LATAM	Senior QA Engineer	Agility IO	added
 https://jobs.ashbyhq.com/dexmate/d69583f6-ea85-489c-9b38-8cbfb2088f1b	2026-07-16	Ashby — QA Automation Senior	Software Development Engineer in Test, AI Platform	Dexmate	added
 https://jobs.ashbyhq.com/josys/336ee265-7efa-4d77-b0fb-06d0b8b76a3d	2026-07-16	Ashby — QA Automation Senior	Senior Automation Engineer	Josys	added
 https://jobs.ashbyhq.com/splitmetrics/f6b86a9d-9e3a-4bf9-ba1a-038789e09e0f	2026-07-16	Ashby — QA Automation Senior	Senior QA Engineer	SplitMetrics	added
@@ -485,17 +431,14 @@ https://jobs.merck.com/us/en/job/R404259/Associate-Director-Quality-Assurance	20
 https://jobs.merck.com/us/en/job/R404250/Senior-Specialist-Quality-Assurance	2026-07-16	Merck — pharma QA	Senior Specialist Quality Assurance	Merck (MSD)	skipped_location
 https://jobs.merck.com/us/en/job/R400455/Senior-Specialist-Quality-Assurance	2026-07-16	Merck — pharma QA	Senior Specialist, Quality Assurance	Merck (MSD)	skipped_location
 https://job-boards.greenhouse.io/techholding/jobs/4713386005	2026-07-16	Greenhouse — QA Automation	Senior QA Engineer - Automation - Contractual Role	Tech Holding	skipped_location
-https://job-boards.greenhouse.io/aisquared/jobs/4621299006	2026-07-16	Greenhouse — QA Automation	QA Engineer	AI Squared	skipped_location
 https://job-boards.greenhouse.io/quanata/jobs/6100025004	2026-07-16	Greenhouse — QA Automation	SDET, Backend	Quanata	skipped_location
 https://job-boards.greenhouse.io/banyansoftware/jobs/5122705007	2026-07-16	Greenhouse — QA Lead	Software QA Lead	Banyan Software (The Lake Companies)	skipped_location
-https://job-boards.greenhouse.io/finitestate/jobs/5811251004	2026-07-16	Greenhouse — QA Lead	QA Lead Engineer	Finite State	skipped_location
 https://job-boards.greenhouse.io/microblink/jobs/5173580007	2026-07-16	Greenhouse — QC Integration	QA Engineer	Microblink	skipped_location
 https://jobs.ashbyhq.com/AeroVect/3098e207-9f63-48a9-8da8-610407260ff8	2026-07-16	Ashby — QC Integration	Integration Engineer	AeroVect	skipped_location
 https://jobs.ashbyhq.com/quadrivia/e4dfc761-582c-4241-8508-6f126a72d3dd	2026-07-16	Ashby — QC Integration	Senior (Principal) EHR Integration Engineer	Quadrivia	skipped_location
 https://jobs.ashbyhq.com/Flock%20Safety/d6fe6027-8e4b-476f-a3bb-bcd812404b13	2026-07-16	Ashby — QC Integration	Hardware Validation Engineer, UAS	Flock Safety	skipped_location
 https://jobs.ashbyhq.com/apex-technology-inc/bfd82481-edce-4efb-b093-4ecbd9692fd6/application	2026-07-16	Ashby — QC Integration	Mission Integration Engineer	Apex Technology, Inc.	skipped_location
 https://weworkremotely.com/remote-jobs/ahu-technologies-sdet-automated-qa-engineer-seattle-wa	2026-07-16	WeWorkRemotely — QA	SDET / Automated QA Engineer - Seattle WA	AHU Technologies	skipped_location
-https://himalayas.app/companies/mekari/jobs/senior-qa-engineer-ii-sdet	2026-07-16	Himalayas — QA Remote	Senior QA Engineer II - SDET	Mekari	skipped_location
 https://himalayas.app/companies/sprypoint/jobs/senior-sdet-software-development-engineer-in-test	2026-07-16	Himalayas — QA Remote	Senior SDET	SpryPoint	skipped_location
 https://job-boards.greenhouse.io/yipitdata/jobs/3895798	2026-07-16	Greenhouse — E-commerce QA LATAM	SDET Engineer	YipitData	skipped_location
 https://job-boards.greenhouse.io/veristainc/jobs/5300221008	2026-07-16	Greenhouse — Biotech/Pharma QA Validation	Senior Quality Engineer / Senior Quality GxP Auditor	Verista, Inc.	skipped_location
@@ -562,3 +505,5 @@ https://jobs.lever.co/ciandt/af84d767-bfbe-4efb-8843-07d87dba5615	2026-07-29	lev
 https://jobs.lever.co/ciandt/0f60b997-9532-4c60-b5c3-14b3876f2d83	2026-07-29	lever-api	[Job-30012] Senior Tester, São Paulo (Hybrid)	CI&T	added
 https://jobs.lever.co/ciandt/65a97f0e-5c96-4721-acd6-c26da18de3a3	2026-07-29	lever-api	[Job-30073] Mid-Level Tester, São Paulo (Hybrid)	CI&T	added
 https://jobs.lever.co/ciandt/44b7810f-ad4e-4df4-a1ff-bf0885cc7362	2026-07-29	lever-api	[Job-30232] Senior QA Automation (Hybrid)	CI&T	added
+https://jobs.ashbyhq.com/truelogic/3e85ae02-17dc-40a7-b030-eeb579553dc7	2026-07-08	ashby-api	Senior QA Engineer - E-commerce	Truelogic	added
+https://jobs.ashbyhq.com/truelogic/531fa95b-4b09-4435-a720-e53d859be9a0	2026-07-09	ashby-api	Senior QA Engineer - E-commerce	Truelogic	added

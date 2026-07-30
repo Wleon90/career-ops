@@ -187,6 +187,34 @@
 - [!] https://jobs.lever.co/ciandt/65a97f0e-5c96-4721-acd6-c26da18de3a3 | CI&T | [Job-30073] Mid-Level Tester, São Paulo (Hybrid) — Skipped 2026-07-29: off-geo via location_filter — São Paulo, Brazil (hybrid onsite) + mid-level
 - [!] https://jobs.lever.co/ciandt/44b7810f-ad4e-4df4-a1ff-bf0885cc7362 | CI&T | [Job-30232] Senior QA Automation (Hybrid) — Skipped 2026-07-29: off-geo via location_filter — São Paulo, Brazil (hybrid onsite)
 
+- [ ] https://jobs.ashbyhq.com/truelogic/ac61013c-9924-42cf-a5f6-35470f59bbcd | Truelogic | Senior QA Engineer - Software
+
+- [ ] https://jobs.ashbyhq.com/truelogic/2f68041f-732c-4031-8fa2-64b133974fa0 | Truelogic | Senior QA Engineer - Software
+
+- [ ] https://jobs.ashbyhq.com/truelogic/18a27ad1-4220-4225-8f8c-944c46fad299 | Truelogic | Senior QA Engineer - Software
+
+- [ ] https://jobs.ashbyhq.com/truelogic/9c821d5b-584b-45d9-b2bd-e1a9c166f390 | Truelogic | Senior QA Automation Engineer (JavaScript/TypeScript) - HospitalityTech
+
+- [ ] https://jobs.ashbyhq.com/truelogic/cd0a079a-9d3a-4e10-ae78-cb12857fd152 | Truelogic | Senior QA Automation Engineer (JavaScript/TypeScript) - HospitalityTech
+
+- [ ] https://jobs.ashbyhq.com/truelogic/3db28a07-1e9e-43e5-8178-982147cca556 | Truelogic | Senior QA Automation Engineer (JavaScript/TypeScript) - HospitalityTech
+
+- [ ] https://jobs.ashbyhq.com/truelogic/a43fe49d-6e70-4df4-aa08-a7f8b1c829ae | Truelogic | Senior SDET -  GovTech Industry (Mexico)
+- [ ] https://jobs.ashbyhq.com/truelogic/b251e0c5-533d-477c-9d07-ec76682bd034 | Truelogic | Senior SDET -  GovTech Industry (Brazil)
+- [ ] https://jobs.ashbyhq.com/truelogic/817be466-60a4-48d1-87b3-9b568218830e | Truelogic | Senior SDET -  GovTech Industry
+
+- [ ] https://jobs.ashbyhq.com/truelogic/649321bc-54b6-4aed-9993-13c75259e6e4 | Truelogic | Senior Software Development Engineer in Test (SDET/AI) - Real Estate - LATAM (Remote)
+- [ ] https://jobs.ashbyhq.com/truelogic/5e22da0f-9ca4-4816-9be2-9ef6ede8e353 | Truelogic | Senior Software Development Engineer in Test (SDET/AI) - Real Estate - Colombia (Remote)
+
+- [ ] https://jobs.ashbyhq.com/truelogic/e4c4d80e-b9e9-4a8a-b6a4-61946d238e9a | Truelogic | Senior Software Development Engineer in Test (SDET) - Ecommerce - LATAM (Remote)
+- [ ] https://jobs.ashbyhq.com/truelogic/9fcca8c1-90b6-4c91-b9f2-914b3196d5ba | Truelogic | Senior Software Development Engineer in Test (SDET) - Ecommerce - Colombia (Remote)
+
+- [ ] https://jobs.ashbyhq.com/truelogic/3e85ae02-17dc-40a7-b030-eeb579553dc7 | Truelogic | Senior QA Engineer - E-commerce
+
+- [ ] https://jobs.ashbyhq.com/truelogic/531fa95b-4b09-4435-a720-e53d859be9a0 | Truelogic | Senior QA Engineer - E-commerce
+
+- [ ] https://jobs.ashbyhq.com/truelogic/98866bc6-1962-404c-bb48-1fd28bf04470 | Truelogic | Senior SDET -  GovTech Industry
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
