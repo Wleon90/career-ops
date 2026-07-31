@@ -220,6 +220,9 @@
 - [ ] https://job-boards.greenhouse.io/coherehealth/jobs/7691083003 | Cohere Health | SDET Engineer
 - [ ] https://job-boards.greenhouse.io/coherehealth/jobs/7719450003 | Cohere Health | Sr. SDET Engineer
 
+- [ ] https://job-boards.greenhouse.io/coherehealth/jobs/7805761003 | Cohere Health | Sr. SDET Engineer
+- [ ] https://www.payoneer.com/careers/position/7992675/?gh_jid=7992675 | Payoneer | QA Lead
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
