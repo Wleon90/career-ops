@@ -223,6 +223,12 @@
 - [ ] https://job-boards.greenhouse.io/coherehealth/jobs/7805761003 | Cohere Health | Sr. SDET Engineer
 - [ ] https://www.payoneer.com/careers/position/7992675/?gh_jid=7992675 | Payoneer | QA Lead
 
+- [ ] https://www.samsara.com/company/careers/roles/8094156?gh_jid=8094156 | Samsara | Solutions Integration Engineer IV
+- [ ] https://job-boards.greenhouse.io/idme/jobs/7817655003 | ID.me | Senior Software Engineer – Quality Engineering 
+- [ ] https://jobs.lever.co/ciandt/3c92f6bc-33cc-46e8-a740-970ee9b6c317 | CI&T | [Job- 30880] QA Automation Engineer Mid-Level, Brazil
+- [ ] https://jobs.lever.co/Ubiminds/edde0963-2b00-4e97-8d77-2e20c2ccadb5 | Ubiminds | Sr. Technical Account Manager - Automation Test Engineer (556)
+- [ ] https://jobs.lever.co/Ubiminds/cf61d46e-6b87-41d7-b7ed-0c6a77684cf9 | Ubiminds | Sr. Technical Account Manager - Automation Test Engineer (557)
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
