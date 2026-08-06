@@ -917,3 +917,45 @@ tracked_companies:
     careers_url: https://job-boards.greenhouse.io/elastic
     notes: "Search/observability, distributed all-remote. Greenhouse board (~1500 jobs, HIGH volume — disable if too noisy). Strong global-remote QA/SDET fit; rely on location_filter."
     enabled: true
+
+  # == BATCH ADDED 2026-08-06 (+8) — nearshore LATAM shops, ATS verified, high Colombia/LATAM fit ==
+
+  - name: Encora
+    careers_url: https://job-boards.greenhouse.io/encora10
+    notes: "Nearshore engineering, strong LATAM delivery. Greenhouse board (~406 jobs). William scored 4.2/5 here (#037 Senior SDET, applied). High-priority source; rely on location_filter."
+    enabled: true
+
+  - name: ThoughtWorks
+    careers_url: https://job-boards.greenhouse.io/thoughtworks
+    notes: "Global consultancy with strong Colombia/LATAM offices. Greenhouse board (~504 jobs, high volume). QA/SDET roles; rely on location_filter."
+    enabled: true
+
+  - name: Praxent
+    careers_url: https://job-boards.greenhouse.io/praxent
+    notes: "Fintech-focused nearshore (El Salvador/Mexico/Colombia). Greenhouse board. Frequent LATAM QA Automation / SDET postings (#043 evaluated). C#/.NET-leaning stack — verify."
+    enabled: true
+
+  - name: Insight Assurance
+    careers_url: https://job-boards.greenhouse.io/insightassurance
+    notes: "Compliance/audit firm with LATAM QA hiring. Greenhouse board. Playwright/Cypress match seen (#053, LATAM). Verify comp."
+    enabled: true
+
+  - name: Nortal
+    careers_url: https://job-boards.greenhouse.io/nortal
+    notes: "Digital transformation firm with LATAM-remote QA team. Greenhouse board (~96 jobs). Senior QA Engineer LATAM roles seen."
+    enabled: true
+
+  - name: Goods & Services
+    careers_url: https://job-boards.greenhouse.io/goodsservices
+    notes: "US firm with nearshore centers (Mexico/Colombia/Uruguay). Greenhouse board. Staff SDET roles Colombia-Remote; watch for AI-enabled/mobile scope."
+    enabled: true
+
+  - name: Peach Pilot
+    careers_url: https://job-boards.greenhouse.io/peachpilot
+    notes: "AI systems/platform startup, LATAM-remote. Greenhouse board (low volume). Sr QA Engineer (AI Systems) seen (#064, 3.2/5)."
+    enabled: true
+
+  - name: Enumerate
+    careers_url: https://job-boards.greenhouse.io/enumerate
+    notes: "Property-management SaaS with LATAM QA hiring. Greenhouse board. QA Automation Lead - LATAM seen (#051, 3.4/5, strong timezone fit)."
+    enabled: true

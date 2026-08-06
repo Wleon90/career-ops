@@ -187,38 +187,55 @@
 - [!] https://jobs.lever.co/ciandt/65a97f0e-5c96-4721-acd6-c26da18de3a3 | CI&T | [Job-30073] Mid-Level Tester, São Paulo (Hybrid) — Skipped 2026-07-29: off-geo via location_filter — São Paulo, Brazil (hybrid onsite) + mid-level
 - [!] https://jobs.lever.co/ciandt/44b7810f-ad4e-4df4-a1ff-bf0885cc7362 | CI&T | [Job-30232] Senior QA Automation (Hybrid) — Skipped 2026-07-29: off-geo via location_filter — São Paulo, Brazil (hybrid onsite)
 
-- [ ] https://jobs.ashbyhq.com/truelogic/ac61013c-9924-42cf-a5f6-35470f59bbcd | Truelogic | Senior QA Engineer - Software
+- [!] https://jobs.ashbyhq.com/truelogic/ac61013c-9924-42cf-a5f6-35470f59bbcd | Truelogic | Senior QA Engineer - Software — Discarded 2026-08-06: not LATAM-confirmed (no region) + churn triplicate of Senior QA Software
 
-- [ ] https://jobs.ashbyhq.com/truelogic/2f68041f-732c-4031-8fa2-64b133974fa0 | Truelogic | Senior QA Engineer - Software
+- [!] https://jobs.ashbyhq.com/truelogic/2f68041f-732c-4031-8fa2-64b133974fa0 | Truelogic | Senior QA Engineer - Software — Discarded 2026-08-06: not LATAM-confirmed (no region) + churn triplicate of Senior QA Software
 
-- [ ] https://jobs.ashbyhq.com/truelogic/18a27ad1-4220-4225-8f8c-944c46fad299 | Truelogic | Senior QA Engineer - Software
+- [!] https://jobs.ashbyhq.com/truelogic/18a27ad1-4220-4225-8f8c-944c46fad299 | Truelogic | Senior QA Engineer - Software — Discarded 2026-08-06: not LATAM-confirmed (no region) + churn triplicate of Senior QA Software
 
-- [ ] https://jobs.ashbyhq.com/truelogic/9c821d5b-584b-45d9-b2bd-e1a9c166f390 | Truelogic | Senior QA Automation Engineer (JavaScript/TypeScript) - HospitalityTech
+- [!] https://jobs.ashbyhq.com/truelogic/9c821d5b-584b-45d9-b2bd-e1a9c166f390 | Truelogic | Senior QA Automation Engineer (JavaScript/TypeScript) - HospitalityTech — Discarded 2026-08-06: not LATAM-confirmed (no region) + churn triplicate of HospitalityTech
 
-- [ ] https://jobs.ashbyhq.com/truelogic/cd0a079a-9d3a-4e10-ae78-cb12857fd152 | Truelogic | Senior QA Automation Engineer (JavaScript/TypeScript) - HospitalityTech
+- [!] https://jobs.ashbyhq.com/truelogic/cd0a079a-9d3a-4e10-ae78-cb12857fd152 | Truelogic | Senior QA Automation Engineer (JavaScript/TypeScript) - HospitalityTech — Discarded 2026-08-06: not LATAM-confirmed (no region) + churn triplicate of HospitalityTech
 
-- [ ] https://jobs.ashbyhq.com/truelogic/3db28a07-1e9e-43e5-8178-982147cca556 | Truelogic | Senior QA Automation Engineer (JavaScript/TypeScript) - HospitalityTech
+- [!] https://jobs.ashbyhq.com/truelogic/3db28a07-1e9e-43e5-8178-982147cca556 | Truelogic | Senior QA Automation Engineer (JavaScript/TypeScript) - HospitalityTech — Discarded 2026-08-06: not LATAM-confirmed (no region) + churn triplicate of HospitalityTech
 
-- [ ] https://jobs.ashbyhq.com/truelogic/a43fe49d-6e70-4df4-aa08-a7f8b1c829ae | Truelogic | Senior SDET -  GovTech Industry (Mexico)
-- [ ] https://jobs.ashbyhq.com/truelogic/b251e0c5-533d-477c-9d07-ec76682bd034 | Truelogic | Senior SDET -  GovTech Industry (Brazil)
-- [ ] https://jobs.ashbyhq.com/truelogic/817be466-60a4-48d1-87b3-9b568218830e | Truelogic | Senior SDET -  GovTech Industry
+- [!] https://jobs.ashbyhq.com/truelogic/a43fe49d-6e70-4df4-aa08-a7f8b1c829ae | Truelogic | Senior SDET -  GovTech Industry (Mexico) — Discarded 2026-08-06: off-geo — Mexico
+- [!] https://jobs.ashbyhq.com/truelogic/b251e0c5-533d-477c-9d07-ec76682bd034 | Truelogic | Senior SDET -  GovTech Industry (Brazil) — Discarded 2026-08-06: off-geo — Brazil
+- [!] https://jobs.ashbyhq.com/truelogic/817be466-60a4-48d1-87b3-9b568218830e | Truelogic | Senior SDET -  GovTech Industry — Discarded 2026-08-06: not LATAM-confirmed (no region) — GovTech
 
-- [ ] https://jobs.ashbyhq.com/truelogic/649321bc-54b6-4aed-9993-13c75259e6e4 | Truelogic | Senior Software Development Engineer in Test (SDET/AI) - Real Estate - LATAM (Remote)
+- [!] https://jobs.ashbyhq.com/truelogic/649321bc-54b6-4aed-9993-13c75259e6e4 | Truelogic | Senior Software Development Engineer in Test (SDET/AI) - Real Estate - LATAM (Remote) — Discarded 2026-08-06: duplicate — Colombia variant (5e22da0f) kept for Real Estate SDET/AI
 - [ ] https://jobs.ashbyhq.com/truelogic/5e22da0f-9ca4-4816-9be2-9ef6ede8e353 | Truelogic | Senior Software Development Engineer in Test (SDET/AI) - Real Estate - Colombia (Remote)
 
-- [ ] https://jobs.ashbyhq.com/truelogic/e4c4d80e-b9e9-4a8a-b6a4-61946d238e9a | Truelogic | Senior Software Development Engineer in Test (SDET) - Ecommerce - LATAM (Remote)
+- [!] https://jobs.ashbyhq.com/truelogic/e4c4d80e-b9e9-4a8a-b6a4-61946d238e9a | Truelogic | Senior Software Development Engineer in Test (SDET) - Ecommerce - LATAM (Remote) — Discarded 2026-08-06: duplicate — Colombia variant (9fcca8c1) kept for Ecommerce SDET
 - [ ] https://jobs.ashbyhq.com/truelogic/9fcca8c1-90b6-4c91-b9f2-914b3196d5ba | Truelogic | Senior Software Development Engineer in Test (SDET) - Ecommerce - Colombia (Remote)
 
-- [ ] https://jobs.ashbyhq.com/truelogic/3e85ae02-17dc-40a7-b030-eeb579553dc7 | Truelogic | Senior QA Engineer - E-commerce
+- [!] https://jobs.ashbyhq.com/truelogic/3e85ae02-17dc-40a7-b030-eeb579553dc7 | Truelogic | Senior QA Engineer - E-commerce — Discarded 2026-08-06: not LATAM-confirmed (no region) — E-commerce
 
-- [ ] https://jobs.ashbyhq.com/truelogic/531fa95b-4b09-4435-a720-e53d859be9a0 | Truelogic | Senior QA Engineer - E-commerce
+- [!] https://jobs.ashbyhq.com/truelogic/531fa95b-4b09-4435-a720-e53d859be9a0 | Truelogic | Senior QA Engineer - E-commerce — Discarded 2026-08-06: not LATAM-confirmed (no region) — E-commerce
 
-- [ ] https://jobs.ashbyhq.com/truelogic/98866bc6-1962-404c-bb48-1fd28bf04470 | Truelogic | Senior SDET -  GovTech Industry
+- [!] https://jobs.ashbyhq.com/truelogic/98866bc6-1962-404c-bb48-1fd28bf04470 | Truelogic | Senior SDET -  GovTech Industry — Discarded 2026-08-06: not LATAM-confirmed (no region) — GovTech
 
 - [!] https://www.payoneer.com/careers/position/8073755/?gh_jid=8073755 | Payoneer | QA Lead — Skipped 2026-07-31: off-geo via location_filter — Gurugram, India (blocked)
 - [!] https://job-boards.greenhouse.io/coherehealth/jobs/7691083003 | Cohere Health | SDET Engineer — Skipped 2026-07-31: off-geo via location_filter — Hyderabad, India (blocked)
 - [!] https://job-boards.greenhouse.io/coherehealth/jobs/7805761003 | Cohere Health | Sr. SDET Engineer — Skipped 2026-07-31: off-geo via location_filter — Hyderabad, India (blocked)
 - [!] https://job-boards.greenhouse.io/gitlab/jobs/8648964002 | GitLab | Enterprise QA Engineer, Salesforce — Skipped 2026-07-31: off-geo via location_filter — Bangalore, India (blocked) 
+
+- [!] https://jobs.ashbyhq.com/truelogic/e4493525-de67-4e5b-995d-a4a1db73162f | Truelogic | Data QA Engineer – Enterprise Data | Colombia (Bogotá) — Discarded 2026-08-06: discarded by candidate — Data QA (data-quality) role, not target
+- [!] https://jobs.ashbyhq.com/truelogic/8febab4f-914f-447c-a372-3e1d93f930a9 | Truelogic | Data QA Engineer – Enterprise Data | LatAm — Skipped 2026-08-06: duplicate variant, Colombia posting (e4493525) kept for evaluation
+- [!] https://jobs.ashbyhq.com/truelogic/e3c20244-fb03-4efd-a5a6-478568cb197b | Truelogic | Data QA Engineer – Enterprise Data | Brazil — Skipped 2026-08-06: off-geo via location_filter — Brazil (São Paulo)
+- [!] https://jobs.ashbyhq.com/truelogic/c03cd150-d021-4cd0-90aa-9e18cb745439 | Truelogic | Data QA Engineer – Enterprise Data | Mexico — Skipped 2026-08-06: off-geo via location_filter — Mexico (Mexico City)
+- [!] https://jobs.ashbyhq.com/truelogic/486754ce-da04-4fa3-b712-bece86805de0 | Truelogic | Data QA Engineer – Enterprise Data | DR — Skipped 2026-08-06: off-geo via location_filter — DR (Santo Domingo)
+- [!] https://www.samsara.com/company/careers/roles/8094156?gh_jid=8094156 | Samsara | Solutions Integration Engineer IV — Skipped 2026-08-06: not a QA role (solutions/integration engineering) + Remote-US only
+- [!] https://jobs.lever.co/Ubiminds/edde0963-2b00-4e97-8d77-2e20c2ccadb5 | Ubiminds | Sr. Technical Account Manager - Automation Test Engineer (556) — Skipped 2026-08-06: off-geo (Canada) + Technical Account Manager, not QA
+- [!] https://jobs.lever.co/Ubiminds/cf61d46e-6b87-41d7-b7ed-0c6a77684cf9 | Ubiminds | Sr. Technical Account Manager - Automation Test Engineer (557) — Skipped 2026-08-06: off-geo (Canada) + Technical Account Manager, not QA
+- [!] https://job-boards.greenhouse.io/idme/jobs/7817655003 | ID.me | Senior Software Engineer – Quality Engineering — Skipped 2026-08-06: off-geo via location_filter — Mountain View, California, US
+- [!] https://www.payoneer.com/careers/position/7992675/?gh_jid=7992675 | Payoneer | QA Lead — Skipped 2026-08-06: off-geo via location_filter — Gurugram, India (blocked)
+- [!] https://www.payoneer.com/careers/position/8088219/?gh_jid=8088219 | Payoneer | QA Lead, Business Applications — Skipped 2026-08-06: off-geo via location_filter — Herzliya, Israel
+- [!] https://jobs.lever.co/distro/bc492ca0-e286-4bff-a974-bbd6ebdc4f8d | Distro | Lead Automation Engineer — Skipped 2026-08-06: off-geo via location_filter — Noida, India
+- [!] https://jobs.lever.co/distro/eead5c0a-37ee-4b0e-be8b-2cb6e0a3d2f5 | Distro | QA Automation Engineer (Senior to Staff level) — Skipped 2026-08-06: off-geo via location_filter — Noida, India
+- [!] https://jobs.lever.co/distro/ed95f558-c423-4fdd-b01e-b1ad983d71eb | Distro | Quality Assurance Engineer (Payroll & Benefits) — Skipped 2026-08-06: off-geo via location_filter — Noida, India
+- [!] https://jobs.lever.co/distro/eacfbc22-10c7-422c-aa33-cad3d489fc07 | Distro | Quality Assurance Technician — Skipped 2026-08-06: off-geo (St. Louis, US) + technician tier below target
+- [!] https://jobs.lever.co/distro/08acec39-d366-4ad5-a43c-eec284ba66ae | Distro | Senior Quality Assurance Engineer — Skipped 2026-08-06: off-geo via location_filter — Noida, India
 
 ## Procesadas
 
