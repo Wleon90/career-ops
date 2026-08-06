@@ -229,6 +229,15 @@
 - [ ] https://jobs.lever.co/Ubiminds/edde0963-2b00-4e97-8d77-2e20c2ccadb5 | Ubiminds | Sr. Technical Account Manager - Automation Test Engineer (556)
 - [ ] https://jobs.lever.co/Ubiminds/cf61d46e-6b87-41d7-b7ed-0c6a77684cf9 | Ubiminds | Sr. Technical Account Manager - Automation Test Engineer (557)
 
+- [ ] https://jobs.ashbyhq.com/truelogic/8febab4f-914f-447c-a372-3e1d93f930a9 | Truelogic | Data QA Engineer – Enterprise Data
+- [ ] https://jobs.ashbyhq.com/truelogic/e3c20244-fb03-4efd-a5a6-478568cb197b | Truelogic | Data QA Engineer – Enterprise Data | Brazil
+- [ ] https://jobs.ashbyhq.com/truelogic/e4493525-de67-4e5b-995d-a4a1db73162f | Truelogic | Data QA Engineer – Enterprise Data | Colombia
+- [ ] https://jobs.ashbyhq.com/truelogic/c03cd150-d021-4cd0-90aa-9e18cb745439 | Truelogic | Data QA Engineer – Enterprise Data | Mexico
+- [ ] https://jobs.ashbyhq.com/truelogic/486754ce-da04-4fa3-b712-bece86805de0 | Truelogic | Data QA Engineer – Enterprise Data | DR
+- [ ] https://www.payoneer.com/careers/position/8088219/?gh_jid=8088219 | Payoneer | QA Lead, Business Applications
+- [ ] https://jobs.lever.co/distro/ed95f558-c423-4fdd-b01e-b1ad983d71eb | Distro | Quality Assurance Engineer (Payroll & Benefits)
+- [ ] https://jobs.lever.co/distro/08acec39-d366-4ad5-a43c-eec284ba66ae | Distro | Senior Quality Assurance Engineer
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
