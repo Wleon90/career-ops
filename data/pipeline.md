@@ -238,6 +238,11 @@
 - [ ] https://jobs.lever.co/distro/ed95f558-c423-4fdd-b01e-b1ad983d71eb | Distro | Quality Assurance Engineer (Payroll & Benefits)
 - [ ] https://jobs.lever.co/distro/08acec39-d366-4ad5-a43c-eec284ba66ae | Distro | Senior Quality Assurance Engineer
 
+- [ ] https://jobs.lever.co/distro/d149ffe6-6549-47c2-90f4-f153e032b98c | Distro | 15327 - Payroll Tax Manager, Quality Assurance - WFH
+- [ ] https://jobs.lever.co/distro/bc492ca0-e286-4bff-a974-bbd6ebdc4f8d | Distro | Lead Automation Engineer
+- [ ] https://jobs.lever.co/distro/eead5c0a-37ee-4b0e-be8b-2cb6e0a3d2f5 | Distro | QA Automation Engineer (Senior to Staff level)
+- [ ] https://jobs.lever.co/distro/eacfbc22-10c7-422c-aa33-cad3d489fc07 | Distro | Quality Assurance Technician
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
