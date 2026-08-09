@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 86 | 2026-08-06 | Nortal | (1518) Senior QA Automation Engineer | 4.3/5 | Evaluated | ❌ | [084](../reports/084-nortal-2026-08-06.md) | Playwright+TS exact match, LATAM remote USD; minor Python gap — apply, confirm salary >=$3k |
+| 87 | 2026-08-06 | Goods & Services | Senior QA Analyst (With Automation) | 3.6/5 | Evaluated | ❌ | [085](../reports/085-goods-services-2026-08-06.md) | Selenium/API/SQL + regulated-industry fit; Tricentis tool gap; Colombia-remote — apply with gap noted |
+| 88 | 2026-08-06 | Truelogic | Senior SDET - Ecommerce - Colombia | 4.0/5 | Evaluated | ❌ | [086](../reports/086-truelogic-2026-08-06.md) | JS/TS SDET, Colombia-specific; mobile adequate not core; Truelogic churn — apply same-session |
 | 85 | 2026-07-16 | PublicInput | Quality Assurance Engineer (govtech) | N/A | Applied | ❌ | N/A | Applied 2026-07-16 directly, no formal evaluation run. Govtech/civic engagement platform, Remote. |
 | 83 | 2026-06-16 | Oowlish | QA Automation Engineer (AI-Assisted Quality Engineering) | 3.6/5 | Evaluated | ❌ | [083](../reports/083-oowlish-qa-automation-ai-2026-06-16.md) | Active Lever posting; companion postings expired; US visa travel ask needs clarification; no salary disclosed |
 | 76 | 2026-06-11 | Globant | Senior Test Automation Engineer | 3.6/5 | Evaluated | ❌ | [076](../reports/076-globant-senior-test-automation-engineer-2026-06-11.md) | Remote Colombia, Selenium/Java/Appium, thin JD, no salary — apply with negotiation |

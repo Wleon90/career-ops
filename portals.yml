@@ -959,3 +959,146 @@ tracked_companies:
     careers_url: https://job-boards.greenhouse.io/enumerate
     notes: "Property-management SaaS with LATAM QA hiring. Greenhouse board. QA Automation Lead - LATAM seen (#051, 3.4/5, strong timezone fit)."
     enabled: true
+
+  # == BATCH ADDED 2026-08-09 (+34) — reach 100 API-scannable. Mostly global/US tech boards;
+  #    they hire remote QA/SDET but skew US/EU — rely on location_filter to surface LATAM roles. ==
+
+  # -- Greenhouse (verified) --
+  - name: Airbnb
+    careers_url: https://job-boards.greenhouse.io/airbnb
+    notes: "Travel marketplace. Greenhouse (~567). Global-remote QA/SDET; US-heavy — location_filter."
+    enabled: true
+  - name: Dropbox
+    careers_url: https://job-boards.greenhouse.io/dropbox
+    notes: "Cloud storage, 'Virtual First' remote. Greenhouse (~429). US-heavy — location_filter."
+    enabled: true
+  - name: Coinbase
+    careers_url: https://job-boards.greenhouse.io/coinbase
+    notes: "Crypto exchange, remote-first. Greenhouse (~1044, high volume). Note crypto/Web3 (negative title filter) — location_filter."
+    enabled: true
+  - name: Robinhood
+    careers_url: https://job-boards.greenhouse.io/robinhood
+    notes: "Fintech trading. Greenhouse (~276). US-heavy — location_filter."
+    enabled: true
+  - name: Pinterest
+    careers_url: https://job-boards.greenhouse.io/pinterest
+    notes: "Social/visual discovery. Greenhouse (~892, high volume). US-heavy — location_filter."
+    enabled: true
+  - name: Lyft
+    careers_url: https://job-boards.greenhouse.io/lyft
+    notes: "Rideshare. Greenhouse (~338). US-heavy — location_filter."
+    enabled: true
+  - name: Instacart
+    careers_url: https://job-boards.greenhouse.io/instacart
+    notes: "Grocery delivery. Greenhouse (~464). US-heavy — location_filter."
+    enabled: true
+  - name: Figma
+    careers_url: https://job-boards.greenhouse.io/figma
+    notes: "Design SaaS. Greenhouse (~164). Remote-friendly; US/EU-heavy — location_filter."
+    enabled: true
+  - name: New Relic
+    careers_url: https://job-boards.greenhouse.io/newrelic
+    notes: "Observability. Greenhouse (~290). QA/SDET roles; US-heavy — location_filter."
+    enabled: true
+  - name: Asana
+    careers_url: https://job-boards.greenhouse.io/asana
+    notes: "Work management SaaS. Greenhouse (~740, high volume). US-heavy — location_filter."
+    enabled: true
+  - name: Amplitude
+    careers_url: https://job-boards.greenhouse.io/amplitude
+    notes: "Product analytics. Greenhouse (~66). US-heavy — location_filter."
+    enabled: true
+  - name: Chime
+    careers_url: https://job-boards.greenhouse.io/chime
+    notes: "Neobank fintech. Greenhouse (~290). US-only likely — location_filter."
+    enabled: true
+  - name: Discord
+    careers_url: https://job-boards.greenhouse.io/discord
+    notes: "Chat platform, remote-friendly. Greenhouse (~141). US-heavy — location_filter."
+    enabled: true
+  - name: Squarespace
+    careers_url: https://job-boards.greenhouse.io/squarespace
+    notes: "Website builder. Greenhouse (~36). US/EU — location_filter."
+    enabled: true
+  - name: Webflow
+    careers_url: https://job-boards.greenhouse.io/webflow
+    notes: "No-code web platform, remote-first. Greenhouse (~29). location_filter."
+    enabled: true
+  - name: Calendly
+    careers_url: https://job-boards.greenhouse.io/calendly
+    notes: "Scheduling SaaS, remote-first. Greenhouse (~22). location_filter."
+    enabled: true
+  - name: Postman
+    careers_url: https://job-boards.greenhouse.io/postman
+    notes: "API platform (William uses Postman). Greenhouse (~107). Some LATAM/remote; location_filter."
+    enabled: true
+  - name: Anthropic
+    careers_url: https://job-boards.greenhouse.io/anthropic
+    notes: "AI lab. Greenhouse (~784, high volume). QA/eval roles; US/UK-heavy — location_filter."
+    enabled: true
+  - name: Flexport
+    careers_url: https://job-boards.greenhouse.io/flexport
+    notes: "Freight/logistics tech. Greenhouse (~483). US-heavy — location_filter."
+    enabled: true
+  - name: Faire
+    careers_url: https://job-boards.greenhouse.io/faire
+    notes: "Wholesale marketplace. Greenhouse (~132). US-heavy — location_filter."
+    enabled: true
+  - name: Airtable
+    careers_url: https://job-boards.greenhouse.io/airtable
+    notes: "No-code database SaaS. Greenhouse (~38). US-heavy — location_filter."
+    enabled: true
+  - name: Twitch
+    careers_url: https://job-boards.greenhouse.io/twitch
+    notes: "Live-streaming. Greenhouse (~72). US-heavy — location_filter."
+    enabled: true
+  - name: Toast
+    careers_url: https://job-boards.greenhouse.io/toast
+    notes: "Restaurant POS/fintech. Greenhouse (~644, high volume). US-heavy — location_filter."
+    enabled: true
+  - name: Upgrade
+    careers_url: https://job-boards.greenhouse.io/upgrade
+    notes: "Consumer fintech/credit. Greenhouse (~16). US-heavy — location_filter."
+    enabled: true
+  - name: Lattice
+    careers_url: https://job-boards.greenhouse.io/lattice
+    notes: "HR/performance SaaS. Greenhouse (~8). US-heavy — location_filter."
+    enabled: true
+
+  # -- Ashby (verified) --
+  - name: OpenAI
+    careers_url: https://jobs.ashbyhq.com/openai
+    notes: "AI lab. Ashby (~750, high volume). QA/eval roles; US-heavy — location_filter."
+    enabled: true
+  - name: Notion
+    careers_url: https://jobs.ashbyhq.com/notion
+    notes: "Productivity SaaS. Ashby (~127). US/EU-heavy — location_filter."
+    enabled: true
+  - name: Replit
+    careers_url: https://jobs.ashbyhq.com/replit
+    notes: "Browser IDE, remote-first. Ashby (~88). SDET roles; location_filter."
+    enabled: true
+  - name: Supabase
+    careers_url: https://jobs.ashbyhq.com/supabase
+    notes: "Open-source backend, fully remote/global. Ashby (~58). Good remote-global fit; location_filter."
+    enabled: true
+  - name: Render
+    careers_url: https://jobs.ashbyhq.com/render
+    notes: "Cloud hosting PaaS, remote. Ashby (~34). location_filter."
+    enabled: true
+  - name: Neon
+    careers_url: https://jobs.ashbyhq.com/neon
+    notes: "Serverless Postgres, remote-first. Ashby (~6). location_filter."
+    enabled: true
+  - name: Hex
+    careers_url: https://jobs.ashbyhq.com/hex
+    notes: "Data analytics workspace. Ashby (~30). US-heavy — location_filter."
+    enabled: true
+  - name: Vanta
+    careers_url: https://jobs.ashbyhq.com/vanta
+    notes: "Security/compliance automation. Ashby (~88). US-heavy — location_filter."
+    enabled: true
+  - name: Pleo
+    careers_url: https://jobs.ashbyhq.com/pleo
+    notes: "EU spend-management fintech, remote. Ashby (~41). EU-heavy — location_filter."
+    enabled: true

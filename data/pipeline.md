@@ -207,7 +207,7 @@
 - [ ] https://jobs.ashbyhq.com/truelogic/5e22da0f-9ca4-4816-9be2-9ef6ede8e353 | Truelogic | Senior Software Development Engineer in Test (SDET/AI) - Real Estate - Colombia (Remote)
 
 - [!] https://jobs.ashbyhq.com/truelogic/e4c4d80e-b9e9-4a8a-b6a4-61946d238e9a | Truelogic | Senior Software Development Engineer in Test (SDET) - Ecommerce - LATAM (Remote) — Discarded 2026-08-06: duplicate — Colombia variant (9fcca8c1) kept for Ecommerce SDET
-- [ ] https://jobs.ashbyhq.com/truelogic/9fcca8c1-90b6-4c91-b9f2-914b3196d5ba | Truelogic | Senior Software Development Engineer in Test (SDET) - Ecommerce - Colombia (Remote)
+- [x] #88 | https://jobs.ashbyhq.com/truelogic/9fcca8c1-90b6-4c91-b9f2-914b3196d5ba | Truelogic | Senior SDET - Ecommerce - Colombia | 4.0/5 | PDF ❌
 
 - [!] https://jobs.ashbyhq.com/truelogic/3e85ae02-17dc-40a7-b030-eeb579553dc7 | Truelogic | Senior QA Engineer - E-commerce — Discarded 2026-08-06: not LATAM-confirmed (no region) — E-commerce
 
@@ -236,6 +236,36 @@
 - [!] https://jobs.lever.co/distro/ed95f558-c423-4fdd-b01e-b1ad983d71eb | Distro | Quality Assurance Engineer (Payroll & Benefits) — Skipped 2026-08-06: off-geo via location_filter — Noida, India
 - [!] https://jobs.lever.co/distro/eacfbc22-10c7-422c-aa33-cad3d489fc07 | Distro | Quality Assurance Technician — Skipped 2026-08-06: off-geo (St. Louis, US) + technician tier below target
 - [!] https://jobs.lever.co/distro/08acec39-d366-4ad5-a43c-eec284ba66ae | Distro | Senior Quality Assurance Engineer — Skipped 2026-08-06: off-geo via location_filter — Noida, India
+
+- [x] #87 | https://job-boards.greenhouse.io/goodsservices/jobs/7787158003 | Goods & Services | Senior QA Analyst (With Automation) | 3.6/5 | PDF ❌
+- [x] #86 | https://job-boards.greenhouse.io/nortal/jobs/5200671007 | Nortal | (1518) Senior QA Automation Engineer | 4.3/5 | PDF ❌
+- [ ] https://job-boards.greenhouse.io/nortal/jobs/5198401007 | Nortal | (1515) QA Automation Engineer | Latin America - Remote — reachable ✓ (mid tier)
+- [ ] https://job-boards.greenhouse.io/praxent/jobs/7802699003 | Praxent | LATAM Senior QA Analyst (Data & ETL) | Remote - International — reachable ✓ but Data/ETL focus (like the Truelogic Data role you discarded — confirm interest)
+- [!] https://job-boards.greenhouse.io/encora10/jobs/5197282007 | Encora | Ansible automation engineer — Skipped 2026-08-06: off-geo (Kuala Lumpur) + infra automation, not QA
+- [!] https://job-boards.greenhouse.io/encora10/jobs/5201126007 | Encora | Chaos Test Lead — Skipped 2026-08-06: off-geo via location_filter — Mexico City
+- [!] https://job-boards.greenhouse.io/encora10/jobs/5165395007 | Encora | Ingeniero de Automatización de Pruebas Mid — Skipped 2026-08-06: off-geo (Peru) + mid tier
+- [!] https://job-boards.greenhouse.io/encora10/jobs/5184130007 | Encora | Lead Data & Integration Engineer — Skipped 2026-08-06: off-geo (Singapore) + not a QA role
+- [!] https://job-boards.greenhouse.io/encora10/jobs/5201125007 | Encora | Performance Tester — Skipped 2026-08-06: off-geo via location_filter — Mexico City
+- [!] https://job-boards.greenhouse.io/encora10/jobs/5180094007 | Encora | QA Analyst — Skipped 2026-08-06: off-geo via location_filter — Makati, Philippines (blocked)
+- [!] https://job-boards.greenhouse.io/encora10/jobs/5188788007 | Encora | QA Automation Mid — Skipped 2026-08-06: off-geo (Peru) + mid tier
+- [!] https://job-boards.greenhouse.io/encora10/jobs/5161244007 | Encora | Test Automation Developer — Skipped 2026-08-06: off-geo via location_filter — Brazil
+- [!] https://job-boards.greenhouse.io/encora10/jobs/5196367007 | Encora | Test Lead — Skipped 2026-08-06: off-geo via location_filter — Singapore
+- [!] https://job-boards.greenhouse.io/encora10/jobs/5201123007 | Encora | TOSCA Automation Engineer — Skipped 2026-08-06: off-geo via location_filter — Mexico City
+
+- [!] https://jobs.lever.co/distro/d149ffe6-6549-47c2-90f4-f153e032b98c | Distro | 15327 - Payroll Tax Manager, Quality Assurance - WFH — Skipped 2026-08-09: off-geo (Chandler, Arizona, US) + not a QA-engineering role (payroll tax operations)
+
+- [!] https://careers.airbnb.com/positions/7863467?gh_jid=7863467 | Airbnb | Senior Web Automation Engineer, Quality Platform — Skipped 2026-08-09: off-geo — Brazil
+- [!] https://careers.airbnb.com/positions/7380185?gh_jid=7380185 | Airbnb | Staff Web Automation Engineer, Quality Engineering — Skipped 2026-08-09: off-geo — Brazil
+- [!] https://www.coinbase.com/careers/positions/8054055?gh_jid=8054055 | Coinbase | Senior IT Automation Engineer — Skipped 2026-08-09: off-geo (Remote-India) + IT automation, not software QA
+- [!] https://boards.greenhouse.io/robinhood/jobs/8082056?t=gh_src=&gh_jid=8082056 | Robinhood | Staff Quality Engineer   — Skipped 2026-08-09: off-geo — Menlo Park, CA, US
+- [!] https://www.pinterestcareers.com/jobs/?gh_jid=8011568 | Pinterest | SDET II, tvScientific — Skipped 2026-08-09: off-geo — San Francisco / Remote-US
+- [!] https://job-boards.greenhouse.io/flexport/jobs/8015840 | Flexport | Automation Engineer I — Skipped 2026-08-09: off-geo (Atlanta, US) + entry level (I)
+- [!] https://careers.toasttab.com/jobs?gh_jid=8083466 | Toast | Senior QA Engineer - Enterprise Drive-thru — Skipped 2026-08-09: off-geo — Costa Mesa, CA, US
+- [!] https://jobs.ashbyhq.com/notion/f76618cc-f961-4d49-8ead-6eadcdebd0b4 | Notion | QA Manager — Skipped 2026-08-09: off-geo — Hyderabad, India (blocked)
+- [!] https://jobs.ashbyhq.com/openai/fff7b15d-a1a0-441f-90f1-5efcae7f0051 | OpenAI | Quality Engineer - Rack Infrastructure & Site Operations - Stargate — Skipped 2026-08-09: off-geo (San Francisco) + datacenter/hardware QA, not software
+- [!] https://jobs.ashbyhq.com/openai/2c9d0566-69b1-435e-bd8f-4eefc04dd076 | OpenAI | Component and Product Quality Engineer, Interconnects — Skipped 2026-08-09: off-geo (San Francisco) + hardware/product QA, not software
+- [!] https://jobs.ashbyhq.com/openai/94172ebc-2219-40b4-ae04-c10be0fd2158 | OpenAI | Manufacturing Test Engineer — Skipped 2026-08-09: off-geo (Singapore) + manufacturing test, not software
+- [!] https://jobs.ashbyhq.com/openai/b9336fbf-ef34-48f3-aa3a-4fb5482fe6ea | OpenAI | Systems Integration Engineer, Build Systems | Consumer Devices — Skipped 2026-08-09: off-geo (San Francisco) + build-systems integration, not QA
 
 ## Procesadas
 
