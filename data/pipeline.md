@@ -243,6 +243,8 @@
 - [ ] https://jobs.lever.co/distro/eead5c0a-37ee-4b0e-be8b-2cb6e0a3d2f5 | Distro | QA Automation Engineer (Senior to Staff level)
 - [ ] https://jobs.lever.co/distro/eacfbc22-10c7-422c-aa33-cad3d489fc07 | Distro | Quality Assurance Technician
 
+- [ ] https://jobs.ashbyhq.com/sardine/ae34ab7e-5729-44dd-826f-7ebb55b64e9b | Sardine | Senior Manager, Quality Engineering
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
