@@ -245,6 +245,8 @@
 
 - [ ] https://jobs.ashbyhq.com/sardine/ae34ab7e-5729-44dd-826f-7ebb55b64e9b | Sardine | Senior Manager, Quality Engineering
 
+- [ ] https://jobs.lever.co/ciandt/e6c28f24-c7b3-4de3-8c81-353aa86c0043 | CI&T | [Job-30854] AI SDET (Software Development Engineer in Test)
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
