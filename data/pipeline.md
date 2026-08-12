@@ -247,6 +247,8 @@
 
 - [ ] https://jobs.lever.co/ciandt/e6c28f24-c7b3-4de3-8c81-353aa86c0043 | CI&T | [Job-30854] AI SDET (Software Development Engineer in Test)
 
+- [ ] https://job-boards.greenhouse.io/santex/jobs/8694412002 | Santex | Senior QA Automation
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
