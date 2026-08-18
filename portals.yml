@@ -732,7 +732,7 @@ tracked_companies:
   - name: Koombea
     careers_url: https://jobs.lever.co/koombea
     notes: "Colombia-founded (Barranquilla) app/dev shop. Lever board. Previously evaluated #026 (functional testing, 3-mo contract)."
-    enabled: true
+    enabled: false  # disabled 2026-08-18 — dead-weight (dead board / US-only noise, 0 reachable in 3 scans)
 
   - name: CI&T
     careers_url: https://jobs.lever.co/ciandt
@@ -967,31 +967,31 @@ tracked_companies:
   - name: Airbnb
     careers_url: https://job-boards.greenhouse.io/airbnb
     notes: "Travel marketplace. Greenhouse (~567). Global-remote QA/SDET; US-heavy — location_filter."
-    enabled: true
+    enabled: false  # disabled 2026-08-18 — dead-weight (dead board / US-only noise, 0 reachable in 3 scans)
   - name: Dropbox
     careers_url: https://job-boards.greenhouse.io/dropbox
     notes: "Cloud storage, 'Virtual First' remote. Greenhouse (~429). US-heavy — location_filter."
-    enabled: true
+    enabled: false  # disabled 2026-08-18 — dead-weight (dead board / US-only noise, 0 reachable in 3 scans)
   - name: Coinbase
     careers_url: https://job-boards.greenhouse.io/coinbase
     notes: "Crypto exchange, remote-first. Greenhouse (~1044, high volume). Note crypto/Web3 (negative title filter) — location_filter."
-    enabled: true
+    enabled: false  # disabled 2026-08-18 — dead-weight (dead board / US-only noise, 0 reachable in 3 scans)
   - name: Robinhood
     careers_url: https://job-boards.greenhouse.io/robinhood
     notes: "Fintech trading. Greenhouse (~276). US-heavy — location_filter."
-    enabled: true
+    enabled: false  # disabled 2026-08-18 — dead-weight (dead board / US-only noise, 0 reachable in 3 scans)
   - name: Pinterest
     careers_url: https://job-boards.greenhouse.io/pinterest
     notes: "Social/visual discovery. Greenhouse (~892, high volume). US-heavy — location_filter."
-    enabled: true
+    enabled: false  # disabled 2026-08-18 — dead-weight (dead board / US-only noise, 0 reachable in 3 scans)
   - name: Lyft
     careers_url: https://job-boards.greenhouse.io/lyft
     notes: "Rideshare. Greenhouse (~338). US-heavy — location_filter."
-    enabled: true
+    enabled: false  # disabled 2026-08-18 — dead-weight (dead board / US-only noise, 0 reachable in 3 scans)
   - name: Instacart
     careers_url: https://job-boards.greenhouse.io/instacart
     notes: "Grocery delivery. Greenhouse (~464). US-heavy — location_filter."
-    enabled: true
+    enabled: false  # disabled 2026-08-18 — dead-weight (dead board / US-only noise, 0 reachable in 3 scans)
   - name: Figma
     careers_url: https://job-boards.greenhouse.io/figma
     notes: "Design SaaS. Greenhouse (~164). Remote-friendly; US/EU-heavy — location_filter."
@@ -1003,7 +1003,7 @@ tracked_companies:
   - name: Asana
     careers_url: https://job-boards.greenhouse.io/asana
     notes: "Work management SaaS. Greenhouse (~740, high volume). US-heavy — location_filter."
-    enabled: true
+    enabled: false  # disabled 2026-08-18 — dead-weight (dead board / US-only noise, 0 reachable in 3 scans)
   - name: Amplitude
     careers_url: https://job-boards.greenhouse.io/amplitude
     notes: "Product analytics. Greenhouse (~66). US-heavy — location_filter."
@@ -1011,7 +1011,7 @@ tracked_companies:
   - name: Chime
     careers_url: https://job-boards.greenhouse.io/chime
     notes: "Neobank fintech. Greenhouse (~290). US-only likely — location_filter."
-    enabled: true
+    enabled: false  # disabled 2026-08-18 — dead-weight (dead board / US-only noise, 0 reachable in 3 scans)
   - name: Discord
     careers_url: https://job-boards.greenhouse.io/discord
     notes: "Chat platform, remote-friendly. Greenhouse (~141). US-heavy — location_filter."
@@ -1035,15 +1035,15 @@ tracked_companies:
   - name: Anthropic
     careers_url: https://job-boards.greenhouse.io/anthropic
     notes: "AI lab. Greenhouse (~784, high volume). QA/eval roles; US/UK-heavy — location_filter."
-    enabled: true
+    enabled: false  # disabled 2026-08-18 — dead-weight (dead board / US-only noise, 0 reachable in 3 scans)
   - name: Flexport
     careers_url: https://job-boards.greenhouse.io/flexport
     notes: "Freight/logistics tech. Greenhouse (~483). US-heavy — location_filter."
-    enabled: true
+    enabled: false  # disabled 2026-08-18 — dead-weight (dead board / US-only noise, 0 reachable in 3 scans)
   - name: Faire
     careers_url: https://job-boards.greenhouse.io/faire
     notes: "Wholesale marketplace. Greenhouse (~132). US-heavy — location_filter."
-    enabled: true
+    enabled: false  # disabled 2026-08-18 — dead-weight (dead board / US-only noise, 0 reachable in 3 scans)
   - name: Airtable
     careers_url: https://job-boards.greenhouse.io/airtable
     notes: "No-code database SaaS. Greenhouse (~38). US-heavy — location_filter."
@@ -1051,11 +1051,11 @@ tracked_companies:
   - name: Twitch
     careers_url: https://job-boards.greenhouse.io/twitch
     notes: "Live-streaming. Greenhouse (~72). US-heavy — location_filter."
-    enabled: true
+    enabled: false  # disabled 2026-08-18 — dead-weight (dead board / US-only noise, 0 reachable in 3 scans)
   - name: Toast
     careers_url: https://job-boards.greenhouse.io/toast
     notes: "Restaurant POS/fintech. Greenhouse (~644, high volume). US-heavy — location_filter."
-    enabled: true
+    enabled: false  # disabled 2026-08-18 — dead-weight (dead board / US-only noise, 0 reachable in 3 scans)
   - name: Upgrade
     careers_url: https://job-boards.greenhouse.io/upgrade
     notes: "Consumer fintech/credit. Greenhouse (~16). US-heavy — location_filter."
@@ -1069,7 +1069,7 @@ tracked_companies:
   - name: OpenAI
     careers_url: https://jobs.ashbyhq.com/openai
     notes: "AI lab. Ashby (~750, high volume). QA/eval roles; US-heavy — location_filter."
-    enabled: true
+    enabled: false  # disabled 2026-08-18 — dead-weight (dead board / US-only noise, 0 reachable in 3 scans)
   - name: Notion
     careers_url: https://jobs.ashbyhq.com/notion
     notes: "Productivity SaaS. Ashby (~127). US/EU-heavy — location_filter."

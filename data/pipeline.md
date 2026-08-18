@@ -267,6 +267,22 @@
 - [!] https://jobs.ashbyhq.com/openai/94172ebc-2219-40b4-ae04-c10be0fd2158 | OpenAI | Manufacturing Test Engineer — Skipped 2026-08-09: off-geo (Singapore) + manufacturing test, not software
 - [!] https://jobs.ashbyhq.com/openai/b9336fbf-ef34-48f3-aa3a-4fb5482fe6ea | OpenAI | Systems Integration Engineer, Build Systems | Consumer Devices — Skipped 2026-08-09: off-geo (San Francisco) + build-systems integration, not QA
 
+- [!] https://job-boards.greenhouse.io/santex/jobs/8694412002 | Santex | Senior QA Automation — Skipped 2026-08-17: off-geo — Argentina / Perú (recurring; discarded before)
+- [!] https://jobs.ashbyhq.com/sardine/ae34ab7e-5729-44dd-826f-7ebb55b64e9b | Sardine | Senior Manager, Quality Engineering — Skipped 2026-08-17: off-geo (US) + Manager tier
+- [!] https://job-boards.greenhouse.io/encora10/jobs/5211069007 | Encora | AI Powered QA Lead — Skipped 2026-08-17: off-geo — Makati, Philippines (blocked)
+- [!] https://job-boards.greenhouse.io/encora10/jobs/5210961007 | Encora | QA Automation Engineer (exp. con AWS) — Skipped 2026-08-17: off-geo — Peru
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5178606007 | Encora | Senior Integration Engineer (Python) — reachable ✓ but BORDERLINE — Colombia-eligible (Bolivia/Colombia/CostaRica/Peru), but Python dev-integration role, not test/QA — confirm interest
+- [!] https://job-boards.greenhouse.io/encora10/jobs/5210832007 | Encora | Senior QA Automation Engineer — Skipped 2026-08-17: off-geo — Peru
+- [!] https://job-boards.greenhouse.io/encora10/jobs/5211527007 | Encora | Senior QAS Automation Engineer  — Skipped 2026-08-17: off-geo — Peru
+- [!] https://www.coinbase.com/careers/positions/8095207?gh_jid=8095207 | Coinbase | Senior IT Automation Engineer — Skipped 2026-08-17: off-geo (Remote-USA) + IT automation, not software QA
+- [!] https://boards.greenhouse.io/robinhood/jobs/7739588?t=gh_src=&gh_jid=7739588 | Robinhood | Quality Engineer, Mobile — Skipped 2026-08-17: off-geo — Toronto, Canada
+- [!] https://job-boards.greenhouse.io/upgrade/jobs/4724367005 | Upgrade | Senior QA Automation Developer (Platform) — Skipped 2026-08-17: off-geo — Canada (Remote)
+- [!] https://job-boards.greenhouse.io/upgrade/jobs/4724383005 | Upgrade | Senior QA Automation Engineer (Platform) — Skipped 2026-08-17: off-geo — United States (Remote)
+
+- [!] https://job-boards.greenhouse.io/encora10/jobs/5210896007 | Encora | Senior QA Automation Engineer — Skipped 2026-08-18: off-geo via location_filter — Peru
+- [!] https://jobs.lever.co/distro/b768157f-e6fe-467f-9500-1fb15d5e0fd7 | Distro | Senior QA Engineer, Report Center — Skipped 2026-08-18: off-geo via location_filter — Noida, India
+- [ ] https://job-boards.greenhouse.io/upgrade/jobs/4725085005 | Upgrade | Senior QA Automation Engineer - Product (LATAM) — reachable ✓ but verify Colombia eligibility (LATAM-tagged; posting shard says Argentina-Remote)
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
