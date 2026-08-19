@@ -283,6 +283,8 @@
 - [!] https://jobs.lever.co/distro/b768157f-e6fe-467f-9500-1fb15d5e0fd7 | Distro | Senior QA Engineer, Report Center — Skipped 2026-08-18: off-geo via location_filter — Noida, India
 - [ ] https://job-boards.greenhouse.io/upgrade/jobs/4725085005 | Upgrade | Senior QA Automation Engineer - Product (LATAM) — reachable ✓ but verify Colombia eligibility (LATAM-tagged; posting shard says Argentina-Remote)
 
+- [!] https://job-boards.greenhouse.io/encora10/jobs/5211395007 | Encora | Senior QA Automation Engineer — Skipped 2026-08-19: off-geo via location_filter — Peru (recurring Encora Peru repost)
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
