@@ -249,6 +249,8 @@
 
 - [ ] https://job-boards.greenhouse.io/santex/jobs/8694412002 | Santex | Senior QA Automation
 
+- [ ] https://jobs.lever.co/distro/b768157f-e6fe-467f-9500-1fb15d5e0fd7 | Distro | Senior QA Engineer, Report Center
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
