@@ -285,6 +285,12 @@
 
 - [!] https://job-boards.greenhouse.io/encora10/jobs/5211395007 | Encora | Senior QA Automation Engineer — Skipped 2026-08-19: off-geo via location_filter — Peru (recurring Encora Peru repost)
 
+- [ ] https://job-boards.greenhouse.io/coherehealth/jobs/7719450003 | Cohere Health | Sr. SDET Engineer
+
+- [ ] https://jobs.lever.co/ciandt/3c92f6bc-33cc-46e8-a740-970ee9b6c317 | CI&T | [Job- 30880] QA Automation Engineer Mid-Level, Brazil
+
+- [ ] https://jobs.lever.co/ciandt/e6c28f24-c7b3-4de3-8c81-353aa86c0043 | CI&T | [Job-30854] AI SDET (Software Development Engineer in Test)
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
