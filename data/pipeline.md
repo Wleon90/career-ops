@@ -294,6 +294,12 @@
 - [ ] https://job-boards.greenhouse.io/encora10/jobs/5211396007 | Encora | Senior QA Automation Engineer
 - [ ] https://job-boards.greenhouse.io/goodsservices/jobs/7898737003 | Goods & Services | Senior SDET
 
+- [ ] https://jobs.lever.co/oowlish/7e8c3071-c553-4646-afe1-e8530aa0997f | Oowlish | SDET – Regression Automation Engineer
+- [ ] https://jobs.lever.co/ciandt/13d8f998-d356-4ca8-b9c2-df36dfda935c | CI&T | [Job - 30093] QA Automation, Brazil
+- [ ] https://jobs.lever.co/ciandt/f65598f1-fa66-4117-aff3-3d50f969e2ac | CI&T | [Job 31214] Mid Level QA Automation, Brazil
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5210346007 | Encora | Senior QA Automation Engineer
+- [ ] https://job-boards.greenhouse.io/insightassurance/jobs/5386797008 | Insight Assurance | Ethical Hacker/Pentester Mid Level (2+ Years) - LATAM 
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
