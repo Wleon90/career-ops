@@ -303,6 +303,8 @@
 - [ ] https://jobs.lever.co/oowlish/bb16f212-cc42-4c8a-8b48-6149ba2ced0a | Oowlish | SDET – Regression Automation Engineer
 - [ ] https://jobs.lever.co/bluecoding/6dafb81b-8786-4d90-b6ff-233d5bc58775 | Blue Coding | QA Automation Engineer (A)
 
+- [ ] https://www.samsara.com/company/careers/roles/8141615?gh_jid=8141615 | Samsara | Solutions Integration Engineer II
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
