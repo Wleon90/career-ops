@@ -305,6 +305,8 @@
 
 - [ ] https://www.samsara.com/company/careers/roles/8141615?gh_jid=8141615 | Samsara | Solutions Integration Engineer II
 
+- [ ] https://job-boards.greenhouse.io/nortal/jobs/5212384007 | Nortal | (1536) Senior QA Engineer
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
