@@ -307,6 +307,10 @@
 
 - [ ] https://job-boards.greenhouse.io/nortal/jobs/5212384007 | Nortal | (1536) Senior QA Engineer
 
+- [ ] https://jobs.lever.co/ciandt/17d5bfb3-2af2-48fd-9adf-abb35e1b175e | CI&T | [Job- 31319] Tester Senior/Master
+- [ ] https://job-boards.greenhouse.io/nortal/jobs/5220604007 | Nortal | (1544) Senior AEM QA Automation Engineer 
+- [ ] https://job-boards.greenhouse.io/nortal/jobs/5220608007 | Nortal | (1545) Lead AEM QA Automation Engineer
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
