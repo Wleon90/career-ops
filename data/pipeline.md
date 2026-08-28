@@ -311,6 +311,11 @@
 - [ ] https://job-boards.greenhouse.io/nortal/jobs/5220604007 | Nortal | (1544) Senior AEM QA Automation Engineer 
 - [ ] https://job-boards.greenhouse.io/nortal/jobs/5220608007 | Nortal | (1545) Lead AEM QA Automation Engineer
 
+- [ ] https://job-boards.greenhouse.io/clara/jobs/5225032007 | Clara | AI Growth Automation Engineer - Bogotá (Hybrid)
+- [ ] https://job-boards.greenhouse.io/clara/jobs/5225033007 | Clara | AI Growth Automation Engineer - Buenos Aires (Hybrid)
+- [ ] https://job-boards.greenhouse.io/clara/jobs/5224993007 | Clara | AI Growth Automation Engineer - Mexico City (Hybrid)
+- [ ] https://job-boards.greenhouse.io/clara/jobs/5225034007 | Clara | AI Growth Automation Engineer - São Paulo (Hybrid)
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
