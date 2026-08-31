@@ -316,6 +316,9 @@
 - [ ] https://job-boards.greenhouse.io/clara/jobs/5224993007 | Clara | AI Growth Automation Engineer - Mexico City (Hybrid)
 - [ ] https://job-boards.greenhouse.io/clara/jobs/5225034007 | Clara | AI Growth Automation Engineer - São Paulo (Hybrid)
 
+- [ ] https://www.riskified.com/careers/job-description/?gh_jid=8603418002 | Riskified | Data Integration Engineer 
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5223076007 | Encora | Senior QA Test Automation Engineer
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
