@@ -319,6 +319,11 @@
 - [ ] https://www.riskified.com/careers/job-description/?gh_jid=8603418002 | Riskified | Data Integration Engineer 
 - [ ] https://job-boards.greenhouse.io/encora10/jobs/5223076007 | Encora | Senior QA Test Automation Engineer
 
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5227181007 | Encora | Automation Tester – Telecom / SIP
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5227293007 | Encora | Senior QA Automation
+- [ ] https://jobs.lever.co/distro/37105394-512c-4e51-863d-39fddde358ef | Distro | Automation Quality Engineer
+- [ ] https://jobs.lever.co/distro/8e0fdcbb-72e9-445f-a3fb-c4ba058656ae | Distro | Payroll QA Analyst
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
