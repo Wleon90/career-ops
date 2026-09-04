@@ -324,6 +324,14 @@
 - [ ] https://jobs.lever.co/distro/37105394-512c-4e51-863d-39fddde358ef | Distro | Automation Quality Engineer
 - [ ] https://jobs.lever.co/distro/8e0fdcbb-72e9-445f-a3fb-c4ba058656ae | Distro | Payroll QA Analyst
 
+- [ ] https://jobs.lever.co/ciandt/cdf4462f-456b-425e-ad4e-ddebaa6386bd | CI&T | [Job - 31295] Mid Level SDET
+- [ ] https://jobs.lever.co/ciandt/7e9e4886-089e-4980-a86a-bdf988466e3e | CI&T | [Job - 31408] Senior QA Automation
+- [ ] https://jobs.lever.co/ciandt/2a9cead3-f23d-43a8-aa33-462e9b2e5d08 | CI&T | [Job-31283] Mid level Tester (QA) Automation, Brazil
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5222620007 | Encora | Analista QA Funcional
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5222425007 | Encora | Analista QA Funcional Semi Senior
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5218956007 | Encora | Ingeniero QA Senior
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5208281007 | Encora | Ingeniero QA Senior – Automation
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
