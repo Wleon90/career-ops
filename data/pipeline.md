@@ -335,6 +335,12 @@
 - [ ] https://job-boards.greenhouse.io/encora10/jobs/5220150007 | Encora | Analista QA Funcional Semi Senior
 - [ ] https://jobs.lever.co/ciandt/fc86af57-dc2c-4362-8383-be0b8804dd09 | CI&T | [Job-31399] Mid -Level QA Automation
 
+- [ ] https://www.payoneer.com/careers/position/8185359/?gh_jid=8185359 | Payoneer | Platform Enablement & Automation Engineer
+- [ ] https://job-boards.greenhouse.io/coherehealth/jobs/7980595003 | Cohere Health | Intake Quality Assurance Specialist
+- [ ] https://job-boards.greenhouse.io/enumerate/jobs/4394392009 | Enumerate | QA Manual Test Engineer
+- [ ] https://jobs.lever.co/ciandt/ddfb5483-c9ea-4e8e-9b2e-07386eb55390 | CI&T | [Job-31548] Senior QA Engineer
+- [ ] https://jobs.lever.co/ciandt/034402ef-b381-4f77-ae22-f87884179855 | CI&T | [Job-31549] Senior QA Engineer
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
