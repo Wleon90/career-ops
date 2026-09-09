@@ -341,6 +341,10 @@
 - [ ] https://jobs.lever.co/ciandt/ddfb5483-c9ea-4e8e-9b2e-07386eb55390 | CI&T | [Job-31548] Senior QA Engineer
 - [ ] https://jobs.lever.co/ciandt/034402ef-b381-4f77-ae22-f87884179855 | CI&T | [Job-31549] Senior QA Engineer
 
+- [ ] https://www.samsara.com/company/careers/roles/8139255?gh_jid=8139255 | Samsara | Senior Manager, Quality Engineering
+- [ ] https://www.payoneer.com/careers/position/8185468/?gh_jid=8185468 | Payoneer | Automation Engineer
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5211458007 | Encora | Mid QA Engineer (exp. en testing mobile)
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
