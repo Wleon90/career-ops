@@ -345,6 +345,16 @@
 - [ ] https://www.payoneer.com/careers/position/8185468/?gh_jid=8185468 | Payoneer | Automation Engineer
 - [ ] https://job-boards.greenhouse.io/encora10/jobs/5211458007 | Encora | Mid QA Engineer (exp. en testing mobile)
 
+- [ ] https://www.samsara.com/company/careers/roles/8172413?gh_jid=8172413 | Samsara | Solutions Integration Engineer III
+- [ ] https://jobs.lever.co/ciandt/dd0c375a-7384-40ca-a0b8-147dece84b94 | CI&T | [Job-31497] QA Automation , Mid Level | Brazil
+- [ ] https://jobs.lever.co/distro/4fe56b5a-bea9-4c06-94e3-b9f828e8dbf8 | Distro | Quality Assurance Technician
+- [ ] https://jobs.lever.co/Ubiminds/dd0ba69f-e9c9-4781-92cd-5bb807e8cd08 | Ubiminds | QA / Test Engineer (3 months +) (574)
+- [ ] https://jobs.lever.co/Ubiminds/554275b3-a148-4a6b-80df-0bcefb8dbdbd | Ubiminds | QA / Test Engineer (573)
+- [ ] https://jobs.lever.co/Ubiminds/d8a8d57f-593f-47f0-8531-d9ec425feb8a | Ubiminds | QA Lead (572)
+- [ ] https://jobs.lever.co/Ubiminds/1af7e355-475c-422b-b2ea-c93f17d6d9fb | Ubiminds | Senior QA / Test Engineer - 12 Weeks (570)
+- [ ] https://jobs.lever.co/Ubiminds/65b3af3a-4aa5-4412-9ae2-0fea4deb0b33 | Ubiminds | Senior QA / Test Engineer - 12 Weeks (571)
+- [ ] https://jobs.lever.co/Ubiminds/6d0ec131-6d31-4947-a9f2-1a4fefc38727 | Ubiminds | Senior Security / QA Lead - 12 Weeks (569)
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
