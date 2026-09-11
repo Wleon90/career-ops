@@ -355,6 +355,8 @@
 - [ ] https://jobs.lever.co/Ubiminds/65b3af3a-4aa5-4412-9ae2-0fea4deb0b33 | Ubiminds | Senior QA / Test Engineer - 12 Weeks (571)
 - [ ] https://jobs.lever.co/Ubiminds/6d0ec131-6d31-4947-a9f2-1a4fefc38727 | Ubiminds | Senior Security / QA Lead - 12 Weeks (569)
 
+- [ ] https://jobs.lever.co/RyzLabs/94f236ff-f720-4c64-828c-f65270da0a22 | RYZ Labs | Sr QA Engineer
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
