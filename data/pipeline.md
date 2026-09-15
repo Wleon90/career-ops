@@ -357,6 +357,8 @@
 
 - [ ] https://jobs.lever.co/RyzLabs/94f236ff-f720-4c64-828c-f65270da0a22 | RYZ Labs | Sr QA Engineer
 
+- [ ] https://jobs.lever.co/ciandt/533a1ec4-5ca1-43e3-9d2a-4ce041c83d70 | CI&T | [Job - 31652] Sr. QA Automation, Brazil
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
