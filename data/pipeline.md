@@ -359,6 +359,8 @@
 
 - [ ] https://jobs.lever.co/ciandt/533a1ec4-5ca1-43e3-9d2a-4ce041c83d70 | CI&T | [Job - 31652] Sr. QA Automation, Brazil
 
+- [ ] https://job-boards.greenhouse.io/coherehealth/jobs/7693298003 | Cohere Health | Associate SDET Engineer
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
