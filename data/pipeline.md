@@ -364,6 +364,16 @@
 - [ ] https://jobs.lever.co/ciandt/719c699a-5a47-480e-9b10-1c15547c87b0 | CI&T | [Job-31777] Mid Level QA Automation, Brasil
 - [ ] https://job-boards.greenhouse.io/goodsservices/jobs/7999817003 | Goods & Services | Senior QA Engineer - Manual & Automation
 
+- [ ] https://jobs.lever.co/ciandt/69dc678f-f4d6-4bea-a4e7-3922e83090d7 | CI&T | [Job - 31811]  Mid-Level Quality Engineer, Brazil
+- [ ] https://jobs.lever.co/distro/f397b2d8-4ec6-41d7-ad00-cd2cf1e1f21f | Distro | Lead Automation Engineer (Copy)
+- [ ] https://jobs.lever.co/distro/1b542a5c-7169-4098-b3b3-f7fd06176f71 | Distro | QA Automation Engineer (Senior to Staff level)
+- [ ] https://jobs.lever.co/distro/2746742a-62fb-4cac-9ad9-ea9b14bbd648 | Distro | Quality Assurance Engineer (Payroll & Benefits)
+- [ ] https://jobs.lever.co/distro/3c2854d2-7775-425a-99eb-5175eea3dae4 | Distro | Senior QA Engineer, Report Center
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5247329007 | Encora | Lead QA Automation
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5247343007 | Encora | Senior QA Automation
+- [ ] https://job-boards.greenhouse.io/upgrade/jobs/4724366005 | Upgrade | Senior QA Automation Developer (HELOC)
+- [ ] https://job-boards.greenhouse.io/upgrade/jobs/4724382005 | Upgrade | Senior QA Automation Engineer (HELOC)
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
