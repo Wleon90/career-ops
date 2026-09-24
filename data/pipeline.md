@@ -374,6 +374,10 @@
 - [ ] https://job-boards.greenhouse.io/upgrade/jobs/4724366005 | Upgrade | Senior QA Automation Developer (HELOC)
 - [ ] https://job-boards.greenhouse.io/upgrade/jobs/4724382005 | Upgrade | Senior QA Automation Engineer (HELOC)
 
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5248279007 | Encora | AI Integration Engineer
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5231972007 | Encora | Salesforce QA Analyst
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5247382007 | Encora | Senior QA Automation
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
