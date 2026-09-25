@@ -378,6 +378,12 @@
 - [ ] https://job-boards.greenhouse.io/encora10/jobs/5231972007 | Encora | Salesforce QA Analyst
 - [ ] https://job-boards.greenhouse.io/encora10/jobs/5247382007 | Encora | Senior QA Automation
 
+- [ ] https://jobs.ashbyhq.com/truelogic/dacb0ef3-9de3-47f9-94dc-b082de6e2d01 | Truelogic | Senior QA Automation Engineer (JavaScript/TypeScript) - HospitalityTech
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5239271007 | Encora | Senior Integration Engineer (Connectors & APIs)
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5242183007 | Encora | Senior QA Engineer
+- [ ] https://jobs.lever.co/ciandt/be8d321b-d604-4efd-b23b-c795c81d2db1 | CI&T | [Job - 31876] QA Automation Tester (Hybrid)
+- [ ] https://jobs.lever.co/ciandt/7754c754-1a88-44d7-8a25-ba034cafc07e | CI&T | [Job- 31929] - QA Automation Tester
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
