@@ -384,6 +384,9 @@
 - [ ] https://jobs.lever.co/ciandt/be8d321b-d604-4efd-b23b-c795c81d2db1 | CI&T | [Job - 31876] QA Automation Tester (Hybrid)
 - [ ] https://jobs.lever.co/ciandt/7754c754-1a88-44d7-8a25-ba034cafc07e | CI&T | [Job- 31929] - QA Automation Tester
 
+- [ ] https://jobs.ashbyhq.com/truelogic/a0c993a3-9faa-4064-8b71-f43871b6e2cb | Truelogic | Senior QA Automation Engineer (JavaScript/TypeScript) - HospitalityTech
+- [ ] https://job-boards.greenhouse.io/goodsservices/jobs/8005861003 | Goods & Services | Lead SDET
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
