@@ -387,6 +387,11 @@
 - [ ] https://jobs.ashbyhq.com/truelogic/a0c993a3-9faa-4064-8b71-f43871b6e2cb | Truelogic | Senior QA Automation Engineer (JavaScript/TypeScript) - HospitalityTech
 - [ ] https://job-boards.greenhouse.io/goodsservices/jobs/8005861003 | Goods & Services | Lead SDET
 
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5244136007 | Encora | QA Automation Senior
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5236013007 | Encora | Quality Engineering Automation
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5244652007 | Encora | Quality Engineering Performance
+- [ ] https://jobs.lever.co/ciandt/75a2e815-921e-44a0-acbb-9cf4baf56223 | CI&T | [Job-31979] Senior QA Automation, Campinas, Brazil (On-site)
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
