@@ -396,6 +396,10 @@
 - [ ] https://job-boards.greenhouse.io/encora10/jobs/5236007007 | Encora | Quality Engineering Automation
 - [ ] https://job-boards.greenhouse.io/newrelic/jobs/5424222008 | New Relic | QA Engineer - O2C & Enterprise Billing Testing
 
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5244137007 | Encora | QA Automation Senior
+- [ ] https://job-boards.greenhouse.io/goodsservices/jobs/8008856003 | Goods & Services | Senior QA Automation Engineer (Appium & Playwright)
+- [ ] https://job-boards.greenhouse.io/goodsservices/jobs/8008858003 | Goods & Services | Senior QA Engineer – Manual & Automation
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
