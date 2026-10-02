@@ -400,6 +400,9 @@
 - [ ] https://job-boards.greenhouse.io/goodsservices/jobs/8008856003 | Goods & Services | Senior QA Automation Engineer (Appium & Playwright)
 - [ ] https://job-boards.greenhouse.io/goodsservices/jobs/8008858003 | Goods & Services | Senior QA Engineer – Manual & Automation
 
+- [ ] https://jobs.lever.co/ciandt/0b061ce1-8b23-4d8c-90e9-09b040eac5b8 | CI&T | [Job-32079] Senior Backend / Integration Engineer, Brazil
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5242964007 | Encora | QA Automation Senior
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
