@@ -406,6 +406,12 @@
 - [ ] https://job-boards.greenhouse.io/encora10/jobs/5244127007 | Encora | QA Automation Senior
 - [ ] https://jobs.lever.co/ciandt/41748daa-ee07-4889-80ec-b228f17a352c | CI&T | [Job - 32111] QA Automation Senior, Brazil
 
+- [ ] https://job-boards.greenhouse.io/clara/jobs/5257213007 | Clara | QA Automation Lead (Líder de Automatización de QA) - Remote First
+- [ ] https://job-boards.greenhouse.io/clara/jobs/5257408007 | Clara | Software Engineer in Test (SDET) (Ingeniero de Software en Pruebas) - Remote First
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5249236007 | Encora | Senior QA Automation Engineer
+- [ ] https://job-boards.greenhouse.io/nortal/jobs/5257248007 | Nortal | (1601) Senior Data Platform and Automation Engineer
+- [ ] https://jobs.lever.co/ciandt/76085f9a-56eb-4e16-804d-caececaa8e3e | CI&T | [Job- 30880] QA Automation Engineer Mid-Level, Brazil
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
