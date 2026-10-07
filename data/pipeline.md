@@ -412,6 +412,11 @@
 - [ ] https://job-boards.greenhouse.io/nortal/jobs/5257248007 | Nortal | (1601) Senior Data Platform and Automation Engineer
 - [ ] https://jobs.lever.co/ciandt/76085f9a-56eb-4e16-804d-caececaa8e3e | CI&T | [Job- 30880] QA Automation Engineer Mid-Level, Brazil
 
+- [ ] https://jobs.lever.co/ciandt/f5855307-9206-466d-abda-6c53f1f99231 | CI&T | [Job 32174] QA Automation / Performance Engineer Sênior
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5260246007 | Encora | Semi Senior Quality Engineering Automation
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5260162007 | Encora | Senior QA Automation
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5260240007 | Encora | Senior Quality Engineering Automation
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
