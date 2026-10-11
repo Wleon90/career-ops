@@ -429,6 +429,9 @@
 - [ ] https://job-boards.greenhouse.io/encora10/jobs/5262768007 | Encora | Senior QA Engineer
 - [ ] https://job-boards.greenhouse.io/goodsservices/jobs/8020714003 | Goods & Services | Senior Data Warehouse and Integration Engineer
 
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5262792007 | Encora | Intelligent Automation Engineer
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5253883007 | Encora | Senior QA Engineer
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
