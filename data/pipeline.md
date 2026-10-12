@@ -432,6 +432,16 @@
 - [ ] https://job-boards.greenhouse.io/encora10/jobs/5262792007 | Encora | Intelligent Automation Engineer
 - [ ] https://job-boards.greenhouse.io/encora10/jobs/5253883007 | Encora | Senior QA Engineer
 
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5253603007 | Encora | Analista QA Funcional Senior
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5262791007 | Encora | Intelligent Automation Engineer
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5263270007 | Encora |  Senior AI Integration Engineer
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5246838007 | Encora | Senior AI Integration Engineer
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5263300007 | Encora |  Senior AI QA Automation Engineer
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5246840007 | Encora | Senior AI QA Automation Engineer
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5262778007 | Encora | Senior QA Engineer
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5263373007 | Encora |  Senior SDET (Earnix)
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5262767007 | Encora | Senior SDET (Earnix)
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
