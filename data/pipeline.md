@@ -451,6 +451,11 @@
 - [ ] https://job-boards.greenhouse.io/encora10/jobs/5263369007 | Encora |  Senior SDET (Earnix)
 - [ ] https://job-boards.greenhouse.io/encora10/jobs/5263370007 | Encora | Senior SDET (Earnix)
 
+- [ ] https://jobs.ashbyhq.com/truelogic/26a796cf-342f-4841-984f-48a09fab8ea2 | Truelogic | Senior Automation QA Engineer - Entertainment Industry
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5263273007 | Encora | Senior AI Integration Engineer
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5263299007 | Encora | Senior AI QA Automation Engineer
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5262775007 | Encora | Senior QA Engineer
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
