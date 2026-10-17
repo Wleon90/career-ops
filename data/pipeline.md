@@ -459,6 +459,12 @@
 - [ ] https://job-boards.greenhouse.io/encora10/jobs/5265759007 | Encora | Senior QA Automation Engineer (mobile testing)
 - [ ] https://jobs.lever.co/ciandt/5f2c0739-048a-4c6a-85d0-3a1796089b55 | CI&T | [Job - 32255]  Senior SDET, Brazil
 
+- [ ] https://jobs.ashbyhq.com/truelogic/f7d4fb39-dee6-47fd-87d8-7aaa03b55bf9 | Truelogic | QA Automation Engineer - Digital Media & Advertising - Brazil
+- [ ] https://jobs.ashbyhq.com/truelogic/f43002f8-d98a-4d8f-9145-cc249ccc3d77 | Truelogic | QA Automation Engineer - Digital Media & Advertising - Colombia
+- [ ] https://jobs.ashbyhq.com/truelogic/c8e07e83-44df-462c-814e-f33d812a0cd1 | Truelogic | QA Automation Engineer - Digital Media & Advertising - Mexico
+- [ ] https://jobs.ashbyhq.com/truelogic/56462efb-f8df-42a1-93b4-a53106855c75 | Truelogic | QA Automation Engineer - Digital Media & Advertising - Santo Domingo
+- [ ] https://jobs.ashbyhq.com/truelogic/ce748bc0-5484-4729-a7b3-94d0c1dbebcc | Truelogic | QA Automation Engineer - Digital Media & Advertising
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
