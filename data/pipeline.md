@@ -465,6 +465,8 @@
 - [ ] https://jobs.ashbyhq.com/truelogic/56462efb-f8df-42a1-93b4-a53106855c75 | Truelogic | QA Automation Engineer - Digital Media & Advertising - Santo Domingo
 - [ ] https://jobs.ashbyhq.com/truelogic/ce748bc0-5484-4729-a7b3-94d0c1dbebcc | Truelogic | QA Automation Engineer - Digital Media & Advertising
 
+- [ ] https://www.riskified.com/careers/job-description/?gh_jid=8859701002 | Riskified | Integration Engineer 
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
