@@ -467,6 +467,12 @@
 
 - [ ] https://www.riskified.com/careers/job-description/?gh_jid=8859701002 | Riskified | Integration Engineer 
 
+- [ ] https://www.payoneer.com/careers/position/8284892/?gh_jid=8284892 | Payoneer | Integration Engineer
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5270026007 | Encora | Mid QA Automation Engineer
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5269955007 | Encora | Senior IAM QA Engineer
+- [ ] https://jobs.lever.co/oowlish/96cd75f8-f887-4c7e-8a6c-ddb33d7d9cda | Oowlish | Senior Kafka/AWS Integration Engineer
+- [ ] https://job-boards.greenhouse.io/goodsservices/jobs/8038154003 | Goods & Services | Senior SDET Lead – Mobile, Web & AI-Driven Automation
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
