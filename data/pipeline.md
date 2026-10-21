@@ -473,6 +473,11 @@
 - [ ] https://jobs.lever.co/oowlish/96cd75f8-f887-4c7e-8a6c-ddb33d7d9cda | Oowlish | Senior Kafka/AWS Integration Engineer
 - [ ] https://job-boards.greenhouse.io/goodsservices/jobs/8038154003 | Goods & Services | Senior SDET Lead – Mobile, Web & AI-Driven Automation
 
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5270119007 | Encora | Senior Performance QA Engineer
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5270573007 | Encora | Senior QA Automation Engineer
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5271142007 | Encora | Senior QA Engineer
+- [ ] https://jobs.lever.co/ciandt/89d13be6-3c6f-457b-b564-a3ecefee494b | CI&T | [Job-32343] Mid level QA Automation, Vaga para pessoas PCD - Brazil
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
