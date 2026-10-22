@@ -478,6 +478,14 @@
 - [ ] https://job-boards.greenhouse.io/encora10/jobs/5271142007 | Encora | Senior QA Engineer
 - [ ] https://jobs.lever.co/ciandt/89d13be6-3c6f-457b-b564-a3ecefee494b | CI&T | [Job-32343] Mid level QA Automation, Vaga para pessoas PCD - Brazil
 
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5271902007 | Encora | Senior AI Integration Engineer
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5270127007 | Encora | Senior Performance QA Engineer
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5271130007 | Encora | Senior QA Automation Engineer
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5272559007 | Encora | Senior QA Automation Engineer (exp. mobile testing)
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5271859007 | Encora | Senior QA Engineer
+- [ ] https://job-boards.greenhouse.io/praxent/jobs/8040468003 | Praxent | LATAM Senior QA Analyst (Data & ETL)
+- [ ] https://jobs.lever.co/ciandt/8e84b36b-2a09-4c41-9f09-c31c2c37b62c | CI&T | [Job-32334] Tester Engineer para SDLC Agêntico, Brasil
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
