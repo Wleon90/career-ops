@@ -486,6 +486,12 @@
 - [ ] https://job-boards.greenhouse.io/praxent/jobs/8040468003 | Praxent | LATAM Senior QA Analyst (Data & ETL)
 - [ ] https://jobs.lever.co/ciandt/8e84b36b-2a09-4c41-9f09-c31c2c37b62c | CI&T | [Job-32334] Tester Engineer para SDLC Agêntico, Brasil
 
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5269759007 | Encora | Mid QA Engineer
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5271494007 | Encora | QA Automation Mid
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5271102007 | Encora | Senior QA Automation Engineer
+- [ ] https://job-boards.greenhouse.io/praxent/jobs/8040233003 | Praxent | LATAM Senior QA Automation Engineer 
+- [ ] https://jobs.lever.co/distro/6d439191-3a18-444b-8564-bc313ed2729d | Distro | QA Analyst - Benefits
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
