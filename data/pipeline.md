@@ -492,6 +492,8 @@
 - [ ] https://job-boards.greenhouse.io/praxent/jobs/8040233003 | Praxent | LATAM Senior QA Automation Engineer 
 - [ ] https://jobs.lever.co/distro/6d439191-3a18-444b-8564-bc313ed2729d | Distro | QA Analyst - Benefits
 
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5270110007 | Encora | Senior QA Automation Engineer
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
