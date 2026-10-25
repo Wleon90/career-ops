@@ -494,6 +494,9 @@
 
 - [ ] https://job-boards.greenhouse.io/encora10/jobs/5270110007 | Encora | Senior QA Automation Engineer
 
+- [ ] https://www.payoneer.com/careers/position/8303989/?gh_jid=8303989 | Payoneer | Senior Software Integration Engineer
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5271090007 | Encora | Senior QA Automation Engineer
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
