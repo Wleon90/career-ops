@@ -497,6 +497,8 @@
 - [ ] https://www.payoneer.com/careers/position/8303989/?gh_jid=8303989 | Payoneer | Senior Software Integration Engineer
 - [ ] https://job-boards.greenhouse.io/encora10/jobs/5271090007 | Encora | Senior QA Automation Engineer
 
+- [ ] https://jobs.lever.co/ciandt/3c11aa2b-cf82-4fa2-803b-7f2993d916e4 | CI&T | [Job-32369]  Mid-Level Quality Assurance Automation, Brazil
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
