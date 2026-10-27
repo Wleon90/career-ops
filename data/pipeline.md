@@ -499,6 +499,11 @@
 
 - [ ] https://jobs.lever.co/ciandt/3c11aa2b-cf82-4fa2-803b-7f2993d916e4 | CI&T | [Job-32369]  Mid-Level Quality Assurance Automation, Brazil
 
+- [ ] https://job-boards.greenhouse.io/nortal/jobs/5275419007 | Nortal | (1615) Quality Engineer
+- [ ] https://boards.greenhouse.io/figma/jobs/6233040004?gh_jid=6233040004 | Figma | Data & Integration Engineer, Business Systems
+- [ ] https://jobs.lever.co/distro/7a43354b-b674-4af4-aa7e-de7050b9d624 | Distro | QA Engineer - Payroll
+- [ ] https://jobs.lever.co/ciandt/a5fc94bd-f4b2-4fc4-925a-3ac807822dee | CI&T | [Job - 32452] Mid-Level QA Engineer, Brazil
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
