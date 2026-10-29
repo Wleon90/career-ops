@@ -504,6 +504,9 @@
 - [ ] https://jobs.lever.co/distro/7a43354b-b674-4af4-aa7e-de7050b9d624 | Distro | QA Engineer - Payroll
 - [ ] https://jobs.lever.co/ciandt/a5fc94bd-f4b2-4fc4-925a-3ac807822dee | CI&T | [Job - 32452] Mid-Level QA Engineer, Brazil
 
+- [ ] https://jobs.ashbyhq.com/truelogic/82ca7572-fb01-4ae1-85e6-abaceb4e766f | Truelogic | Senior Automation QA Engineer - Entertainment Industry
+- [ ] https://jobs.lever.co/ciandt/4490df93-a695-47a2-a463-f6e8a621d80e | CI&T | [Job 32033] Mid Level QA Automation, Brazil
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
