@@ -507,6 +507,8 @@
 - [ ] https://jobs.ashbyhq.com/truelogic/82ca7572-fb01-4ae1-85e6-abaceb4e766f | Truelogic | Senior Automation QA Engineer - Entertainment Industry
 - [ ] https://jobs.lever.co/ciandt/4490df93-a695-47a2-a463-f6e8a621d80e | CI&T | [Job 32033] Mid Level QA Automation, Brazil
 
+- [ ] https://jobs.ashbyhq.com/trulioo/7b0ab333-099c-4972-8139-b43c1c150168 | Trulioo | Quality Assurance Engineer
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
