@@ -513,6 +513,8 @@
 - [ ] https://jobs.lever.co/ciandt/ab7e7435-2634-47eb-af0e-06992227bdfc | CI&T | [Job-32536] Mid Level QA Automation, Brazil
 - [ ] https://job-boards.greenhouse.io/encora10/jobs/5283140007 | Encora | Senior QA Automation
 
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5284693007 | Encora | Senior QA Automation Engineer
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
