@@ -525,6 +525,13 @@
 
 - [ ] https://job-boards.greenhouse.io/encora10/jobs/5286105007 | Encora | Senior QA Automation Engineer
 
+- [ ] https://jobs.lever.co/ciandt/ab8deb9c-93bb-4529-9300-d419a4d2b143 | CI&T | [Job-32556] Senior QA Automation, Campinas, Brazil (On-site)
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5257734007 | Encora | Quality Engineering Automation
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5259491007 | Encora | Quality Engineer Performance
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5286045007 | Encora | Senior QA Automation Engineer
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5263777007 | Encora | Senior QA Engineer
+- [ ] https://job-boards.greenhouse.io/nortal/jobs/5266716007 | Nortal | (1603) Senior MarTech Integration Engineer (Adobe Ecosystem)
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
