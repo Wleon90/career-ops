@@ -532,6 +532,9 @@
 - [ ] https://job-boards.greenhouse.io/encora10/jobs/5263777007 | Encora | Senior QA Engineer
 - [ ] https://job-boards.greenhouse.io/nortal/jobs/5266716007 | Nortal | (1603) Senior MarTech Integration Engineer (Adobe Ecosystem)
 
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5257730007 | Encora | Quality Engineering Automation
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5286077007 | Encora | Senior QA Automation Engineer
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
