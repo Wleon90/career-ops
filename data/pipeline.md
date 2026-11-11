@@ -535,6 +535,8 @@
 - [ ] https://job-boards.greenhouse.io/encora10/jobs/5257730007 | Encora | Quality Engineering Automation
 - [ ] https://job-boards.greenhouse.io/encora10/jobs/5286077007 | Encora | Senior QA Automation Engineer
 
+- [ ] https://jobs.lever.co/ciandt/c56b3370-e897-4c85-afc9-eb6797303cb5 | CI&T | [Job - 32612] QA Lead
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
