@@ -537,6 +537,8 @@
 
 - [ ] https://jobs.lever.co/ciandt/c56b3370-e897-4c85-afc9-eb6797303cb5 | CI&T | [Job - 32612] QA Lead
 
+- [ ] https://job-boards.greenhouse.io/santex/jobs/8223158002 | Santex | Senior SDET
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
