@@ -539,6 +539,9 @@
 
 - [ ] https://job-boards.greenhouse.io/santex/jobs/8223158002 | Santex | Senior SDET
 
+- [ ] https://jobs.lever.co/ciandt/9287dcfe-9893-4282-b0d5-70bff29de1b8 | CI&T | [Job-32685] Senior QA Automation, Brazil
+- [ ] https://job-boards.greenhouse.io/coherehealth/jobs/8203571003 | Cohere Health | Client Support QA Engineer
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
