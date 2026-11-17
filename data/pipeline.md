@@ -542,6 +542,8 @@
 - [ ] https://jobs.lever.co/ciandt/9287dcfe-9893-4282-b0d5-70bff29de1b8 | CI&T | [Job-32685] Senior QA Automation, Brazil
 - [ ] https://job-boards.greenhouse.io/coherehealth/jobs/8203571003 | Cohere Health | Client Support QA Engineer
 
+- [ ] https://jobs.lever.co/Ubiminds/b048d63b-eede-427b-b479-5b642357dde7 | Ubiminds | Senior Test Automation Engineer (001)
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
