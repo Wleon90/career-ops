@@ -544,6 +544,11 @@
 
 - [ ] https://jobs.lever.co/Ubiminds/b048d63b-eede-427b-b479-5b642357dde7 | Ubiminds | Senior Test Automation Engineer (001)
 
+- [ ] https://moduscreate.com/careers/8208507003?gh_jid=8208507003 | Modus Create | Principal Quality Engineer (AI-Assisted & Agentic Testing)
+- [ ] https://jobs.ashbyhq.com/sardine/4237a126-68f1-495a-b8fc-39f9f59054f1 | Sardine | QA Automation Engineer
+- [ ] https://www.payoneer.com/careers/position/8352345/?gh_jid=8352345 | Payoneer | QA Lead
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5300899007 | Encora | QA Engineer
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
