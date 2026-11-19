@@ -549,6 +549,8 @@
 - [ ] https://www.payoneer.com/careers/position/8352345/?gh_jid=8352345 | Payoneer | QA Lead
 - [ ] https://job-boards.greenhouse.io/encora10/jobs/5300899007 | Encora | QA Engineer
 
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5302475007 | Encora | Senior QA Automation Engineer
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
