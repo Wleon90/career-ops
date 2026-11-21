@@ -555,6 +555,8 @@
 - [ ] https://careers.datadoghq.com/detail/8404061/?gh_jid=8404061 | Datadog | Enterprise Automation Engineer
 - [ ] https://job-boards.greenhouse.io/encora10/jobs/5304117007 | Encora | Senior Integration Engineer (Python)
 
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5304118007 | Encora | Senior Integration Engineer (Python)
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
