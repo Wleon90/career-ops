@@ -559,6 +559,14 @@
 
 - [ ] https://job-boards.greenhouse.io/encora10/jobs/5304116007 | Encora | Senior Integration Engineer (Python)
 
+- [ ] https://job-boards.greenhouse.io/launchpadtechnologiesinc/jobs/4269481006 | Launchpad Technologies | Software Quality Assurance | Talent Community
+- [ ] https://jobs.ashbyhq.com/truelogic/d6470f53-987b-4370-a2da-8870bfd17bcc | Truelogic | Semi Sr. - QA Engineer (Data) – E-Learning
+- [ ] https://jobs.ashbyhq.com/truelogic/41be71a2-b9d2-42c4-a290-50770d0dce71 | Truelogic | Jr. Semi Sr. - QA Engineer (Data) – E-Learning
+- [ ] https://jobs.ashbyhq.com/truelogic/94b554b5-94db-4bae-b5e3-f8f1f72ead7b | Truelogic |  Jr. Semi Sr. - QA Engineer (Data) – E-Learning
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5294988007 | Encora | Analista QA Mid
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5293904007 | Encora | Ingeniero de Calidad de Software
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5274042007 | Encora | Senior Integration Engineer (Python)
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
