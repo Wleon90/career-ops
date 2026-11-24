@@ -567,6 +567,12 @@
 - [ ] https://job-boards.greenhouse.io/encora10/jobs/5293904007 | Encora | Ingeniero de Calidad de Software
 - [ ] https://job-boards.greenhouse.io/encora10/jobs/5274042007 | Encora | Senior Integration Engineer (Python)
 
+- [ ] https://jobs.ashbyhq.com/truelogic/b3d374c7-13df-4212-97b2-1d68ba3172e9 | Truelogic | Quality Engineer (Automation JS/TS) - Software Industry
+- [ ] https://jobs.ashbyhq.com/truelogic/21fdc173-b319-4442-9880-35e1e9ad02a1 | Truelogic | Jr. Semi Sr. - QA Engineer (Data) – E-Learning
+- [ ] https://jobs.ashbyhq.com/truelogic/a9bcd70d-d6e9-4a60-beb8-a9527d2bd47a | Truelogic | Semi Sr. - QA Engineer (Data) – E-Learning
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5308132007 | Encora | Senior Performance QA Engineer
+- [ ] https://jobs.lever.co/ciandt/fe80dbf8-6ce3-4a63-ba8f-d71081a0f5f4 | CI&T | [Job - 32255]  Specialist SDET, Brazil
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
