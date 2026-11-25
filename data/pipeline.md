@@ -573,6 +573,13 @@
 - [ ] https://job-boards.greenhouse.io/encora10/jobs/5308132007 | Encora | Senior Performance QA Engineer
 - [ ] https://jobs.lever.co/ciandt/fe80dbf8-6ce3-4a63-ba8f-d71081a0f5f4 | CI&T | [Job - 32255]  Specialist SDET, Brazil
 
+- [ ] https://jobs.ashbyhq.com/truelogic/f074f844-9b64-4b98-8908-911260b0a8e4 | Truelogic | Jr. Semi Sr. - QA Engineer (Data) – E-Learning
+- [ ] https://jobs.ashbyhq.com/truelogic/ba4872af-fa75-4ec8-91d6-db7bb440a846 | Truelogic | Semi Sr. - QA Engineer (Data) – E-Learning
+- [ ] https://jobs.ashbyhq.com/truelogic/ecaff34c-147c-4506-b058-58ad8fcb1c8c | Truelogic | Senior QA Automation Engineer - Real Estate
+- [ ] https://www.samsara.com/company/careers/roles/8412267?gh_jid=8412267 | Samsara | Solutions Integration Engineer II
+- [ ] https://jobs.lever.co/ciandt/b5368632-5c40-4ad8-bb0f-9637d634f130 | CI&T | [Job-32800] Quality Assurance (QA) | Java & Test Automation, Brazil
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5308130007 | Encora | Senior Performance QA Engineer
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
