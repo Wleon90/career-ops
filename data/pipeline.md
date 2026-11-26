@@ -580,6 +580,11 @@
 - [ ] https://jobs.lever.co/ciandt/b5368632-5c40-4ad8-bb0f-9637d634f130 | CI&T | [Job-32800] Quality Assurance (QA) | Java & Test Automation, Brazil
 - [ ] https://job-boards.greenhouse.io/encora10/jobs/5308130007 | Encora | Senior Performance QA Engineer
 
+- [ ] https://jobs.ashbyhq.com/truelogic/42f908d3-c0b7-40e5-ad6d-96a43808dbcd | Truelogic | Semi Sr. - QA Engineer (Data) – E-Learning
+- [ ] https://jobs.lever.co/ciandt/26ebc2a7-6d2a-4a18-87ca-f9a35c78a27f | CI&T | [ Job - 32443] QA Engineer Pleno | AI-Assisted Quality Engineering, Brazil
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5308135007 | Encora | Senior Performance QA Engineer
+- [ ] https://job-boards.greenhouse.io/nortal/jobs/5309293007 | Nortal | (1641) Senior Adobe Workfront Integration Engineer
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
