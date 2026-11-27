@@ -585,6 +585,8 @@
 - [ ] https://job-boards.greenhouse.io/encora10/jobs/5308135007 | Encora | Senior Performance QA Engineer
 - [ ] https://job-boards.greenhouse.io/nortal/jobs/5309293007 | Nortal | (1641) Senior Adobe Workfront Integration Engineer
 
+- [ ] https://jobs.ashbyhq.com/truelogic/ad4f57af-5a9b-45a2-8b19-2d55065de922 | Truelogic | Semi Sr. - QA Engineer (Data) – E-Learning
+
 ## Procesadas
 
 - [x] #002 | https://remotive.com/remote/jobs/qa/senior-sdet-senior-qa-automation-engineer-4124516 | RapidFort | SR SDET / Sr QA Automation Engineer | 1.5/5 | ❌
